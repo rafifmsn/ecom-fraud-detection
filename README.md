@@ -3,8 +3,6 @@
 
 This repository contains the code, trained model, sample data, and documentation for the project **"Understanding Fraud Signals in E-Commerce: An Interpretable Machine Learning Study."** The study analyzes structural, security, and reputation signals of online shops to detect fraudulent sites using interpretable machine learning. The final deliverable includes a production-ready scoring tool that outputs a fraud probability, a 0–100 risk score, and a tiered risk label (Low / Medium / High).
 
-Full article: [Scribd](https://www.scribd.com/embeds/953317510/content?start_page=1&view_mode=scroll&access_key=key-zKFVa8fKWWQdvcgvxrp1)
-
 ---
 
 ## 🚩 Table of Contents
@@ -18,23 +16,25 @@ Full article: [Scribd](https://www.scribd.com/embeds/953317510/content?start_pag
 - [Model & artifacts](#model--artifacts)  
 - [How scoring works](#how-scoring-works)  
 - [Ethics & limitations](#ethics--limitations)  
-- [License & citation](#license--citation)  
-- [Contact](#contact)
+- [License & citation](#license--citation)
 
 ---
 
 ## Repository structure
 
-├── train/  
-│ ├── fraudulent_online_shops_dataset.csv # original dataset
-│ ├── model.pkl # serialized pipeline (preprocessor + model)  
-│ ├── model_metadata.json # features_used, model_name, metrics, timestamp  
-│ └── train_model.py # training file used to reproduce models  
-│  
-├── score_generator.py # CLI scoring tool (single & batch mode)  
-├── sample_shops.csv # example CSV input (feature order template)  
-├── requirements.txt # python dependencies
-└── README.md
+### train  
+- `fraudulent_online_shops_dataset.csv` — Original dataset  
+- `model.pkl` — Serialized pipeline (preprocessor + model)  
+- `model_metadata.json` — Metadata including features used, model name, metrics, timestamp  
+- `train_model.py` — Script to train/reproduce the model  
+
+### Root Directory  
+- `score_generator.py` — CLI scoring tool (supports single & batch mode)  
+- `sample_shops.csv` — Example CSV input file (template for feature order)  
+- `requirements.txt` — Python dependencies  
+- `understanding-fraud-signals-in-e-commerce-an-interpretable-machine-learning-study.pdf` — Full article  
+- `README.md` — Project overview and instructions  
+
 
 ---
 
@@ -173,9 +173,3 @@ Keep `model_metadata.json` alongside `model.pkl` so `score_generator.py` can val
     
 **Suggested citation (APA-like):**  
 Janavičiūtė, A., & Liutkevičius, A. (2023). _Fraudulent and Legitimate Online Shops Dataset_ (Version 1) [Data set]. Mendeley Data. [https://data.mendeley.com/datasets/m7xtkx7g5m/1](https://data.mendeley.com/datasets/m7xtkx7g5m/1)
-
----
-
-## Contact
-
-If you have questions, issues, or contributions, open an issue or contact the repository maintainer.
