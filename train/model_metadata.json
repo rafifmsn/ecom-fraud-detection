@@ -1,0 +1,53 @@
+{
+  "model_name": "RandomForest",
+  "features_used": [
+    "Domain length",
+    "Top domain length",
+    "Number  of digits",
+    "Number  of letters",
+    "Number  of dots (.)",
+    "Number  of hyphens (-)",
+    "digit_density",
+    "hyphen_density",
+    "dot_density",
+    "letter_ratio",
+    "num_payment_methods",
+    "Presence of crypto currency",
+    "SSL certificate issuer organization list item",
+    "days_until_ssl_expiry",
+    "days_since_registration",
+    "is_in_tranco",
+    "tranco_rank_log",
+    "has_free_email",
+    "has_logo",
+    "young_domain",
+    "trustpilot_has_reviews",
+    "TrustPilot_score_clean",
+    "sitejabber_has_reviews",
+    "Presence of prefix 'www' "
+  ],
+  "metrics": {
+    "LogisticRegression": {
+      "accuracy": 0.9166666666666666,
+      "f1": 0.9184549356223176,
+      "precision": 0.9145299145299145,
+      "recall": 0.9224137931034483,
+      "roc_auc": 0.9806034482758621
+    },
+    "RandomForest": {
+      "accuracy": 0.9298245614035088,
+      "f1": 0.9298245614035088,
+      "precision": 0.9464285714285714,
+      "recall": 0.9137931034482759,
+      "roc_auc": 0.9819119458128078
+    },
+    "XGBoost": {
+      "accuracy": 0.9210526315789473,
+      "f1": 0.9224137931034483,
+      "precision": 0.9224137931034483,
+      "recall": 0.9224137931034483,
+      "roc_auc": 0.9805264778325123
+    }
+  },
+  "training_date": "2025-11-22T10:07:59.725379Z"
+}
