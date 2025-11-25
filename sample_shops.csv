@@ -1,0 +1,4 @@
+﻿Domain length,Top domain length,Number  of digits,Number  of letters,Number  of dots (.),Number  of hyphens (-),digit_density,hyphen_density,dot_density,letter_ratio,num_payment_methods,Presence of crypto currency,SSL certificate issuer organization list item,days_until_ssl_expiry,days_since_registration,is_in_tranco,tranco_rank_log,has_free_email,has_logo,young_domain,trustpilot_has_reviews,TrustPilot_score_clean,sitejabber_has_reviews,Presence of prefix 'www'
+18,3,0,21,1,0,0,0,0.055,1.166,3,0,9,120,720,1,4.32,0,1,0,1,,0,1
+22,4,3,19,2,1,0.136,0.045,0.09,0.86,0,1,2,10,150,0,0,1,0,1,0,,0,1
+17,3,0,20,2,0,0,0,0.118,1.176,1,0,3,60,200,0,0,2,1,1,0,,0,1

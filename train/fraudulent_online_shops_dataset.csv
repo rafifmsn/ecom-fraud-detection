@@ -1,0 +1,1141 @@
+Online shop URL,Label,Domain length,Top domain length,Presence of prefix 'www' ,Number  of digits,Number  of letters,Number  of dots (.),Number  of hyphens (-),Presence of credit card payment,Presence of money back payment,Presence of cash on delivery payment,Presence of crypto currency,Presence of free contact emails,Presence of logo URL,SSL certificate issuer,SSL certificate expire date,Issuer organization,SSL certificate issuer organization list item,Indication of young domain ,Domain registration date,Presence of TrustPilot reviews,TrustPilot score,Presence of SiteJabber reviews,Presence in the standard Tranco list,Tranco List rank
+https://www.allaccessorybest.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 11 03:53:36 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 03:35,0,,0,0,-1
+https://www.b-watches.shop,fraudulent,18,4,1,0,20,2,1,0,1,0,0,1,0,Cloudflare Inc ECC CA-3,Jun 16 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-18 05:43,0,,0,0,-1
+https://www.waeschenamen-windrath.de,legitimate,28,2,1,0,30,2,1,1,0,0,0,2,1,R3,Oct 24 21:53:20 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://vendoprint.se,legitimate,13,2,0,0,17,1,0,1,0,0,0,2,1,GTS CA 1P5,Oct  9 15:13:00 2023 GMT,Google Trust Services LLC,9,1,2022-09-20 00:00,0,-1,0,0,-1
+https://www.newbikeland.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct 25 08:20:27 2023 GMT,Let's Encrypt,2,1,2023-07-27 09:05,0,,0,0,-1
+https://www.hats-storeofficial.com,fraudulent,26,3,1,0,28,2,1,1,1,1,0,0,1,GTS CA 1P5,Sep 13 07:55:33 2023 GMT,Google Trust Services LLC,9,1,2023-06-15 08:46,0,,0,0,-1
+https://balaganstudio.com,legitimate,17,3,0,0,21,1,0,1,1,1,0,2,1,R3,Oct 16 21:18:12 2023 GMT,Let's Encrypt,2,0,2015-04-16 00:22,1,3.2,0,0,-1
+https://www.bootscleaner.com,legitimate,20,3,1,0,23,2,0,1,1,0,0,2,1,R3,Oct 11 08:36:31 2023 GMT,Let's Encrypt,2,1,2022-09-14 00:00,1,3.7,0,0,-1
+https://shop.tovarseasycleaning.com,legitimate,27,3,0,0,30,2,0,1,1,0,0,1,1,R3,Sep 27 01:10:26 2023 GMT,Let's Encrypt,2,0,2020-11-08 20:10,0,-1,0,0,-1
+https://camerabebelusului.ro,legitimate,20,2,0,0,24,1,0,0,1,0,0,2,1,R3,Sep  2 18:59:11 2023 GMT,Let's Encrypt,2,0,2012-10-23 00:00,1,4.5,0,0,-1
+https://www.kaffee-partner-shop.de,legitimate,26,2,1,0,27,2,2,0,0,0,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Nov 13 23:59:59 2023 GMT,Sectigo Limited,3,2,Hidden,0,-1,0,0,-1
+https://www.vitobaldai.lt,legitimate,17,2,1,0,20,2,0,1,0,0,0,1,1,R3,Sep  9 00:20:36 2023 GMT,Let's Encrypt,2,0,2015-04-10 00:00,0,-1,0,0,-1
+https://www.mcsport.ie,legitimate,14,2,1,0,17,2,0,1,1,1,0,2,1,R3,Oct 19 22:51:16 2023 GMT,Let's Encrypt,2,0,2002-10-20 00:00,1,4.8,0,0,-1
+https://www.family-pills.com,fraudulent,20,3,1,0,22,2,1,1,0,0,1,0,0,GTS CA 1P5,Sep 28 13:22:20 2023 GMT,Google Trust Services LLC,9,0,2015-11-30 13:10,0,,0,0,-1
+https://www.ebnblog.com,fraudulent,15,3,1,0,17,2,0,1,0,1,0,0,0,GTS CA 1P5,Sep 22 13:37:30 2023 GMT,Google Trust Services LLC,9,1,2022-10-13 08:04,0,,0,0,-1
+https://www.mrmarvis.com,legitimate,16,3,1,0,19,2,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,Feb 25 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2015-09-14 16:00,1,4.6,0,0,-1
+https://www.dirksen-container.com,fraudulent,25,3,1,0,27,2,1,0,0,0,0,2,0,R3,Sep  8 23:30:17 2023 GMT,Let's Encrypt,2,1,2023-02-09 12:50,0,,0,0,-1
+https://www.kindermobelre.com,fraudulent,21,3,1,0,24,2,0,1,1,1,0,0,1,GTS CA 1P5,Nov  8 10:16:21 2023 GMT,Google Trust Services LLC,9,1,2022-10-19 02:07,1,2.9,0,0,-1
+https://www.hard-wear.com,legitimate,17,3,1,0,19,2,1,1,1,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Mar 24 23:59:59 2024 GMT,Sectigo Limited,3,0,2004-10-11 16:40,0,-1,0,0,-1
+https://www.kling-rasenmaher.com,fraudulent,24,3,1,0,26,2,1,0,0,0,0,0,1,GTS CA 1P5,Sep 28 13:47:57 2023 GMT,Google Trust Services LLC,9,1,2023-03-24 10:15,0,,0,0,-1
+https://apoteknorsk24.com,fraudulent,17,3,0,2,19,1,0,0,0,0,0,0,1,E1,Oct 15 11:31:08 2023 GMT,Let's Encrypt,2,0,2022-06-19 08:45,0,,0,0,-1
+https://www.ladders-sale.com,fraudulent,20,3,1,0,22,2,1,1,1,1,0,0,1,E1,Oct  1 08:32:46 2023 GMT,Let's Encrypt,2,1,2023-05-05 07:42,0,,0,0,-1
+https://www.vogueon-sale.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 27 05:27:46 2023 GMT,Google Trust Services LLC,9,1,2023-06-29 06:20,0,,0,0,-1
+https://idealica-official.store,fraudulent,23,5,0,0,26,1,1,0,0,0,0,2,1,R3,Oct 26 01:00:49 2023 GMT,Let's Encrypt,2,0,2022-05-30 00:00,0,,0,0,-1
+https://www.gearknifeshop.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 10 05:04:47 2023 GMT,Google Trust Services LLC,9,1,2023-07-12 00:00,0,,0,0,-1
+https://dakonda.com/en,legitimate,11,3,0,0,17,1,0,1,1,0,0,2,1,R3,Oct 20 15:16:50 2023 GMT,Let's Encrypt,2,0,2009-01-30 17:19,1,3.6,0,0,-1
+https://www.svijet-boca.hr,legitimate,18,2,1,0,20,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 27 18:55:17 2023 GMT,Google Trust Services LLC,9,1,2022-08-15 22:00,0,-1,0,0,-1
+https://nangroupholdings.com,fraudulent,20,3,0,0,24,1,0,0,0,0,0,2,1,R3,Oct  8 16:34:23 2023 GMT,Let's Encrypt,2,1,2023-03-15 00:00,0,,0,0,-1
+https://www.fashionclothingde.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,E1,Sep 18 01:35:49 2023 GMT,Let's Encrypt,2,1,2023-06-20 02:30,0,,0,0,-1
+https://www.dortex.com,legitimate,14,3,1,0,17,2,0,1,1,0,0,2,1,R3,Sep 26 04:03:12 2023 GMT,Let's Encrypt,2,0,1999-05-18 23:05,0,-1,0,0,-1
+https://www.presentationload.com,legitimate,24,3,1,0,27,2,0,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,May 11 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2006-08-03 12:34,0,-1,0,0,-1
+https://www.golfseriesof.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 18 07:39:55 2023 GMT,Google Trust Services LLC,9,1,2023-07-20 08:27,0,,0,0,-1
+https://www.cutestthings.com,legitimate,20,3,1,0,23,2,0,1,1,0,0,2,1,R3,Sep  2 06:29:12 2023 GMT,Let's Encrypt,2,0,2002-06-26 03:26,0,-1,0,0,-1
+https://coloraydecor.com,legitimate,16,3,0,0,20,1,0,1,1,1,0,2,1,R3,Oct 20 16:51:19 2023 GMT,Let's Encrypt,2,0,2017-01-26 08:28,1,2.9,0,0,-1
+https://tractorexpress.co.za,fraudulent,20,5,0,0,23,2,0,0,0,0,0,2,1,R3,Sep 11 03:55:09 2023 GMT,Let's Encrypt,2,1,2023-02-16 00:00,0,,0,0,-1
+https://www.bikeoccur.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,E1,Oct 19 05:53:01 2023 GMT,Let's Encrypt,2,1,2023-07-21 00:00,0,,0,0,-1
+https://www.thekitchengears.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,E1,Nov  2 00:36:47 2023 GMT,Let's Encrypt,2,1,2023-08-04 01:28,0,,0,0,-1
+https://www.genzfshop.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,0,GTS CA 1P5,Sep 25 06:57:53 2023 GMT,Google Trust Services LLC,9,1,2023-06-23 05:43,0,,0,0,-1
+https://nelly.com,legitimate,9,3,0,0,13,1,0,0,1,0,0,2,1,GeoTrust RSA CA 2018,Jan  8 23:59:59 2024 GMT,DigiCert Inc,7,0,1997-06-25 04:00,1,3.9,1,1,90036
+https://www.b2bglobalchemicalmerchandise.co.za,fraudulent,38,5,1,1,39,3,0,0,0,0,0,2,1,R3,Oct  4 19:43:55 2023 GMT,Let's Encrypt,2,1,2022-10-22 00:00,0,,0,0,-1
+https://greenesshoes.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,2,1,R3,Oct 19 09:36:35 2023 GMT,Let's Encrypt,2,0,2010-05-02 18:35,1,4.9,0,1,802243
+https://www.handlebarneu.com,fraudulent,20,3,1,0,23,2,0,1,0,1,0,0,0,E1,Sep  7 04:59:02 2023 GMT,Let's Encrypt,2,1,2023-04-11 02:42,0,,0,0,-1
+https://www.mandmdirect.com,legitimate,19,3,1,0,22,2,0,1,1,0,0,0,1,GeoTrust RSA CA 2018,Jul  9 23:59:59 2024 GMT,DigiCert Inc,7,0,2005-07-08 13:05,1,4.4,1,0,-1
+https://bestgenericpills24.com,fraudulent,22,3,0,2,24,1,0,0,0,0,0,0,1,R3,Oct 11 11:28:32 2023 GMT,Let's Encrypt,2,0,2022-05-11 08:18,0,,0,0,-1
+https://hattshoppen.se,legitimate,14,2,0,0,18,1,0,1,1,1,0,2,1,R3,Sep  5 02:10:38 2023 GMT,Let's Encrypt,2,0,2019-04-28 00:00,1,3.3,0,0,-1
+https://homefocus.ie,legitimate,12,2,0,0,16,1,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2005-09-25 00:00,1,3.1,0,1,804620
+https://www.marksandspencer.com,legitimate,23,3,1,0,26,2,0,1,1,1,0,1,1,DigiCert SHA2 Extended Validation Server CA,May 29 23:59:59 2024 GMT,DigiCert Inc,7,0,1998-03-17 05:00,1,1.7,1,0,-1
+https://reklamospasaulis.lt,legitimate,19,2,0,0,23,1,0,1,0,0,0,2,1,R3,Sep  5 13:40:16 2023 GMT,Let's Encrypt,2,0,2021-08-27 00:00,0,-1,0,0,-1
+https://egarazas.lt,legitimate,11,2,0,0,15,1,0,1,1,1,0,2,1,R3,Sep 24 23:49:45 2023 GMT,Let's Encrypt,2,0,2012-11-14 00:00,0,-1,0,0,-1
+https://www.formulierengigant.nl,legitimate,24,2,1,0,27,2,0,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jul  4 23:59:59 2024 GMT,Sectigo Limited,3,0,2010-01-19 00:00,0,-1,0,0,-1
+https://babylachelt.de,fraudulent,14,2,0,0,18,1,0,1,1,0,0,2,1,GTS CA 1P5,Oct  9 18:18:49 2023 GMT,Google Trust Services LLC,9,2,Hidden,1,2.6,0,0,-1
+https://babyplus.store,legitimate,14,5,0,0,18,1,0,1,1,1,0,0,1,E1,Sep 25 16:44:19 2023 GMT,Let's Encrypt,2,0,2018-07-17 00:00,0,-1,0,0,-1
+https://rickelproductsltd.com,fraudulent,21,3,0,0,25,1,0,0,1,0,0,2,0,Sectigo RSA Domain Validation Secure Server CA,Jul 22 23:59:59 2024 GMT,Sectigo Limited,3,0,2022-05-13 19:17,0,,0,0,-1
+https://lavenus.com,legitimate,11,3,0,0,15,1,0,1,1,0,0,2,1,R3,Sep 26 02:11:51 2023 GMT,Let's Encrypt,2,0,1997-12-05 05:00,1,4,0,0,-1
+https://onlygenericonline.com,fraudulent,21,3,0,0,25,1,0,0,0,0,0,0,1,GTS CA 1P5,Nov  2 10:47:24 2023 GMT,Google Trust Services LLC,9,0,2016-12-06 14:31,0,,0,0,-1
+https://www.yafvwg.store,fraudulent,16,5,1,0,19,2,0,1,1,0,0,3,1,Cloudflare Inc ECC CA-3,Jul 31 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-07-06 00:00,0,,0,0,-1
+https://mybrand.shoes/el,legitimate,13,5,0,0,19,1,0,1,1,0,1,2,1,R3,Oct 21 18:27:10 2023 GMT,Let's Encrypt,2,0,2014-08-04 17:04,1,4.4,0,0,-1
+https://www.kuoteshome.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,E1,Sep  4 06:41:46 2023 GMT,Let's Encrypt,2,1,2023-06-06 00:00,0,,0,0,-1
+https://www.obrienswine.ie,legitimate,18,2,1,0,21,2,0,1,1,1,0,2,1,R3,Nov 23 18:44:13 2023 GMT,Let's Encrypt,2,0,2000-06-12 00:00,1,4.7,0,0,-1
+https://buyhealthandcaremeds.com,fraudulent,24,3,0,0,28,1,0,0,1,0,0,0,1,GTS CA 1P5,Oct  8 06:19:11 2023 GMT,Google Trust Services LLC,9,0,2015-02-12 14:48,0,,0,0,-1
+https://conteshop.com,legitimate,13,3,0,0,17,1,0,1,1,1,0,2,1,R3,Sep 18 20:00:40 2023 GMT,Let's Encrypt,2,0,2013-12-09 08:24,0,-1,0,0,-1
+https://www.manualtoolthree.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 18 00:46:02 2023 GMT,Google Trust Services LLC,9,1,2023-06-20 01:36,0,,0,0,-1
+https://thecoffeeminer.com,legitimate,18,3,0,0,22,1,0,1,1,0,0,1,0,R3,Sep 19 19:50:15 2023 GMT,Let's Encrypt,2,0,2021-08-30 11:18,1,3.8,0,0,-1
+https://www.kimjooguan.com,legitimate,18,3,1,0,21,2,0,0,1,1,0,2,1,R3,Oct 20 14:26:29 2023 GMT,Let's Encrypt,2,0,2009-11-12 10:02,0,-1,0,0,-1
+https://www.sitebadminton.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 08:34:25 2023 GMT,Google Trust Services LLC,9,1,2023-07-21 05:46,0,,0,0,-1
+https://www.primexpulse.com,fraudulent,19,3,1,0,22,2,0,0,0,0,1,2,0,GTS CA 1P5,Sep 27 14:01:17 2023 GMT,Google Trust Services LLC,9,1,2023-06-29 00:00,0,,0,0,-1
+https://www.xandres.com/be_en,legitimate,15,3,1,0,22,2,0,1,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Apr 30 23:59:59 2024 GMT,Sectigo Limited,3,0,1998-08-17 04:00,0,-1,0,0,-1
+https://www.edgetoolhub.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  8 05:04:43 2023 GMT,Google Trust Services LLC,9,1,2023-07-10 00:00,0,,0,0,-1
+https://www.currys.ie,legitimate,13,2,1,0,16,2,0,0,0,0,0,0,1,DigiCert Global G2 TLS RSA SHA256 2020 CA1,Jun 24 23:59:59 2024 GMT,DigiCert Inc,7,0,1999-06-15 00:00,1,1.5,0,0,-1
+https://www.bivouac-new.com,fraudulent,19,3,1,0,21,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 24 06:55:04 2023 GMT,Google Trust Services LLC,9,1,2023-06-26 07:49,0,,0,0,-1
+https://www.evanscycles.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,2,1,GlobalSign RSA OV SSL CA 2018,May 19 18:58:44 2024 GMT,GlobalSign nv-sa,8,0,1998-11-09 05:00,1,3.1,0,0,-1
+https://permastik.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,3,1,R3,Sep 16 22:42:59 2023 GMT,Let's Encrypt,2,0,2016-09-02 06:57,0,-1,1,0,-1
+https://www.feststehendemesserde.com,fraudulent,28,3,1,0,31,2,0,0,0,0,0,3,1,GTS CA 1P5,Oct 25 08:01:51 2023 GMT,Google Trust Services LLC,9,1,2023-03-31 02:44,0,,0,0,-1
+https://sebhy.online,fraudulent,12,6,0,0,16,1,0,0,0,0,0,2,0,R3,Oct 25 07:28:16 2023 GMT,Let's Encrypt,2,1,2023-07-27 06:57,0,,0,0,-1
+https://naturasanat.com/en,legitimate,15,3,0,0,21,1,0,0,1,0,0,1,1,R3,Sep 28 08:44:35 2023 GMT,Let's Encrypt,2,0,2003-01-20 02:46,0,-1,0,0,-1
+https://darknet-shop.net,fraudulent,16,3,0,0,21,1,1,1,0,0,1,0,1,E1,Oct  2 18:29:42 2023 GMT,Let's Encrypt,2,0,2021-09-21 12:03,0,,0,0,-1
+https://nobananas.com,legitimate,13,3,0,0,17,1,0,0,1,1,0,3,1,R3,Oct  5 08:20:10 2023 GMT,Let's Encrypt,2,0,1999-12-22 05:19,0,-1,0,0,-1
+https://www.theorchard.ie,legitimate,17,2,1,0,20,2,0,1,1,1,0,2,1,Encryption Everywhere G3 TLS ECC P384 SHA384 2023 CA1,Aug 13 23:59:59 2024 GMT,DigiCert Inc,7,0,2006-10-18 00:00,1,2.9,0,0,-1
+https://www.thebookishshop.shop,fraudulent,23,4,1,0,26,2,0,1,0,0,0,0,0,E1,Oct  5 12:32:30 2023 GMT,Let's Encrypt,2,1,2023-05-09 11:43,0,,0,0,-1
+https://www.bestsellersride.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 09:21:59 2023 GMT,Google Trust Services LLC,9,1,2023-04-04 00:00,0,,0,0,-1
+https://www.fitathletenation.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,0,E1,Oct 20 09:41:47 2023 GMT,Let's Encrypt,2,1,2023-05-24 00:00,0,,0,0,-1
+https://edelweiss-mode.com,fraudulent,18,3,0,0,21,1,1,1,1,0,0,2,1,R3,Sep 30 08:04:55 2023 GMT,Let's Encrypt,2,1,2023-05-03 00:00,0,,0,0,-1
+https://eur.vevor.com,legitimate,13,3,0,0,16,2,0,1,1,1,0,0,1,Amazon RSA 2048 M01,Nov  4 23:59:59 2023 GMT,Amazon,6,0,2009-12-28 19:35,1,2.9,0,0,-1
+https://rovana.lt,legitimate,9,2,0,0,13,1,0,1,0,1,0,2,1,R3,Oct 17 20:10:40 2023 GMT,Let's Encrypt,2,1,2023-05-19 00:00,0,-1,0,0,-1
+https://plus.parts,legitimate,10,5,0,0,14,1,0,1,1,1,0,2,1,R3,Oct  8 01:07:24 2023 GMT,Let's Encrypt,2,0,2015-03-11 11:17,1,2.6,1,0,-1
+https://blitzhandel24.com,legitimate,17,3,0,2,19,1,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr 21 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2019-06-27 21:36,0,-1,0,0,-1
+https://www.boulanger.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,0,1,DigiCert SHA2 Extended Validation Server CA,Mar 13 23:59:59 2024 GMT,DigiCert Inc,7,0,1996-05-30 04:00,1,1.4,1,0,-1
+https://celivaa.de,fraudulent,10,2,0,0,14,1,0,0,0,0,0,2,1,ZeroSSL RSA Domain Secure Site CA,Aug 31 23:59:59 2023 GMT,ZeroSSL,10,2,Hidden,0,,0,0,-1
+https://megagear.online,fraudulent,15,6,0,0,19,1,0,0,1,0,0,3,1,GTS CA 1P5,Oct 19 07:37:50 2023 GMT,Google Trust Services LLC,9,1,2023-07-18 00:00,0,,0,0,-1
+https://www.juvelyrikosnamai.lt,legitimate,23,2,1,0,26,2,0,1,1,0,0,2,1,R3,Sep 17 07:12:58 2023 GMT,Let's Encrypt,2,0,2018-01-05 00:00,0,-1,0,0,-1
+https://www.goatauthentic.com/en,legitimate,21,3,1,0,26,2,0,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2019-06-15 14:00,0,-1,0,0,-1
+https://fiskedeal.dk,legitimate,12,2,0,0,16,1,0,1,1,0,0,0,1,E1,Sep 28 06:06:39 2023 GMT,Let's Encrypt,2,0,2017-07-05 00:00,1,4.1,0,0,-1
+https://www.pickledfoodonline.com,fraudulent,25,3,1,0,28,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 28 05:53:10 2023 GMT,Google Trust Services LLC,9,1,2023-06-30 06:38,0,,0,0,-1
+https://dviraciu-laikikliai.lt,legitimate,22,2,0,0,25,1,1,0,0,0,0,0,1,R3,Aug 29 20:21:42 2023 GMT,Let's Encrypt,2,0,2007-11-29 00:00,0,-1,0,0,-1
+https://www.diekuchetoolrabatt.com,fraudulent,26,3,1,0,29,2,0,1,1,0,0,0,1,E1,Sep 19 02:26:48 2023 GMT,Let's Encrypt,2,1,2023-06-21 03:16,0,,0,0,-1
+https://www.usstorejewelry.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  8 06:06:19 2023 GMT,Google Trust Services LLC,9,1,2023-05-12 03:18,0,,0,0,-1
+https://clothingbetter.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 12:27:57 2023 GMT,Google Trust Services LLC,9,1,2023-05-06 00:00,0,,0,0,-1
+https://www.obtainfish.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,E1,Oct 17 06:58:05 2023 GMT,Let's Encrypt,2,1,2023-07-19 07:48,0,,0,0,-1
+https://www.playjuggling.com/it,legitimate,20,3,1,0,25,2,0,1,1,0,0,1,1,R3,Oct 25 15:25:28 2023 GMT,Let's Encrypt,2,0,2006-09-25 19:05,0,-1,0,0,-1
+https://trusted-help.com,fraudulent,16,3,0,0,19,1,1,1,0,0,0,0,1,R3,Oct 16 21:00:55 2023 GMT,Let's Encrypt,2,0,2018-12-07 14:54,0,,0,0,-1
+https://www.onepointequip.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 27 11:40:50 2023 GMT,Google Trust Services LLC,9,1,2023-02-24 10:49,0,,0,0,-1
+https://www.sunware.com/nl-nl,legitimate,15,3,1,0,22,2,1,1,1,0,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Jun 13 23:59:59 2024 GMT,Sectigo Limited,3,0,2002-07-31 17:03,1,3.7,0,0,-1
+https://www.halloween-kleider.com,fraudulent,25,3,1,0,27,2,1,1,1,0,0,0,1,E1,Oct 23 04:22:20 2023 GMT,Let's Encrypt,2,1,2023-05-27 01:16,0,,0,0,-1
+https://www.santaeulalia.com/es,legitimate,20,3,1,0,25,2,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,May 13 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1999-02-05 05:00,1,4.7,0,0,-1
+https://www.bikefahrradonline.com,fraudulent,25,3,1,0,28,2,0,0,0,0,0,0,1,GTS CA 1P5,Oct 27 09:04:54 2023 GMT,Google Trust Services LLC,9,1,2023-04-02 00:00,0,,0,0,-1
+https://pulguinhas.pt,legitimate,13,2,0,0,17,1,0,0,0,0,0,2,1,"cPanel, Inc. Certification Authority",Sep 19 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2012-03-05,0,-1,0,0,-1
+https://www.backpacksschritte.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 22 07:27:09 2023 GMT,Google Trust Services LLC,9,1,2023-04-26 05:50,0,,0,0,-1
+https://www.constrmall.com,fraudulent,18,3,1,0,21,2,0,0,1,0,0,2,1,Cloudflare Inc ECC CA-3,Oct 18 23:59:59 2023 GMT,"Cloudflare, Inc.",1,0,2021-11-17 11:45,0,,0,0,-1
+https://www.jeans24h.eu,legitimate,15,2,1,2,16,2,0,0,1,1,0,2,1,Certum Domain Validation CA SHA2,Apr  2 07:42:59 2024 GMT,Unizeto Technologies S.A.,11,2,Hidden,1,2.8,0,0,-1
+https://www.heavins.ie,legitimate,14,2,1,0,17,2,0,1,1,0,0,1,1,Amazon RSA 2048 M01,Jun 27 23:59:59 2024 GMT,Amazon,6,0,2015-09-24 00:00,1,4.8,0,0,-1
+https://e-sodotechnika.lt,legitimate,17,2,0,0,20,1,1,0,0,1,0,2,1,R3,Sep  6 04:28:59 2023 GMT,Let's Encrypt,2,0,2011-08-01 00:00,0,-1,0,0,-1
+https://www.korda-fishing.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,0,R3,Oct 28 15:13:14 2023 GMT,Let's Encrypt,2,1,2023-01-14 06:43,0,,0,0,-1
+https://www.dealshop.lt,legitimate,15,2,1,0,18,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct  3 08:30:08 2023 GMT,Google Trust Services LLC,9,0,2020-11-25 00:00,0,-1,0,0,-1
+https://minoti.com/en,legitimate,10,3,0,0,16,1,0,0,0,0,0,0,1,R3,Oct 23 11:20:42 2023 GMT,Let's Encrypt,2,0,2004-08-28 04:58,0,-1,0,0,-1
+https://www.bikerabatt.com,fraudulent,18,3,1,0,21,2,0,0,0,0,0,0,1,E1,Sep  3 09:26:55 2023 GMT,Let's Encrypt,2,1,2023-04-07 00:00,0,,0,0,-1
+https://www.essentiel-shoe.com,fraudulent,22,3,1,0,24,2,1,1,1,0,0,0,1,E1,Sep  9 10:28:43 2023 GMT,Let's Encrypt,2,1,2023-04-13 03:28,0,,0,0,-1
+https://otcantabuse.com,fraudulent,15,3,0,0,19,1,0,0,0,0,0,0,1,R3,Oct 31 00:58:16 2023 GMT,Let's Encrypt,2,0,2019-12-09 21:21,0,,0,0,-1
+https://www.furnitureor.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Sep 11 04:56:23 2023 GMT,Let's Encrypt,2,1,2023-06-13 05:40,0,,0,0,-1
+https://www.lederzentrum.de,legitimate,19,2,1,0,22,2,0,1,0,0,0,3,1,R3,Oct  3 23:49:57 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.pharmacy-xl.org,fraudulent,19,3,1,0,21,2,1,1,0,0,0,0,1,ZeroSSL ECC Domain Secure Site CA,Sep 29 23:59:59 2023 GMT,ZeroSSL,10,0,2017-07-21 20:16,0,,0,0,-1
+https://ka-risma.com,legitimate,12,3,0,0,15,1,1,1,1,0,0,2,1,R3,Sep 18 22:53:55 2023 GMT,Let's Encrypt,2,0,2019-05-03 07:53,0,-1,0,0,-1
+https://pokal-total.de,legitimate,14,2,0,0,17,1,1,1,1,0,0,2,1,R3,Oct  4 09:24:44 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.glamgarbshop.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 11 07:56:50 2023 GMT,Google Trust Services LLC,9,1,2023-06-15 08:02,0,,0,0,-1
+https://www.better-shirts.de,legitimate,20,2,1,0,22,2,1,1,0,0,0,2,1,RapidSSL Global TLS RSA4096 SHA256 2022 CA1,Feb 24 23:59:59 2024 GMT,DigiCert Inc,7,2,Hidden,0,-1,0,0,-1
+https://woodenamsterdam.com,legitimate,19,3,0,0,23,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct 14 15:58:54 2023 GMT,Google Trust Services LLC,9,0,2016-05-24 11:22,0,-1,0,0,-1
+https://www.teebooks.co.uk,legitimate,18,5,1,0,20,3,0,1,1,0,0,1,1,AlphaSSL CA - SHA256 - G4,Aug  3 15:53:36 2024 GMT,GlobalSign nv-sa,8,0,2013-09-23 00:00,0,-1,0,0,-1
+https://www.shkshop.com,legitimate,15,3,1,0,18,2,0,0,0,0,0,2,1,R3,Sep 25 23:52:59 2023 GMT,Let's Encrypt,2,0,2008-09-09 12:16,1,3.2,0,0,-1
+https://theyamazakihome-europe.com,legitimate,26,3,0,0,29,1,1,1,1,0,0,3,1,R3,Sep 21 08:02:17 2023 GMT,Let's Encrypt,2,0,2020-05-14 05:43,1,3.6,0,0,-1
+https://www.furnituregibson.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  1 08:22:50 2023 GMT,Google Trust Services LLC,9,1,2023-07-03 07:01,0,,0,0,-1
+https://www.dramaticmotion.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,E1,Oct  7 07:57:20 2023 GMT,Let's Encrypt,2,1,2023-05-11 00:00,0,,0,0,-1
+https://www.dunnesstores.com,legitimate,20,3,1,0,23,2,0,1,1,1,1,2,1,Cloudflare Inc ECC CA-3,May 15 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1997-05-08 04:00,1,2.1,0,0,-1
+https://www.qstepsdelivery.com,fraudulent,22,3,1,0,25,2,0,0,0,0,0,0,0,R3,Oct 26 13:41:28 2023 GMT,Let's Encrypt,2,1,2022-07-27 16:31,0,,0,0,-1
+https://www.flexibleluxury.com,fraudulent,22,3,1,0,25,2,0,1,1,1,0,0,1,E1,Oct 21 07:39:00 2023 GMT,Let's Encrypt,2,1,2023-03-27 00:00,0,,0,0,-1
+https://www.shopmancini.com/en,legitimate,19,3,1,0,24,2,0,1,1,1,0,2,1,R3,Oct 18 20:06:11 2023 GMT,Let's Encrypt,2,0,2014-01-16 10:33,1,4.8,0,0,-1
+https://www.johnlewis.com,legitimate,17,3,1,0,20,2,0,1,0,1,0,3,1,DigiCert SHA2 Extended Validation Server CA,Mar 14 23:59:59 2024 GMT,DigiCert Inc,7,0,1997-12-31 05:00,1,4,1,0,-1
+https://ecosilkroad.com,fraudulent,15,3,0,0,19,1,0,0,0,0,0,0,0,E1,Sep 21 05:38:02 2023 GMT,Let's Encrypt,2,0,2022-02-23 00:28,0,,0,0,-1
+https://www.warmbedroom.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 31 07:30:05 2023 GMT,Google Trust Services LLC,9,1,2023-08-02 08:10,0,,0,0,-1
+https://www.reality-bikes.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,0,GTS CA 1P5,Oct 22 17:04:04 2023 GMT,Google Trust Services LLC,9,1,2023-03-11 14:33,0,,0,0,-1
+https://nydj.eu,legitimate,7,2,0,0,11,1,0,1,1,0,0,2,1,R3,Sep 29 10:34:48 2023 GMT,Let's Encrypt,2,2,Hidden,1,2.8,0,0,-1
+https://www.cosgearup.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 25 06:54:00 2023 GMT,Google Trust Services LLC,9,1,2023-06-27 07:39,0,,0,0,-1
+https://www.markisenrabatt.com,fraudulent,22,3,1,0,25,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 14 02:07:12 2023 GMT,Google Trust Services LLC,9,1,2022-10-22 08:02,1,3.2,0,0,-1
+https://kooshatech.com,legitimate,14,3,0,0,18,1,0,0,0,0,0,2,1,R3,Sep 24 06:55:49 2023 GMT,Let's Encrypt,2,0,2014-01-15 15:47,0,-1,0,0,-1
+https://www.tyent-europe.com,legitimate,20,3,1,0,22,2,1,1,1,1,1,2,1,Certum Domain Validation CA SHA2,Apr  5 10:04:35 2024 GMT,Unizeto Technologies S.A.,11,0,2012-08-08 11:42,0,-1,0,0,-1
+https://www.fantasybikestore.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 10 12:45:11 2023 GMT,Google Trust Services LLC,9,1,2023-03-16 00:00,0,,0,0,-1
+https://artificialgrass.ie,legitimate,18,2,0,0,22,1,0,0,0,0,0,3,1,E1,Nov 11 14:03:31 2023 GMT,Let's Encrypt,2,0,2009-06-28 00:00,0,-1,0,0,-1
+https://vonroc.ie,legitimate,9,2,0,0,13,1,0,1,1,1,0,2,1,R3,Sep 25 19:19:10 2023 GMT,Let's Encrypt,2,0,2022-03-22 00:00,0,-1,0,0,-1
+https://www.bicycledamsperde.com,fraudulent,24,3,1,0,27,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 23 11:40:54 2023 GMT,Google Trust Services LLC,9,1,2023-04-27 10:20,0,,0,0,-1
+https://www.fishserious.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 18 08:28:40 2023 GMT,Google Trust Services LLC,9,1,2023-07-20 09:13,0,,0,0,-1
+https://www.discountfine.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  8 06:09:05 2023 GMT,Google Trust Services LLC,9,1,2023-07-10 00:00,0,,0,0,-1
+https://www.1potenzmittel.online,fraudulent,24,6,1,1,26,2,0,0,0,0,0,0,1,R3,Sep 17 06:52:21 2023 GMT,Let's Encrypt,2,1,2023-03-06 12:54,0,,0,0,-1
+https://www.mcelhinneys.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,2,1,R3,Oct  2 12:32:44 2023 GMT,Let's Encrypt,2,0,1998-12-01 00:00,1,4.9,0,0,-1
+https://www.bergfreunde.eu,legitimate,18,2,1,0,21,2,0,1,1,1,0,2,1,DigiCert TLS RSA SHA256 2020 CA1,Jul 30 23:59:59 2024 GMT,DigiCert Inc,7,2,Hidden,1,2.7,0,0,-1
+https://eu.defacto.com,legitimate,14,3,0,0,17,2,0,1,1,0,0,3,1,R3,Oct  4 23:05:29 2023 GMT,Let's Encrypt,2,0,2002-03-27 19:07,1,2.4,0,0,-1
+https://hkontrade.com,fraudulent,13,3,0,0,17,1,0,1,1,0,0,0,1,GTS CA 1P5,Sep  6 10:36:38 2023 GMT,Google Trust Services LLC,9,1,2023-06-08 10:42,0,,0,0,-1
+https://www.sprintis.eu,legitimate,15,2,1,0,18,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,-1,0,0,-1
+https://www.vestrum-italy.com,legitimate,21,3,1,0,23,2,1,1,1,1,0,2,1,R3,Sep  5 15:18:14 2023 GMT,Let's Encrypt,2,0,2015-09-11 15:59,0,-1,0,0,-1
+https://www.optcefurniture.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 18 11:53:02 2023 GMT,Google Trust Services LLC,9,1,2023-07-20 12:37,0,,0,0,-1
+https://www.pianocarpet.nl/en,legitimate,18,2,1,0,23,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  5 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2008-06-03 00:00,0,-1,0,0,-1
+https://www.ciatabs.com,fraudulent,15,3,1,0,18,2,0,0,0,0,0,0,1,R3,Sep  5 00:25:34 2023 GMT,Let's Encrypt,2,0,2021-12-21 09:20,0,,0,0,-1
+https://www.wearsdepot.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 14 09:31:19 2023 GMT,Google Trust Services LLC,9,1,2023-04-18 07:25,0,,0,0,-1
+https://allegrolokalnie.pl,legitimate,18,2,0,0,22,1,0,0,1,0,0,0,1,DigiCert Global G2 TLS RSA SHA256 2020 CA1,Jul 26 23:59:59 2024 GMT,DigiCert Inc,7,0,2019-03-25 15:06,1,3.2,0,1,35556
+https://www.gesundefamiliehaustiere.de,fraudulent,30,2,1,0,33,2,0,1,1,1,0,1,0,R3,Sep  7 11:52:04 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.approshop.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,0,E1,Sep 25 06:51:12 2023 GMT,Let's Encrypt,2,1,2023-06-23 05:30,0,,0,0,-1
+https://www.menstorewear.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Nov 11 04:59:05 2023 GMT,Let's Encrypt,2,1,2023-06-15 05:47,0,,0,0,-1
+https://imens-meds.net,fraudulent,14,3,0,0,17,1,1,0,0,0,0,0,1,R3,Oct 24 20:11:21 2023 GMT,Let's Encrypt,2,0,2017-03-16 17:07,0,,0,0,-1
+https://www.sukneliugausa.lt,legitimate,20,2,1,0,23,2,0,1,1,0,0,1,0,R3,Sep 15 20:12:02 2023 GMT,Let's Encrypt,2,0,2015-10-23 00:00,0,-1,0,0,-1
+https://www.attire-vintage.com,fraudulent,22,3,1,0,24,2,1,1,1,0,0,0,1,GTS CA 1P5,Oct 13 05:23:39 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 02:43,0,,0,0,-1
+https://www.allbeauty.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,1,1,DigiCert Global G2 TLS RSA SHA256 2020 CA1,Apr 26 23:59:59 2024 GMT,DigiCert Inc,7,0,2001-11-13 03:09,1,4.8,1,0,-1
+https://www.epcc.co,fraudulent,11,2,1,0,14,2,0,1,0,0,0,3,0,TrustAsia ECC DV TLS CA G2,Mar  8 23:59:59 2024 GMT,"TrustAsia Technologies, Inc.",11,0,2017-07-16 09:12,0,,0,0,-1
+https://www.biomecarefor.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Sep 17 06:18:39 2023 GMT,Let's Encrypt,2,1,2023-06-19 07:08,0,,0,0,-1
+https://www.frilufgebote.de,fraudulent,19,2,1,0,22,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb  4 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,,0,0,-1
+https://schoolbooks.ie,legitimate,14,2,0,0,18,1,0,1,1,1,0,2,1,R3,Nov  1 09:16:28 2023 GMT,Let's Encrypt,2,0,2004-04-22 00:00,1,3.3,0,1,459343
+https://www.officiellejordan.eu.com,fraudulent,27,6,1,0,29,3,0,1,1,0,0,1,0,R3,Sep 29 08:27:39 2023 GMT,Let's Encrypt,2,0,1995-05-30 00:00,0,,0,0,-1
+https://plasticbottleshop.eu,legitimate,20,2,0,0,24,1,0,1,1,1,0,0,1,R3,Sep 20 00:33:42 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://haustechnikmeine.de,fraudulent,19,2,0,0,23,1,0,0,1,1,0,0,1,GTS CA 1P5,Oct 23 14:47:24 2023 GMT,Google Trust Services LLC,9,2,Hidden,1,3.9,0,0,-1
+https://supersklep.sk,legitimate,13,2,0,0,17,1,0,0,0,0,0,2,1,R3,Aug  6 22:18:06 2023 GMT,Let's Encrypt,2,0,2013-01-15 00:00,0,-1,0,0,-1
+https://www.manypowertools.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 23 05:07:25 2023 GMT,Google Trust Services LLC,9,1,2023-06-25 06:01,0,,0,0,-1
+https://www.householdchic.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 21 13:52:22 2023 GMT,Google Trust Services LLC,9,1,2023-05-25 00:00,0,,0,0,-1
+https://bioenergieheizung.com,fraudulent,21,3,0,0,25,1,0,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Nov  8 23:59:59 2023 GMT,Sectigo Limited,3,1,2022-11-08 19:07,0,,0,0,-1
+https://www.chickiddos.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  4 06:48:08 2023 GMT,Google Trust Services LLC,9,1,2023-06-06 00:00,0,,0,0,-1
+https://preautospare.com,fraudulent,16,3,0,0,20,1,0,0,0,0,0,2,1,R3,Oct  6 11:28:40 2023 GMT,Let's Encrypt,2,1,2023-03-08 12:13,0,,0,0,-1
+https://www.manytoolsforyou.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 12 00:57:45 2023 GMT,Google Trust Services LLC,9,1,2023-06-14 01:37,0,,0,0,-1
+https://www.running-point.com,legitimate,21,3,1,0,23,2,1,1,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Mar 14 23:59:59 2024 GMT,Sectigo Limited,3,0,2019-11-21 10:27,0,-1,0,0,-1
+https://www.dortex.se,legitimate,13,2,1,0,16,2,0,1,1,0,0,2,1,R3,Sep 26 04:03:12 2023 GMT,Let's Encrypt,2,0,2014-02-14 00:00,0,-1,0,0,-1
+https://www.boboli.pt,legitimate,13,2,1,0,16,2,0,0,0,0,0,3,1,R3,Oct 29 21:34:20 2023 GMT,Let's Encrypt,2,0,2012-06-15 00:00,0,-1,0,0,-1
+https://www.gerrybrownejewellers.ie,legitimate,27,2,1,0,30,2,0,1,1,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Jun 15 23:59:59 2024 GMT,Sectigo Limited,3,0,2010-11-23 00:00,1,4.9,0,0,-1
+https://www.gowblshop.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,1,1,Cloudflare Inc ECC CA-3,Jul 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-23 05:43,0,,0,0,-1
+https://www.rendl.com,legitimate,13,3,1,0,16,2,0,1,0,0,1,2,1,R3,Sep  7 00:16:44 2023 GMT,Let's Encrypt,2,0,2002-05-01 00:00,0,-1,0,0,-1
+https://www.halloweenspielen.com,fraudulent,24,3,1,0,27,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 29 12:51:37 2023 GMT,Google Trust Services LLC,9,1,2023-06-02 06:37,0,,0,0,-1
+https://matar-athletics.com,legitimate,19,3,0,0,22,1,1,1,1,0,0,2,0,R3,Sep 10 23:59:07 2023 GMT,Let's Encrypt,2,0,2014-03-10 07:53,0,-1,0,0,-1
+https://www.xn--kostme-6ya.com,legitimate,22,3,1,1,22,2,4,1,1,1,0,3,1,Amazon RSA 2048 M02,Jun 20 23:59:59 2024 GMT,Amazon,6,0,2001-02-26 13:10,0,-1,0,0,-1
+https://71workx.com,legitimate,11,3,0,2,13,1,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Dec  5 23:59:59 2023 GMT,"Cloudflare, Inc.",1,0,2013-01-03 08:05,0,-1,0,0,-1
+https://www.latestfurnishing.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 25 05:58:46 2023 GMT,Google Trust Services LLC,9,1,2023-06-27 06:10,0,,0,0,-1
+https://www.derabattfahrrad.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 18 04:27:13 2023 GMT,Google Trust Services LLC,9,1,2023-03-24 01:46,0,,0,0,-1
+https://www.luxesilkwear.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Sep 11 06:33:30 2023 GMT,Let's Encrypt,2,1,2023-06-13 07:23,0,,0,0,-1
+https://www.dealtoolopt.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  6 11:52:35 2023 GMT,Google Trust Services LLC,9,1,2023-06-08 00:00,0,,0,0,-1
+https://www.doktor-apotheke.com,fraudulent,23,3,1,0,25,2,1,1,0,0,0,0,0,GTS CA 1P5,Oct  4 16:55:14 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 16:54,0,,0,0,-1
+https://www.ducq.com,legitimate,12,3,1,0,15,2,0,1,1,1,0,2,1,R3,Sep 29 08:36:16 2023 GMT,Let's Encrypt,2,0,2005-12-25 10:42,0,-1,0,0,-1
+https://tobeachsurf.com,fraudulent,15,3,0,0,19,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct 12 03:53:48 2023 GMT,Google Trust Services LLC,9,1,2023-05-16 03:37,0,,0,0,-1
+https://www.beautybuys.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,2,1,GTS CA 1P5,Nov 24 07:46:57 2023 GMT,Google Trust Services LLC,9,0,1998-12-18 00:00,1,4.9,0,0,-1
+https://outdoorliving.ie,legitimate,16,2,0,0,20,1,0,0,0,0,1,3,1,Cloudflare Inc ECC CA-3,Apr 16 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2010-08-12 00:00,1,4.6,0,1,825217
+https://www.colorfulfootwear.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  8 06:04:51 2023 GMT,Google Trust Services LLC,9,1,2023-05-12 05:28,0,,0,0,-1
+https://www.limit-outdoor.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,1,GTS CA 1P5,Nov  1 06:22:59 2023 GMT,Google Trust Services LLC,9,1,2023-08-03 06:47,0,,0,0,-1
+https://www.fdfashions.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 15 13:16:37 2023 GMT,Google Trust Services LLC,9,1,2023-02-19 00:00,0,,0,0,-1
+https://aktionheizung.de,fraudulent,16,2,0,0,20,1,0,1,0,1,0,0,1,GTS CA 1P5,Sep 20 23:15:45 2023 GMT,Google Trust Services LLC,9,2,Hidden,1,4.1,0,0,-1
+https://www.carrollsirishgifts.com,legitimate,26,3,1,0,29,2,0,1,1,0,0,2,1,Go Daddy Secure Certificate Authority - G2,Jun 22 09:54:59 2024 GMT,"GoDaddy.com, Inc.",5,0,1999-11-10 16:00,1,2.6,0,0,-1
+https://www.againfaster.com,legitimate,19,3,1,0,22,2,0,1,1,0,0,2,1,R3,Sep  5 04:24:48 2023 GMT,Let's Encrypt,2,0,2006-06-02 18:27,0,-1,1,0,-1
+https://www.airtoolsefficient.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 04:43:12 2023 GMT,Google Trust Services LLC,9,1,2023-07-07 00:00,0,,0,0,-1
+https://www.angelgeschaft-prada.com,fraudulent,27,3,1,0,29,2,1,1,1,1,0,0,1,E1,Oct 19 12:03:18 2023 GMT,Let's Encrypt,2,1,2023-05-23 00:00,0,,0,0,-1
+https://www.shooos.cz,legitimate,13,2,1,0,16,2,0,1,1,0,0,1,1,GTS CA 1P5,Oct 17 08:15:12 2023 GMT,Google Trust Services LLC,9,0,2011-04-24 19:37,0,-1,0,0,-1
+https://borpillshop.com,fraudulent,15,3,0,0,19,1,0,1,0,0,0,0,0,R3,Nov 25 03:08:02 2023 GMT,Let's Encrypt,2,0,2019-12-20 09:44,0,,0,0,-1
+https://www.elcorteingles.com,legitimate,21,3,1,0,24,2,0,0,0,1,0,2,1,GeoTrust RSA CA 2018,Oct 18 23:59:59 2023 GMT,DigiCert Inc,7,0,1995-12-19 05:00,1,2.3,0,0,-1
+https://www.homewarefine.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 05:11:05 2023 GMT,Google Trust Services LLC,9,1,2023-07-07 06:04,0,,0,0,-1
+https://maxpotenz.de,fraudulent,12,2,0,0,16,1,0,1,0,0,0,0,1,Cloudflare Inc ECC CA-3,Feb 18 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,,0,0,-1
+https://www.alfrescodurable.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep  6 11:35:35 2023 GMT,Google Trust Services LLC,9,1,2023-04-06 00:00,0,,0,0,-1
+https://www.castiron-clothing.com,legitimate,25,3,1,0,27,2,1,1,1,1,0,2,1,GTS CA 1P5,Oct  4 04:40:30 2023 GMT,Google Trust Services LLC,9,0,2003-04-04 08:31,1,3.2,0,0,-1
+https://www.elegance-decor.ro,legitimate,21,2,1,0,23,2,1,1,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jul 17 23:59:59 2024 GMT,Sectigo Limited,3,0,2011-04-16 00:00,0,-1,0,0,-1
+https://fivestarpharmacy.ie,legitimate,19,2,0,0,23,1,0,0,0,0,0,2,1,"cPanel, Inc. Certification Authority",Nov 27 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2020-03-25 00:00,0,-1,0,0,-1
+https://www.lights.ie,legitimate,13,2,1,0,16,2,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,May 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2009-03-02 00:00,1,4.2,0,0,-1
+https://www.blacksocks.com/en,legitimate,18,3,1,0,23,2,0,1,1,1,0,0,1,Sectigo RSA Extended Validation Secure Server CA,Aug  9 23:59:59 2024 GMT,Sectigo Limited,3,0,1999-02-06 05:00,1,2.2,0,0,-1
+https://www.vibrantraiment.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,E1,Oct  6 06:47:32 2023 GMT,Let's Encrypt,2,1,2023-05-10 03:41,0,,0,0,-1
+https://www.accessorieslead.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,Mar 18 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-03-20 00:00,0,,0,0,-1
+https://www.boxinghobbybase.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 17 08:05:25 2023 GMT,Google Trust Services LLC,9,1,2023-07-19 00:00,0,,0,0,-1
+https://www.arboretum.ie,legitimate,16,2,1,0,19,2,0,1,1,1,0,2,1,Amazon RSA 2048 M02,Jan 14 23:59:59 2024 GMT,Amazon,6,0,2001-08-09 00:00,1,3.2,0,0,-1
+https://www.one-chaincapital.com,fraudulent,24,3,1,0,26,2,1,1,0,1,1,0,1,GTS CA 1P5,Oct 30 07:49:05 2023 GMT,Google Trust Services LLC,9,1,2023-08-01 06:33,0,,0,0,-1
+https://www.murmann-verlag.de,legitimate,21,2,1,0,23,2,1,1,1,0,0,3,1,R3,Sep 22 08:43:57 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.bestemeds.com,fraudulent,17,3,1,0,20,2,0,0,1,0,0,0,1,"cPanel, Inc. Certification Authority",Oct  5 23:59:59 2023 GMT,"cPanel, Inc.",4,1,2023-01-21 23:45,0,,0,0,-1
+https://www.bedroom-haven.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,1,GTS CA 1P5,Oct  2 07:45:40 2023 GMT,Google Trust Services LLC,9,1,2023-07-04 00:00,0,,0,0,-1
+https://www.bringadharav.com,fraudulent,20,3,1,0,22,2,0,1,0,1,0,0,0,GTS CA 1P5,Sep 22 17:48:19 2023 GMT,Google Trust Services LLC,9,1,2022-10-14 06:19,0,,0,0,-1
+https://get-rc.to,fraudulent,9,2,0,0,12,1,1,0,1,0,1,0,1,GTS CA 1P5,Sep 21 08:29:58 2023 GMT,Google Trust Services LLC,9,0,None,1,3.1,0,0,-1
+https://www.jdsports.co.uk,legitimate,18,5,1,0,20,3,0,1,1,1,0,2,1,GeoTrust RSA CA 2018,Oct 27 23:59:59 2023 GMT,DigiCert Inc,7,0,1997-04-30 00:00,1,3.4,1,0,-1
+https://www.wardrobecheap.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  1 04:24:40 2023 GMT,Google Trust Services LLC,9,1,2023-07-03 05:02,0,,0,0,-1
+https://www.graveilux.de,fraudulent,16,2,1,0,19,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 12 14:31:05 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.dorothyperkins.com,legitimate,22,3,1,0,25,2,0,1,1,1,0,3,1,Amazon RSA 2048 M02,Jul 31 23:59:59 2024 GMT,Amazon,6,0,1997-11-24 05:00,1,2.9,1,0,-1
+https://www.bauturaonline.ro,legitimate,20,2,1,0,23,2,0,0,0,0,0,2,1,R3,Oct  8 06:05:44 2023 GMT,Let's Encrypt,2,0,2012-10-04 00:00,0,-1,0,0,-1
+https://lekarnaslo.com,fraudulent,14,3,0,0,18,1,0,0,0,0,0,0,1,GTS CA 1P5,Sep 22 06:04:03 2023 GMT,Google Trust Services LLC,9,0,2022-05-05 10:30,0,,0,0,-1
+https://www.mccabespharmacy.com,legitimate,23,3,1,0,26,2,0,1,1,1,0,2,1,R3,Oct 25 12:35:30 2023 GMT,Let's Encrypt,2,0,1999-09-17 12:13,1,4.8,0,0,-1
+https://www.hobbiesbasketball.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 04:45:05 2023 GMT,Google Trust Services LLC,9,1,2023-07-07 03:34,0,,0,0,-1
+https://herbatea-manufaktura.hu,legitimate,23,2,0,0,26,1,1,0,0,0,0,2,1,R3,Aug 25 08:26:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://hightimesweedshop.com,fraudulent,21,3,0,0,25,1,0,0,0,1,0,2,1,R3,Sep 15 03:03:52 2023 GMT,Let's Encrypt,2,0,2021-03-21 10:27,0,,0,0,-1
+https://woolyorganic.com/en,legitimate,16,3,0,0,22,1,0,0,1,1,0,2,1,R3,Sep  4 06:05:53 2023 GMT,Let's Encrypt,2,0,2012-04-14 07:20,0,-1,0,0,-1
+https://www.dsabunbadang.shop,fraudulent,21,4,1,0,24,2,0,1,1,1,0,0,0,GTS CA 1P5,Oct 20 12:21:10 2023 GMT,Google Trust Services LLC,9,1,2022-11-25 00:33,0,,0,0,-1
+https://electo.shop,fraudulent,11,4,0,0,15,1,0,1,1,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Apr 18 23:59:59 2024 GMT,Sectigo Limited,3,1,2022-09-07 16:34,1,2.5,0,0,-1
+https://kubilas.lt,legitimate,10,2,0,0,14,1,0,1,1,1,0,1,1,R3,Oct 24 20:12:30 2023 GMT,Let's Encrypt,2,0,2012-03-16 00:00,0,-1,0,0,-1
+https://www.nextgensolar.co.za,fraudulent,22,5,1,0,24,3,0,0,0,1,0,2,0,R3,Sep 16 00:17:32 2023 GMT,Let's Encrypt,2,0,2019-11-11 00:00,0,,0,0,-1
+https://www.disneyrelate.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 11 04:32:17 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 03:38,0,,0,0,-1
+https://www.cheap-tool.com,fraudulent,18,3,1,0,20,2,1,1,1,0,0,0,1,E1,Sep 28 11:36:12 2023 GMT,Let's Encrypt,2,1,2022-09-02 08:07,0,,0,0,-1
+https://www.ambience.pt,legitimate,15,2,1,0,18,2,0,1,0,0,0,2,1,"cPanel, Inc. Certification Authority",Oct 29 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2019-03-07,0,-1,0,0,-1
+https://www.euvalentinogaravani.de,fraudulent,26,2,1,0,29,2,0,0,0,0,0,0,1,GTS CA 1P5,Sep 14 09:14:07 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.demediz.com,fraudulent,15,3,1,0,18,2,0,0,0,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Mar 14 23:59:59 2024 GMT,Sectigo Limited,3,0,2011-12-13 22:31,0,,0,0,-1
+https://www.hometoolhub.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  3 05:27:21 2023 GMT,Google Trust Services LLC,9,1,2023-07-05 00:00,0,,0,0,-1
+https://www.danfitzgeralds.com,legitimate,22,3,1,0,25,2,0,1,0,0,0,2,1,Amazon RSA 2048 M02,Feb 29 23:59:59 2024 GMT,Amazon,6,0,2008-01-11 13:56,1,4.1,0,0,-1
+https://www.joe-nimble.com,legitimate,18,3,1,0,20,2,1,0,1,0,0,2,1,R3,Oct  8 11:29:19 2023 GMT,Let's Encrypt,2,0,2010-12-08 15:14,1,2.3,0,0,-1
+https://www.mallexercise.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 22 06:19:49 2023 GMT,Let's Encrypt,2,1,2023-05-26 02:51,0,,0,0,-1
+https://www.edelmetall-handel.de,legitimate,24,2,1,0,33,3,1,1,1,1,0,3,1,Cloudflare Inc ECC CA-3,May 30 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,1,3.8,0,0,-1
+https://mendebikes.de,fraudulent,13,2,0,0,17,1,0,0,0,1,0,3,0,GTS CA 1P5,Oct  9 12:33:26 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://plastflaskershop.dk,legitimate,19,2,0,0,23,1,0,1,1,1,0,0,1,R3,Oct  6 01:08:33 2023 GMT,Let's Encrypt,2,0,2013-11-07 00:00,0,-1,0,0,-1
+https://www.daunenjacken-shop.com,fraudulent,25,3,1,0,27,2,1,1,1,1,0,0,1,GTS CA 1P5,Oct 20 11:54:40 2023 GMT,Google Trust Services LLC,9,1,2022-11-25 05:39,0,,0,0,-1
+https://www.lanade.de,legitimate,13,2,1,0,16,2,0,0,1,0,0,3,1,R3,Sep 28 21:14:38 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://brfprimepoultryexporter.com,fraudulent,27,3,0,0,31,1,0,0,0,0,0,3,0,R3,Oct 24 07:06:32 2023 GMT,Let's Encrypt,2,1,2023-03-28 07:56,0,,0,0,-1
+https://www.fensterstopper.eu,legitimate,21,2,1,0,24,2,0,0,0,0,0,2,1,R3,Sep 22 05:35:32 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.magicbodyfashion.net,legitimate,24,3,1,0,27,2,0,1,1,0,0,3,1,R3,Oct 20 21:41:24 2023 GMT,Let's Encrypt,2,0,2011-09-19 09:38,0,-1,0,0,-1
+https://motorbike.lt,legitimate,12,2,0,0,16,1,0,1,0,0,0,0,0,GTS CA 1P5,Oct 24 12:07:32 2023 GMT,Google Trust Services LLC,9,0,2016-07-22 00:00,0,-1,0,0,-1
+https://axfritz.shop,fraudulent,12,4,0,0,16,1,0,0,1,0,0,3,1,R3,Oct 25 22:46:20 2023 GMT,Let's Encrypt,2,0,None,0,,0,0,-1
+https://www.gedanusa.com,fraudulent,16,3,1,0,19,2,0,1,0,0,0,0,1,R3,Oct 17 03:21:43 2023 GMT,Let's Encrypt,2,0,2022-06-27 01:55,0,,0,0,-1
+https://farmacijahrvatska24.com,fraudulent,23,3,0,2,25,1,0,0,0,0,0,0,1,GTS CA 1P5,Oct 20 10:44:08 2023 GMT,Google Trust Services LLC,9,0,2022-05-13 09:21,0,,0,0,-1
+https://www.gamezonemart.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,E1,Sep 13 08:03:55 2023 GMT,Let's Encrypt,2,1,2023-06-15 08:45,0,,0,0,-1
+https://www.menbrandwear.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Nov 11 03:02:41 2023 GMT,Google Trust Services LLC,9,1,2023-06-15 02:37,0,,0,0,-1
+https://www.footwearopt.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 16 14:09:42 2023 GMT,Google Trust Services LLC,9,1,2023-04-20 00:00,0,,0,0,-1
+https://www.comfortablefeme.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,E1,Oct 11 07:25:55 2023 GMT,Let's Encrypt,2,1,2023-05-15 03:17,0,,0,0,-1
+https://www.newegg.com,legitimate,14,3,1,0,17,2,0,1,1,1,1,2,1,Cloudflare Inc ECC CA-3,May 28 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2000-02-01 19:24,1,1.6,1,0,-1
+https://www.bestsellerspants.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 27 08:13:42 2023 GMT,Google Trust Services LLC,9,1,2023-05-31 00:00,0,,0,0,-1
+https://www.accessoriestrade.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,E1,Oct 19 14:35:25 2023 GMT,Let's Encrypt,2,1,2023-03-21 00:00,0,,0,0,-1
+https://www.topstoreoffer.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 16 09:39:02 2023 GMT,Google Trust Services LLC,9,1,2023-07-18 10:21,0,,0,0,-1
+https://pakkertrousers.com,legitimate,18,3,0,0,22,1,0,1,1,0,0,2,1,R3,Sep 27 12:13:07 2023 GMT,Let's Encrypt,2,0,2020-08-26 10:05,0,-1,0,0,-1
+https://www.dulcine.de,fraudulent,14,2,1,0,17,2,0,1,1,0,0,3,1,R3,Oct 24 13:49:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.alfresco-offer.com,fraudulent,22,3,1,0,24,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 19 05:27:44 2023 GMT,Google Trust Services LLC,9,1,2023-06-21 05:53,0,,0,0,-1
+https://www.all-roundsurfsale.com,fraudulent,25,3,1,0,27,2,1,1,1,0,0,0,1,E1,Sep 30 06:49:25 2023 GMT,Let's Encrypt,2,1,2023-05-04 06:27,0,,0,0,-1
+https://www.generika4u.eu,fraudulent,17,2,1,1,19,2,0,0,0,0,1,0,1,GTS CA 1P5,Oct  8 05:34:06 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://guineys.ie,legitimate,10,2,0,0,14,1,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,Mar 20 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2014-02-03 00:00,1,4.8,0,1,802653
+https://extremehobby.com/en,legitimate,16,3,0,0,22,1,0,1,1,1,0,1,1,R3,Sep 23 21:12:37 2023 GMT,Let's Encrypt,2,0,2003-11-03 19:05,0,-1,0,0,-1
+https://www.newgearvogue.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  9 07:30:55 2023 GMT,Google Trust Services LLC,9,1,2023-05-13 04:50,0,,0,0,-1
+https://www.expert.ie,legitimate,13,2,1,0,16,2,0,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G1,Oct 11 23:59:59 2023 GMT,DigiCert Inc,7,0,1997-03-04 00:00,1,4.4,0,0,-1
+https://www.shedsdirectireland.com,legitimate,26,3,1,0,29,2,0,1,0,0,0,3,1,E1,Nov  3 04:14:37 2023 GMT,Let's Encrypt,2,0,2010-04-30 11:48,1,4.5,0,0,-1
+https://wilkens-silber.de,legitimate,17,2,0,0,20,1,1,1,1,0,0,3,1,R3,Oct  9 06:21:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://247blue.de,fraudulent,10,2,0,3,11,1,0,0,0,0,0,0,1,Encryption Everywhere DV TLS CA - G1,Oct 11 23:59:59 2023 GMT,DigiCert Inc,7,2,Hidden,0,,0,0,-1
+https://www.accessoiresde.com,fraudulent,21,3,1,0,24,2,0,0,0,0,0,0,0,GTS CA 1P5,Oct 15 04:41:42 2023 GMT,Google Trust Services LLC,9,1,2023-05-19 03:40,0,,0,0,-1
+https://skate-home.com/en,legitimate,14,3,0,0,19,1,1,0,0,0,0,2,1,"cPanel, Inc. Certification Authority",Sep 16 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2011-05-28 06:36,0,-1,0,0,-1
+https://www.coffeetablede.com,fraudulent,21,3,1,0,24,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 26 06:44:32 2023 GMT,Google Trust Services LLC,9,1,2023-06-28 07:03,0,,0,0,-1
+https://green-spirit.de,legitimate,15,2,0,0,18,1,1,1,1,0,0,2,1,R3,Oct 24 20:24:16 2023 GMT,Let's Encrypt,2,2,Hidden,1,3.2,0,0,-1
+https://cycletribe.ie,legitimate,13,2,0,0,17,1,0,1,1,0,0,2,1,R3,Oct 16 18:23:28 2023 GMT,Let's Encrypt,2,0,2014-02-27 00:00,1,3.8,0,0,-1
+https://www.tamscar-audio.es,legitimate,20,2,1,0,22,2,1,1,1,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Aug 29 23:59:59 2023 GMT,Sectigo Limited,3,2,Hidden,0,-1,0,0,-1
+https://www.superdrug.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,2,1,GeoTrust RSA CA 2018,Jan  3 23:59:59 2024 GMT,DigiCert Inc,7,0,1999-09-23 10:48,1,4.7,1,0,-1
+https://besttaxidermymounts.com,fraudulent,23,3,0,0,27,1,0,1,0,0,0,2,0,R3,Sep 20 03:31:08 2023 GMT,Let's Encrypt,2,1,2022-08-15 21:58,0,,0,0,-1
+https://www.mylacambra.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,2,1,R3,Sep 28 17:27:33 2023 GMT,Let's Encrypt,2,0,2010-11-30 11:57,0,-1,0,0,-1
+https://luxon.lt,legitimate,8,2,0,0,12,1,0,1,0,0,0,2,1,R3,Sep 16 13:34:11 2023 GMT,Let's Encrypt,2,0,2012-02-15 00:00,0,-1,0,0,-1
+https://fun-sport-vision.com,legitimate,20,3,0,0,22,1,2,1,1,0,0,2,1,R3,Sep 26 06:48:12 2023 GMT,Let's Encrypt,2,0,2003-07-11 00:27,1,3.9,0,0,-1
+https://www.makeusapparel.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 28 17:56:07 2023 GMT,Google Trust Services LLC,9,1,2023-04-03 00:00,0,,0,0,-1
+https://no-excess.com,legitimate,13,3,0,0,16,1,1,1,1,0,0,2,1,R3,Sep 13 01:15:52 2023 GMT,Let's Encrypt,2,0,1996-07-08 04:00,0,-1,0,0,-1
+https://www.child-vogue.com,fraudulent,19,3,1,0,21,2,1,1,1,0,0,0,0,GTS CA 1P5,Nov 10 08:02:47 2023 GMT,Google Trust Services LLC,9,1,2023-06-14 06:42,0,,0,0,-1
+https://www.saleitemhome.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Nov  6 02:08:32 2023 GMT,Let's Encrypt,2,1,2023-08-08 02:54,0,,0,0,-1
+https://ridelegitimatelogistics.com,fraudulent,21,3,0,0,25,1,0,0,0,0,0,2,1,R3,Sep 11 08:14:11 2023 GMT,Let's Encrypt,2,1,2023-02-11 07:53,0,,0,0,-1
+https://www.stylistaland.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Nov 23 07:10:22 2023 GMT,Let's Encrypt,2,1,2023-06-27 03:41,0,,0,0,-1
+https://www.uspopattire.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov  6 02:48:07 2023 GMT,Google Trust Services LLC,9,1,2023-08-08 03:42,0,,0,0,-1
+https://www.garonsbeachome.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 18 01:17:07 2023 GMT,Google Trust Services LLC,9,1,2023-06-20 02:08,0,,0,0,-1
+https://www.i-clip.com,legitimate,14,3,1,0,16,2,1,1,1,0,0,2,1,Thawte TLS RSA CA G1,Dec  9 23:59:59 2023 GMT,DigiCert Inc,7,0,2001-04-17 10:41,1,3.6,0,0,-1
+https://shoptr6.ferientipps.net,fraudulent,23,3,0,1,25,2,0,1,0,0,0,3,0,GTS CA 1P5,Oct  2 20:26:12 2023 GMT,Google Trust Services LLC,9,1,2022-07-14 03:44,0,,0,0,-1
+https://stockaerobics.com,fraudulent,17,3,0,0,21,1,0,1,1,0,0,0,0,E1,Oct  6 06:26:07 2023 GMT,Let's Encrypt,2,1,2023-05-10 02:34,0,,0,0,-1
+https://campinet.pt,legitimate,11,2,0,0,15,1,0,1,1,0,0,2,1,R3,Oct 19 07:52:43 2023 GMT,Let's Encrypt,2,0,2012-09-05,0,-1,0,0,-1
+https://www.knifebestech.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 18 09:11:41 2023 GMT,Google Trust Services LLC,9,1,2023-02-06 00:00,0,,0,0,-1
+https://artificialtrees.ie,legitimate,18,2,0,0,22,1,0,0,0,0,0,3,1,E1,Nov 11 12:30:47 2023 GMT,Let's Encrypt,2,0,2011-11-10 00:00,0,-1,0,0,-1
+https://www.bopsiz.store,fraudulent,16,5,1,0,19,2,0,1,1,0,0,2,0,GTS CA 1P5,Sep 10 09:22:07 2023 GMT,Google Trust Services LLC,9,1,2023-02-07 00:00,0,,0,0,-1
+https://vestment.co.uk,legitimate,14,5,0,0,17,2,0,1,1,0,0,1,1,Certum Domain Validation CA SHA2,Jul 10 00:21:23 2024 GMT,Unizeto Technologies S.A.,11,0,2014-10-10 00:00,0,-1,0,0,-1
+https://lumina.dk,legitimate,9,2,0,0,13,1,0,1,0,0,0,2,1,R3,Sep  9 11:23:41 2023 GMT,Let's Encrypt,2,0,2017-05-30 00:00,1,3.5,0,0,-1
+https://www.rijstextiles.com,legitimate,20,3,1,0,23,2,0,1,1,1,1,2,1,R3,Sep 30 21:50:10 2023 GMT,Let's Encrypt,2,0,2013-03-01 08:33,1,4.8,0,0,-1
+https://zahradni-lavice.cz,legitimate,18,2,0,0,21,1,1,0,0,0,0,0,1,Shoper SSL,Mar 15 13:37:18 2024 GMT,Dreamcommerce S.A.,11,0,2021-08-23 17:09,0,-1,0,0,-1
+https://www.optbagsite.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 13 06:14:54 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 05:56,0,,0,0,-1
+https://www.focenza.com,legitimate,15,3,1,0,18,2,0,1,1,0,0,2,1,E1,Sep  6 00:53:43 2023 GMT,Let's Encrypt,2,0,2015-06-18 15:53,0,-1,0,0,-1
+https://cookinglife.eu,legitimate,14,2,0,0,18,1,0,1,1,0,0,2,1,R3,Sep  9 02:20:46 2023 GMT,Let's Encrypt,2,2,Hidden,1,1.8,0,0,-1
+https://lovelyknife.com,fraudulent,15,3,0,0,19,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct 11 05:16:22 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 03:13,0,,0,0,-1
+https://yvipharmacy.com,fraudulent,15,3,0,0,19,1,0,1,0,0,1,0,0,R3,Nov 26 08:05:19 2023 GMT,Let's Encrypt,2,0,2015-01-30 15:40,0,,0,0,-1
+https://chiccouturez.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct 13 07:51:27 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 03:19,0,,0,0,-1
+https://www.zasmobel.com,legitimate,16,3,1,0,19,2,0,0,0,0,0,2,1,R3,Oct  9 01:04:35 2023 GMT,Let's Encrypt,2,0,2007-11-26 12:10,0,-1,0,0,-1
+https://www.audores.lt/lt,legitimate,14,2,1,0,19,2,0,1,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Nov  2 23:59:59 2023 GMT,Sectigo Limited,3,0,2010-02-23 00:00,0,-1,0,0,-1
+https://www.cloudsiv.com,fraudulent,16,3,1,0,19,2,0,0,1,0,0,1,1,Cloudflare Inc ECC CA-3,Jun  4 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-02 00:00,0,,0,0,-1
+https://goldendiscs.ie,legitimate,14,2,0,0,18,1,0,1,1,1,0,2,1,R3,Nov  1 01:46:28 2023 GMT,Let's Encrypt,2,0,1998-07-01 00:00,1,3.8,0,1,682488
+https://sidonas.lt,legitimate,10,2,0,0,14,1,0,1,0,1,1,2,1,R3,Sep 10 02:01:42 2023 GMT,Let's Encrypt,2,0,2007-08-02 00:00,0,-1,0,0,-1
+https://zombiedash.eu,legitimate,13,2,0,0,17,1,0,0,0,0,0,1,1,Cloudflare Inc ECC CA-3,Nov 23 23:59:59 2023 GMT,"Cloudflare, Inc.",1,2,Hidden,0,-1,0,0,-1
+https://www.mccauley.ie,legitimate,15,2,1,0,18,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 25 02:37:08 2023 GMT,Google Trust Services LLC,9,0,2017-11-06 00:00,1,4.9,0,0,-1
+https://www.fadclothesus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 11:23:55 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 00:00,0,,0,0,-1
+https://www.gesundhaustierehaus.com,fraudulent,27,3,1,0,30,2,0,1,1,1,0,1,0,R3,Sep 15 02:02:28 2023 GMT,Let's Encrypt,2,0,2021-12-05 18:09,0,,0,0,-1
+https://shiwi.com,legitimate,9,3,0,0,13,1,0,1,1,0,0,2,1,R3,Aug 31 23:05:03 2023 GMT,Let's Encrypt,2,0,1999-09-02 09:22,1,2.8,0,0,-1
+https://www.feworiesad.shop,fraudulent,19,4,1,0,21,2,0,1,0,1,0,0,0,GTS CA 1P5,Oct 20 11:17:21 2023 GMT,Google Trust Services LLC,9,1,2023-05-22,0,,0,0,-1
+https://www.isomaster.dk,legitimate,16,2,1,0,19,2,0,0,0,0,0,2,1,GTS CA 1P5,Oct 12 08:14:56 2023 GMT,Google Trust Services LLC,9,0,2003-05-09 00:00,0,-1,0,0,-1
+https://www.stylishpaulin.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 06:34:42 2023 GMT,Google Trust Services LLC,9,1,2023-07-04 07:27,0,,0,0,-1
+https://electro-worlds.shop,fraudulent,19,4,0,0,22,1,1,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jan  5 23:59:59 2024 GMT,Sectigo Limited,3,1,2023-01-05 00:00,0,,0,0,-1
+https://aerialsilks.eu,legitimate,14,2,0,0,18,1,0,0,0,0,0,3,1,Shoper SSL,Nov 30 23:16:12 2023 GMT,Dreamcommerce S.A.,11,2,Hidden,0,-1,0,0,-1
+https://www.glasoflaskor.se,legitimate,19,2,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 12 14:29:18 2023 GMT,Google Trust Services LLC,9,0,2012-09-04 00:00,1,4,0,0,-1
+https://www.exxpozed.com,legitimate,16,3,1,0,19,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Apr 17 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2010-03-23 21:48,1,1.7,1,0,-1
+https://www.ardkeen.com,legitimate,15,3,1,0,18,2,0,1,1,1,0,2,1,R3,Oct  4 23:34:18 2023 GMT,Let's Encrypt,2,0,1999-06-18 08:17,1,4.8,0,0,-1
+https://kamagrastore24.org,fraudulent,18,3,0,2,20,1,0,0,0,0,0,0,0,GTS CA 1P5,Sep 23 14:30:15 2023 GMT,Google Trust Services LLC,9,1,2023-04-26 17:02,0,,0,0,-1
+https://stevemadden.de,legitimate,14,2,0,0,18,1,0,1,1,0,0,3,1,R3,Oct 16 22:53:53 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,1,538286
+https://dedicatednutrition.eu,legitimate,21,2,0,0,25,1,0,1,1,0,0,2,1,R3,Oct 26 23:49:56 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://fixpart.ie/e,legitimate,10,2,0,0,15,1,0,1,1,0,0,2,1,R3,Oct 25 19:08:30 2023 GMT,Let's Encrypt,2,0,2022-04-12 00:00,1,4.1,0,0,-1
+https://www.stateofart.com/nl,legitimate,18,3,1,0,23,2,0,1,1,0,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Oct 23 23:59:59 2023 GMT,Sectigo Limited,3,0,1997-02-24 05:00,0,-1,0,0,-1
+https://thesupernuts.com,legitimate,16,3,0,0,20,1,0,1,1,1,0,2,1,R3,Sep 14 02:52:59 2023 GMT,Let's Encrypt,2,0,2017-12-19 14:32,1,4.4,0,0,-1
+https://premiumsiliconereborn.com,fraudulent,25,3,0,0,29,1,0,0,0,0,0,0,0,R3,Sep  7 15:07:03 2023 GMT,Let's Encrypt,2,1,2022-09-20 09:16,0,,0,0,-1
+https://www.edgy-shop.com,fraudulent,17,3,1,0,19,2,1,1,1,0,0,0,1,GTS CA 1P5,Oct 13 11:46:22 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 07:03,0,,0,0,-1
+https://www.lekue.com/e,legitimate,13,3,1,0,17,2,0,0,0,0,0,2,1,GlobalSign RSA OV SSL CA 2018,Jul 30 10:57:58 2024 GMT,GlobalSign nv-sa,8,0,2000-05-10 07:08,1,3.6,0,0,-1
+https://merinotraveltech.com/en,legitimate,20,3,0,0,26,1,0,0,1,0,0,2,1,R3,Sep 12 04:36:09 2023 GMT,Let's Encrypt,2,0,2020-04-14 22:54,0,-1,0,0,-1
+https://mounjaro-kaufen.com,fraudulent,19,3,0,0,22,1,1,0,0,0,0,0,0,R3,Oct  8 16:16:14 2023 GMT,Let's Encrypt,2,1,2023-05-11 18:03,0,,0,0,-1
+https://zusenzomer.com,legitimate,14,3,0,0,18,1,0,1,1,0,0,3,1,R3,Sep 22 16:58:32 2023 GMT,Let's Encrypt,2,0,2013-12-19 09:02,0,-1,0,0,-1
+https://www.petdiscounters.com,legitimate,22,3,1,0,25,2,0,1,1,0,0,2,1,R3,Oct 27 03:06:48 2023 GMT,Let's Encrypt,2,0,1999-01-08 05:00,0,-1,0,0,-1
+https://www.keen-sandalen.at,fraudulent,20,2,1,0,22,2,1,0,0,0,0,0,1,"cPanel, Inc. Certification Authority",Oct  7 23:59:59 2023 GMT,"cPanel, Inc.",4,2,Hidden,0,,0,0,-1
+https://www.crbsteru.shop,fraudulent,17,4,1,0,19,2,0,1,0,1,0,0,0,GTS CA 1P5,Oct 12 11:57:49 2023 GMT,Google Trust Services LLC,9,1,2023-03-15,0,,0,0,-1
+https://www.markdownfadmerge.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 18 09:20:43 2023 GMT,Google Trust Services LLC,9,1,2023-04-22 00:00,0,,0,0,-1
+https://calpabarcelona.com/en,legitimate,18,3,0,0,24,1,0,1,1,0,0,2,1,R3,Sep  4 05:32:02 2023 GMT,Let's Encrypt,2,0,2017-01-05 16:19,0,-1,0,0,-1
+https://www.acessquad.club,fraudulent,18,4,1,0,21,2,0,1,1,0,0,1,1,R3,Sep  7 03:10:30 2023 GMT,Let's Encrypt,2,0,2021-11-16 00:00,0,,0,0,-1
+https://superbalist.com,legitimate,15,3,0,0,19,1,0,1,0,1,0,2,1,Cloudflare Inc ECC CA-3,May  1 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2012-10-18 15:54,1,1.9,0,1,100803
+https://beaudoircosmeticsbv.com,fraudulent,23,3,0,0,27,1,0,0,0,0,0,2,1,R3,Sep 16 05:31:11 2023 GMT,Let's Encrypt,2,0,2022-06-15 19:11,1,3.2,0,0,-1
+https://www.qualitytophome.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  6 06:04:28 2023 GMT,Google Trust Services LLC,9,1,2023-05-10 06:25,0,,0,0,-1
+https://www.autozubehr.com,fraudulent,18,3,1,0,21,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 16 10:38:32 2023 GMT,Google Trust Services LLC,9,1,2022-10-25 06:04,0,,0,0,-1
+https://www.adh-fishing.com,legitimate,19,3,1,0,21,2,1,1,1,1,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Jun 10 23:59:59 2024 GMT,Sectigo Limited,3,0,2012-03-12 14:58,1,3.7,0,0,-1
+https://gutehauswelpen.com,fraudulent,18,3,0,0,22,1,0,0,1,0,0,2,1,R3,Sep 17 05:32:26 2023 GMT,Let's Encrypt,2,1,2023-02-16 22:01,0,,0,0,-1
+https://breezekiss.shop,fraudulent,15,4,0,0,19,1,0,1,1,0,0,2,0,R3,Oct 16 17:36:32 2023 GMT,Let's Encrypt,2,0,2021-11-04 10:07,0,,0,0,-1
+https://www.discountscarpa.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,Cloudflare Inc ECC CA-3,Jan 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-09-14 02:58,0,,0,0,-1
+https://www.eripo.lt,legitimate,12,2,1,0,15,2,0,1,0,0,0,2,1,R3,Oct  2 20:10:28 2023 GMT,Let's Encrypt,2,0,2012-08-31 00:00,0,-1,0,0,-1
+https://www.euschuhe.de,fraudulent,15,2,1,0,18,2,0,0,0,0,0,0,1,GTS CA 1P5,Sep  4 11:41:48 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.bright-kitchen.com,legitimate,22,3,1,0,24,2,1,1,1,0,0,3,0,R3,Sep  1 00:19:31 2023 GMT,Let's Encrypt,2,0,2015-08-03 00:00,0,-1,0,0,-1
+https://depanten-gel.site,fraudulent,17,4,0,0,20,1,1,0,0,0,0,2,1,R3,Oct 14 01:05:42 2023 GMT,Let's Encrypt,2,0,2022-04-21 00:00,0,,0,0,-1
+https://www.shk-direkt24.de,legitimate,19,2,1,2,19,2,1,1,1,1,0,3,1,R3,Oct  7 16:20:05 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.favoriteboxing.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 15 07:23:40 2023 GMT,Google Trust Services LLC,9,1,2023-07-17 00:00,0,,0,0,-1
+https://www.frank1967.com,legitimate,17,3,1,4,16,2,0,0,1,0,0,2,0,R3,Sep 14 10:20:23 2023 GMT,Let's Encrypt,2,0,2015-08-14 14:30,0,-1,0,0,-1
+https://oldestsweetshop.co.uk,legitimate,21,5,0,0,24,2,0,1,1,0,0,2,1,R3,Oct  2 12:26:43 2023 GMT,Let's Encrypt,2,0,1999-07-01 00:00,0,-1,0,0,-1
+https://www.fahrzeugprada.de,fraudulent,20,2,1,0,23,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 27 09:28:47 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.monsieurtshirt.eu,legitimate,21,2,1,0,24,2,0,1,1,0,0,3,1,Amazon RSA 2048 M02,Apr  3 23:59:59 2024 GMT,Amazon,6,2,Hidden,0,-1,0,0,-1
+https://www.carhartt.com/eu/en-e,legitimate,16,3,1,0,24,2,1,1,1,0,0,2,1,DigiCert TLS RSA SHA256 2020 CA1,Nov 23 23:59:59 2023 GMT,DigiCert Inc,7,0,1996-02-22 05:00,1,1.4,0,0,-1
+https://danmarkpotenspiller.com,fraudulent,23,3,0,0,27,1,0,0,0,0,0,0,1,R3,Sep 27 18:10:02 2023 GMT,Let's Encrypt,2,0,2020-04-21 15:16,0,,0,0,-1
+https://www.offergardentool.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 24 00:57:12 2023 GMT,Google Trust Services LLC,9,1,2023-07-26 01:36,0,,0,0,-1
+https://www.swaens.nl/en,legitimate,13,2,1,0,18,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  4 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2011-08-28 00:00,0,-1,0,0,-1
+https://www.garmentprous.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 10 10:56:55 2023 GMT,Google Trust Services LLC,9,1,2023-03-16 00:00,0,,0,0,-1
+https://naturesuper.de,fraudulent,14,2,0,0,18,1,0,1,1,0,0,3,0,R3,Oct 21 10:53:54 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.tinybuddy.eu,legitimate,16,2,1,0,19,2,0,1,1,1,0,2,1,R3,Sep 19 09:51:35 2023 GMT,Let's Encrypt,2,2,Hidden,1,3.1,0,0,-1
+https://apoluna.space,fraudulent,13,5,0,0,17,1,0,0,0,0,0,0,1,R3,Oct 21 21:32:57 2023 GMT,Let's Encrypt,2,1,2023-01-16 00:00,0,,0,0,-1
+https://www.sportyraiment.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct  6 04:24:28 2023 GMT,Let's Encrypt,2,1,2023-05-10 03:47,0,,0,0,-1
+https://www.scholarathelite.com,fraudulent,23,3,1,0,26,2,0,1,0,0,0,0,0,GTS CA 1P5,Oct 25 08:44:38 2023 GMT,Google Trust Services LLC,9,1,2023-05-22 01:48,0,,0,0,-1
+https://www.compressport.com/inter/en,legitimate,20,3,1,0,30,2,0,1,1,0,0,2,1,R3,Oct 30 00:06:20 2023 GMT,Let's Encrypt,2,0,2008-06-23 06:54,1,3.4,0,0,-1
+https://brandcutlery.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,0,E1,Oct 11 08:05:59 2023 GMT,Let's Encrypt,2,1,2023-05-15 03:13,0,,0,0,-1
+https://www.twidlamodern.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 13 07:21:40 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 06:20,0,,0,0,-1
+https://www.itemssurf.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,E1,Sep  6 03:30:45 2023 GMT,Let's Encrypt,2,1,2023-04-10 00:00,0,,0,0,-1
+https://www.bathtowelonsale.com,fraudulent,23,3,1,0,26,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 27 05:41:46 2023 GMT,Google Trust Services LLC,9,1,2023-05-31 01:47,0,,0,0,-1
+https://www.zulily.com,legitimate,14,3,1,0,17,2,0,1,1,0,0,2,1,Amazon RSA 2048 M01,Nov 29 23:59:59 2023 GMT,Amazon,6,0,2009-12-10 02:16,1,1.9,1,0,-1
+https://urbanmedley.com,legitimate,15,3,0,0,19,1,0,1,1,0,0,2,1,"cPanel, Inc. Certification Authority",Aug 20 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2019-06-05 11:36,0,-1,0,0,-1
+https://www.siouxshoe.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 07:57:40 2023 GMT,Google Trust Services LLC,9,1,2022-12-21 05:51,0,,0,0,-1
+https://edmarketplace4all.com,fraudulent,21,3,0,1,24,1,0,1,0,0,1,0,0,R3,Nov 26 09:11:03 2023 GMT,Let's Encrypt,2,0,2017-03-15 21:25,0,,0,0,-1
+https://www.trtid.com,fraudulent,13,3,1,0,16,2,0,1,1,0,0,3,0,GTS CA 1P5,Oct  1 10:23:20 2023 GMT,Google Trust Services LLC,9,1,2023-04-17 09:08,0,,0,0,-1
+https://www.fersay.com,legitimate,14,3,1,0,17,2,0,0,1,0,0,2,1,R3,Oct  9 10:01:22 2023 GMT,Let's Encrypt,2,0,1997-11-25 05:00,0,-1,0,0,-1
+https://www.itemsclothus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  5 07:35:50 2023 GMT,Google Trust Services LLC,9,1,2023-05-09 01:49,0,,0,0,-1
+https://www.agradi.com,legitimate,14,3,1,0,17,2,0,1,1,0,0,2,1,Amazon RSA 2048 M02,Mar 30 23:59:59 2024 GMT,Amazon,6,0,2001-09-11 16:09,1,1.7,0,0,-1
+https://www.msfashionattire.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,Mar 19 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-03-16 00:00,0,,0,0,-1
+https://www.tramasmas.pt,legitimate,16,2,1,0,19,2,0,0,1,0,0,1,1,R3,Sep 15 21:16:36 2023 GMT,Let's Encrypt,2,0,2015-03-02,0,-1,0,0,-1
+https://www.carnivalstylish.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  9 06:32:16 2023 GMT,Google Trust Services LLC,9,1,2023-04-13 03:25,0,,0,0,-1
+https://www.carraigdonn.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,2,1,R3,Oct 23 14:35:47 2023 GMT,Let's Encrypt,2,0,1998-07-27 04:00,1,4.7,0,0,-1
+https://spaceclothus.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,0,E1,Oct  4 11:21:47 2023 GMT,Let's Encrypt,2,1,2023-05-08 06:48,0,,0,0,-1
+https://airfloppy.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,2,1,R3,Oct 12 15:12:24 2023 GMT,Let's Encrypt,2,0,2022-05-20 14:17,1,1.8,0,0,-1
+https://www.knifestoresr.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  4 01:28:55 2023 GMT,Google Trust Services LLC,9,1,2023-06-06 00:00,0,,0,0,-1
+https://www.usmodishsite.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,E1,Sep 11 06:05:54 2023 GMT,Let's Encrypt,2,1,2023-06-13 06:36,0,,0,0,-1
+https://www.litei.de,legitimate,12,2,1,0,15,2,0,0,0,0,0,2,1,R3,Sep 20 11:23:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.lscodockersat.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  4 04:18:41 2023 GMT,Google Trust Services LLC,9,1,2023-06-06 00:00,0,,0,0,-1
+https://www.karmenbeauty.lt/lt,legitimate,19,2,1,0,24,2,0,0,1,1,0,0,0,GTS CA 1P5,Sep 23 20:19:00 2023 GMT,Google Trust Services LLC,9,0,2021-11-23 00:00,0,-1,0,0,-1
+https://www.outletgardener.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,3,1,GTS CA 1P5,Oct 19 13:03:51 2023 GMT,Google Trust Services LLC,9,1,2022-09-20 06:24,0,,0,0,-1
+https://biortopedicos.com,legitimate,17,3,0,0,21,1,0,0,0,0,0,2,1,R3,Oct 23 00:21:38 2023 GMT,Let's Encrypt,2,0,2017-10-24 19:10,0,-1,0,0,-1
+https://www.bluewheel.de,legitimate,16,2,1,0,19,2,0,1,1,1,0,3,1,Cloudflare Inc ECC CA-3,Jul 18 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,1,2.2,0,0,-1
+https://www.usmodelset.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,E1,Oct  8 06:14:13 2023 GMT,Let's Encrypt,2,1,2023-07-10 07:09,0,,0,0,-1
+https://www.assemblyoflamps.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 07:47:03 2023 GMT,Google Trust Services LLC,9,1,2023-07-04 08:18,0,,0,0,-1
+https://www.fashionesta.com/en-int,legitimate,19,3,1,0,27,2,1,1,1,0,0,2,1,R3,Oct  9 16:06:14 2023 GMT,Let's Encrypt,2,0,2003-11-07 14:53,1,4,0,0,-1
+https://www.bathrobepon.de,fraudulent,18,2,1,0,21,2,0,1,1,1,0,0,1,E1,Sep 25 09:29:45 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://blochert.com,fraudulent,12,3,0,0,16,1,0,0,0,0,0,2,1,R3,Sep 15 07:43:09 2023 GMT,Let's Encrypt,2,1,2022-12-19 10:37,0,,0,0,-1
+https://rikshifashions.ch,legitimate,17,2,0,0,21,1,0,1,1,1,0,2,1,R3,Oct 23 17:34:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://easywalker.com,legitimate,14,3,0,0,18,1,0,1,1,1,0,2,1,R3,Oct 27 05:41:04 2023 GMT,Let's Encrypt,2,0,2001-02-05 11:36,0,-1,0,0,-1
+https://www.angeljuicers.eu/en,legitimate,19,2,1,0,24,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb  5 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,1,3.2,0,0,-1
+https://www.mencategory.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 13:33:14 2023 GMT,Google Trust Services LLC,9,1,2023-03-25 07:33,0,,0,0,-1
+https://pflanz-stein.de,fraudulent,15,2,0,0,18,1,1,0,0,0,0,3,1,E1,Nov 26 15:57:29 2023 GMT,Let's Encrypt,2,2,Hidden,1,2.3,0,0,-1
+https://unipillz.com,fraudulent,12,3,0,0,16,1,0,1,0,0,0,0,1,E1,Nov  8 09:44:57 2023 GMT,Let's Encrypt,2,0,2017-10-22 18:32,0,,0,0,-1
+https://www.condor.es/home-2,legitimate,13,2,1,1,20,2,1,0,0,0,0,2,1,R3,Sep 18 23:32:41 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.ukswimwear.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,2,1,R3,Sep  7 07:51:22 2023 GMT,Let's Encrypt,2,0,2002-08-11 06:25,1,3.8,0,0,-1
+https://www.beachflags.com/en,legitimate,18,3,1,0,23,2,0,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,Apr  8 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2002-04-15 12:29,0,-1,0,0,-1
+https://www.morebicycle.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct 17 08:48:18 2023 GMT,Let's Encrypt,2,1,2023-07-19 09:25,0,,0,0,-1
+https://www.bobshop.com/en,legitimate,15,3,1,0,20,2,0,1,1,1,0,2,1,GTS CA 1P5,Oct 22 20:38:53 2023 GMT,Google Trust Services LLC,9,0,1999-01-27 05:00,1,4.7,0,0,-1
+https://www.max-healthcarerx.com,fraudulent,24,3,1,0,26,2,1,0,0,0,0,0,0,R3,Sep 29 00:22:15 2023 GMT,Let's Encrypt,2,0,2020-06-01 17:00,0,,0,0,-1
+https://maritamoreno.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,2,1,R3,Sep  1 03:15:11 2023 GMT,Let's Encrypt,2,0,2015-02-23 11:31,0,-1,0,0,-1
+https://alles-motokultur.de,fraudulent,19,2,0,0,22,1,1,0,0,0,0,2,1,R3,Aug 31 14:29:35 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.herrentops.de,fraudulent,17,2,1,0,20,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Feb 21 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,,0,0,-1
+https://stylian.net,legitimate,11,3,0,0,15,1,0,1,1,1,1,2,1,R3,Oct  2 11:21:35 2023 GMT,Let's Encrypt,2,0,2014-10-13 06:25,0,-1,0,0,-1
+https://www.dille-kamille.com,legitimate,21,3,1,0,23,2,1,1,1,1,0,2,1,Trust Provider B.V. TLS RSA CA G1,Nov 22 23:59:59 2023 GMT,Trust Provider B.V.,11,0,2001-02-23 00:00,0,-1,0,0,-1
+https://www.ponsetionsale.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 13 09:58:49 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 06:48,0,,0,0,-1
+https://www.pme-legend.com,legitimate,18,3,1,0,20,2,1,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,Apr 27 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2006-02-07 21:32,1,2.2,0,0,-1
+https://www.tomsona.lt,legitimate,14,2,1,0,17,2,0,1,0,0,0,2,1,R3,Sep  9 20:13:00 2023 GMT,Let's Encrypt,2,0,2018-01-16 00:00,0,-1,0,0,-1
+https://www.storedining.com,fraudulent,19,3,1,0,22,2,0,1,1,1,0,0,0,Cloudflare Inc ECC CA-3,Mar  5 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-03-06 02:52,0,,0,0,-1
+https://www.asalecmatalan.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 28 21:31:43 2023 GMT,Google Trust Services LLC,9,1,2023-03-06 00:00,0,,0,0,-1
+https://www.senukai.lt,legitimate,14,2,1,0,17,2,0,1,0,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  7 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1997-11-20 00:00,1,2.2,0,0,-1
+https://www.bath-sale.com,fraudulent,17,3,1,0,19,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 25 14:56:03 2023 GMT,Google Trust Services LLC,9,1,2022-11-03 03:48,0,,0,0,-1
+https://www.escentual.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Dec  3 23:59:59 2023 GMT,Sectigo Limited,3,0,2002-03-27 12:32,1,4.7,1,0,-1
+https://www.edperm.com,fraudulent,14,3,1,0,17,2,0,0,0,0,0,0,1,R3,Oct 17 00:21:15 2023 GMT,Let's Encrypt,2,1,2023-03-17 10:59,0,,0,0,-1
+https://store.acer.com/index.htm,legitimate,14,3,0,0,25,3,0,0,0,0,0,0,1,DigiCert TLS RSA SHA256 2020 CA1,Feb  7 23:59:59 2024 GMT,DigiCert Inc,7,0,1994-09-07 04:00,1,3.7,0,0,-1
+https://www.gunsambino.com,fraudulent,18,3,1,0,21,2,0,0,0,1,1,2,1,R3,Sep 17 09:27:02 2023 GMT,Let's Encrypt,2,1,2023-02-17 11:04,0,,0,0,-1
+https://www.cleansale24.com,legitimate,19,3,1,2,20,2,0,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G2,Aug 22 23:59:59 2023 GMT,DigiCert Inc,7,0,2020-06-04 08:08,0,-1,0,0,-1
+https://www.tennis-total.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,0,GTS CA 1P5,Nov 10 09:28:10 2023 GMT,Google Trust Services LLC,9,1,2023-06-14 06:36,0,,0,0,-1
+https://www.makenewoutdoor.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  7 12:51:45 2023 GMT,Google Trust Services LLC,9,1,2023-04-11 00:00,0,,0,0,-1
+https://enerimonsters.it,legitimate,16,2,0,0,20,1,0,1,1,0,0,2,1,R3,Oct 27 02:53:04 2023 GMT,Let's Encrypt,2,0,2019-10-31 19:58,0,-1,0,0,-1
+https://www.america-today.com/nl-n,legitimate,21,3,1,0,26,2,2,1,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jan 24 23:59:59 2024 GMT,Sectigo Limited,3,0,1997-03-11 05:00,1,4.3,0,0,-1
+https://www.swimcouturex.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  5 07:31:03 2023 GMT,Google Trust Services LLC,9,1,2023-06-07 00:00,0,,0,0,-1
+https://e-marilyn.eu,legitimate,12,2,0,0,15,1,1,0,1,0,0,3,1,Certum Domain Validation CA SHA2,Dec  1 14:39:24 2023 GMT,Unizeto Technologies S.A.,2,2,Hidden,0,-1,0,0,-1
+https://lovebug.ie,legitimate,10,2,0,0,14,1,0,1,1,0,0,2,0,R3,Nov 22 11:02:04 2023 GMT,Let's Encrypt,2,0,2020-06-11 00:00,0,-1,0,0,-1
+https://www.hydrogearworld.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 20 11:48:46 2023 GMT,Google Trust Services LLC,9,1,2023-05-24 00:00,0,,0,0,-1
+https://trinitylivestockfarm.co.za,fraudulent,26,5,0,0,29,2,0,1,0,0,0,2,0,R3,Sep  7 05:02:01 2023 GMT,Let's Encrypt,2,1,2023-06-08 00:00,0,,0,0,-1
+https://buypills.online,fraudulent,15,6,0,0,19,1,0,0,0,0,0,0,1,R3,Nov 25 23:59:12 2023 GMT,Let's Encrypt,2,1,2022-11-13 08:27,0,,0,0,-1
+https://www.fertigmontiert.com,fraudulent,22,3,1,0,25,2,0,1,1,1,0,0,1,E1,Oct  9 10:39:59 2023 GMT,Let's Encrypt,2,1,2023-05-13 07:34,0,,0,0,-1
+https://nezliving.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,2,1,R3,Oct 10 04:22:31 2023 GMT,Let's Encrypt,2,0,2019-03-10 19:29,0,-1,0,0,-1
+https://www.vogueonlinestore.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 15 07:58:53 2023 GMT,Google Trust Services LLC,9,1,2023-08-17 08:43,0,,0,0,-1
+https://www.marketusgear.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 23 12:22:38 2023 GMT,Let's Encrypt,2,1,2023-03-29 03:32,0,,0,0,-1
+https://www.inoqd.com,fraudulent,13,3,1,0,16,2,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jun 27 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-28 09:24,0,,0,0,-1
+https://floh.com,legitimate,8,3,0,0,12,1,0,1,1,0,0,2,1,R3,Sep  4 12:46:53 2023 GMT,Let's Encrypt,2,0,2001-11-17 00:39,0,-1,0,0,-1
+https://www.lampsorlights.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 25 05:32:58 2023 GMT,Google Trust Services LLC,9,1,2023-06-27 06:24,0,,0,0,-1
+https://www.empinio24.de,legitimate,16,2,1,2,17,2,0,1,1,1,0,3,1,GTS CA 1P5,Oct  5 17:51:05 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,-1,0,0,-1
+https://www.lalingeriedesrondes.com,legitimate,27,3,1,0,30,2,0,0,1,0,0,0,1,GTS CA 1P5,Oct 20 11:13:04 2023 GMT,Google Trust Services LLC,9,0,2008-03-07 09:45,1,2.5,0,0,-1
+https://faitsdarmes.com/en,legitimate,15,3,0,0,21,1,0,0,1,0,0,2,1,R3,Oct 16 14:28:29 2023 GMT,Let's Encrypt,2,0,2013-05-16 11:32,1,4.8,0,0,-1
+https://browin.com,legitimate,10,3,0,0,14,1,0,1,1,1,0,3,1,R3,Oct  2 23:53:32 2023 GMT,Let's Encrypt,2,0,2013-09-21 18:04,0,-1,0,0,-1
+https://highlandpharms.com,legitimate,18,3,0,0,22,1,0,1,0,0,0,0,1,Go Daddy Secure Certificate Authority - G2,Apr 10 19:30:12 2024 GMT,"GoDaddy.com, Inc.",5,0,2015-01-09 20:45,1,4,1,1,875089
+https://turbinegeneratorengines.co.za,fraudulent,29,5,0,0,32,2,0,1,0,0,0,2,1,R3,Oct 17 11:28:27 2023 GMT,Let's Encrypt,2,1,2023-05-16 00:00,0,,0,0,-1
+https://drogenbestellenshop.com,fraudulent,23,3,0,0,27,1,0,0,1,1,1,1,1,R3,Sep 12 23:58:27 2023 GMT,Let's Encrypt,2,1,2023-06-15 00:40,0,,0,0,-1
+https://www.makerist.com,legitimate,16,3,1,0,19,2,0,1,1,0,0,0,1,Amazon RSA 2048 M02,Aug 21 23:59:59 2024 GMT,Amazon,6,0,2013-05-21 15:57,0,-1,0,0,-1
+https://www.space-tennis.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,0,GTS CA 1P5,Nov 10 06:33:57 2023 GMT,Google Trust Services LLC,9,1,2023-06-14 06:36,0,,0,0,-1
+https://www.motorcyclecastlex.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 05:29:16 2023 GMT,Google Trust Services LLC,9,1,2023-07-21 06:21,0,,0,0,-1
+http://www.aloevera.lt,legitimate,15,2,1,0,17,2,0,1,0,0,0,2,1,R3,Oct 24 20:17:04 2023 GMT,Let's Encrypt,2,0,2014-12-09 00:00,0,-1,0,0,-1
+https://www.idealo.co.uk,legitimate,16,5,1,0,18,3,0,0,0,0,0,0,1,R3,Oct 11 11:19:25 2023 GMT,Let's Encrypt,2,0,2000-07-02 00:00,1,2.4,0,0,-1
+https://www.new-walls.com,legitimate,17,3,1,0,19,2,1,1,1,0,0,2,1,Sectigo RSA Organization Validation Secure Server CA,Jul  2 23:59:59 2024 GMT,Sectigo Limited,3,0,2016-06-13 16:20,0,-1,0,0,-1
+https://www.ambushcheap.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct 19 02:25:27 2023 GMT,Let's Encrypt,2,1,2023-07-21 00:00,0,,0,0,-1
+https://www.westminsterflowersandgifts.com,legitimate,34,3,1,0,37,2,0,1,1,0,0,1,1,Sectigo RSA Domain Validation Secure Server CA,Nov 19 23:59:59 2023 GMT,Sectigo Limited,3,0,2004-06-18 11:42,0,-1,0,0,-1
+https://kusemo.com,fraudulent,10,3,0,0,14,1,0,1,1,0,0,2,1,R3,Sep  2 09:39:34 2023 GMT,Let's Encrypt,2,1,2023-04-03 00:00,0,,0,0,-1
+https://www.fieldstyleus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 22 07:27:25 2023 GMT,Google Trust Services LLC,9,1,2023-07-24 00:00,0,,0,0,-1
+https://www.malluscosmetics.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  7 10:24:01 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 07:07,0,,0,0,-1
+https://movera.lt,legitimate,9,2,0,0,13,1,0,1,1,0,0,2,1,R3,Oct 15 20:08:34 2023 GMT,Let's Encrypt,2,0,2018-06-26 00:00,0,-1,0,0,-1
+https://oliver.lt,legitimate,9,2,0,0,13,1,0,1,0,1,0,2,1,GTS CA 1P5,Oct 20 15:24:20 2023 GMT,Google Trust Services LLC,9,0,2018-05-08 00:00,0,-1,0,0,-1
+https://www.durablelady.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct 11 07:29:38 2023 GMT,Let's Encrypt,2,1,2023-05-15 02:56,0,,0,0,-1
+https://optsummerfinery.com,fraudulent,19,3,0,0,23,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct 11 07:51:48 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 07:03,0,,0,0,-1
+https://www.kabum.com.br,legitimate,16,6,1,0,18,3,0,0,0,0,0,0,1,Amazon RSA 2048 M02,Nov 29 23:59:59 2023 GMT,Amazon,6,0,2003-03-18,1,2.5,0,0,-1
+https://www.leisure-bagssales.com,fraudulent,25,3,1,0,27,2,1,1,1,1,0,0,0,E1,Sep  1 05:46:51 2023 GMT,Let's Encrypt,2,1,2023-06-03 06:35,0,,0,0,-1
+https://808sian.com,legitimate,11,3,0,3,12,1,0,1,1,0,0,2,1,R3,Oct 27 03:27:04 2023 GMT,Let's Encrypt,2,0,2020-09-16 08:43,0,-1,0,0,-1
+https://www.dofashionha.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  6 02:20:37 2023 GMT,Google Trust Services LLC,9,1,2023-06-08 00:00,0,,0,0,-1
+https://www.kids-premium.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,1,E1,Sep 27 08:42:23 2023 GMT,Let's Encrypt,2,1,2023-06-29 08:09,0,,0,0,-1
+https://verkauf-scooter.com,fraudulent,19,3,0,0,22,1,1,1,1,0,0,2,0,R3,Oct 15 12:48:58 2023 GMT,Let's Encrypt,2,1,2023-07-17 10:00,1,3.2,0,0,-1
+https://degartenland.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,0,R3,Oct 21 14:06:42 2023 GMT,Let's Encrypt,2,1,2023-03-25 16:58,0,,0,0,-1
+https://magyarviagra.com,fraudulent,16,3,0,0,20,1,0,0,0,0,0,0,1,GTS CA 1P5,Oct 20 02:01:22 2023 GMT,Google Trust Services LLC,9,0,2022-02-08 08:46,0,,0,0,-1
+https://www.suitsuit.com,legitimate,16,3,1,0,19,2,0,1,1,1,0,2,1,R3,Oct 28 19:51:04 2023 GMT,Let's Encrypt,2,0,2009-04-15 18:31,1,3.5,0,0,-1
+https://www.footwear-new.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,0,E1,Sep 17 05:43:34 2023 GMT,Let's Encrypt,2,1,2023-04-21 00:00,0,,0,0,-1
+https://delozastore.de,fraudulent,14,2,0,0,18,1,0,0,1,0,0,1,1,R3,Sep 25 07:13:20 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.shopladybag.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 01:22:30 2023 GMT,Google Trust Services LLC,9,1,2023-07-21 02:16,0,,0,0,-1
+https://mioki.lt,legitimate,8,2,0,0,12,1,0,1,0,1,0,2,1,R3,Sep 30 19:59:21 2023 GMT,Let's Encrypt,2,0,2017-08-02 00:00,0,-1,0,0,-1
+https://brookseu.vip,fraudulent,12,3,0,0,16,1,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jul 28 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-07-30 00:00,0,,0,0,-1
+https://generalautospares.com,fraudulent,21,3,0,0,25,1,0,0,0,1,0,2,1,R3,Oct 21 17:28:53 2023 GMT,Let's Encrypt,2,1,2023-03-23 15:12,0,,0,0,-1
+https://evolvebham.com,legitimate,14,3,0,0,18,1,0,0,0,0,0,2,1,R3,Oct 11 02:33:24 2023 GMT,Let's Encrypt,2,0,2014-09-11 00:04,0,-1,0,0,-1
+https://hollywoodstyle.cz,legitimate,17,2,0,0,21,1,0,0,0,0,0,2,1,R3,Oct 23 19:08:28 2023 GMT,Let's Encrypt,2,0,2011-01-28 14:19,0,-1,0,0,-1
+https://www.cozyhometools.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 03:09:01 2023 GMT,Google Trust Services LLC,9,1,2023-07-07 00:00,0,,0,0,-1
+https://www.besteonlineapotheke.com,fraudulent,27,3,1,0,30,2,0,0,0,0,1,3,0,R3,Aug 31 04:28:21 2023 GMT,Let's Encrypt,2,0,2019-10-12 14:06,0,,0,0,-1
+https://edfarm.it,fraudulent,9,2,0,0,13,1,0,1,0,0,0,0,1,GTS CA 1P5,Oct 31 08:03:10 2023 GMT,Google Trust Services LLC,9,0,2019-04-24 19:35,0,,0,1,797093
+https://www.existwedding.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 14 00:54:18 2023 GMT,Google Trust Services LLC,9,1,2023-08-16 01:37,0,,0,0,-1
+https://www.handytoolpro.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 11 05:57:34 2023 GMT,Let's Encrypt,2,1,2023-07-13 06:36,0,,0,0,-1
+https://www.1rx-pharmacy.com,fraudulent,20,3,1,1,21,2,1,1,0,0,0,0,1,R3,Oct  5 00:24:14 2023 GMT,Let's Encrypt,2,0,2015-02-06 11:16,0,,0,0,-1
+https://www.masaltos.com/es,legitimate,16,3,1,0,21,2,0,0,0,0,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Oct  8 23:59:59 2023 GMT,Sectigo Limited,3,0,2005-01-26 10:30,1,3.2,0,0,-1
+https://coco-kick.cc,fraudulent,12,2,0,0,15,1,1,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Jan 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-11-19 04:01,1,3.7,0,0,-1
+https://www.loveladiesaccessories.com,fraudulent,29,3,1,0,32,2,0,1,1,0,0,0,0,E1,Oct 15 19:35:46 2023 GMT,Let's Encrypt,2,1,2023-03-21 00:00,0,,0,0,-1
+https://gbhxe.site,fraudulent,10,4,0,0,14,1,0,0,0,0,0,2,0,R3,Oct 25 07:32:03 2023 GMT,Let's Encrypt,2,1,2023-07-27 00:00,0,,0,0,-1
+https://www.siteusefultool.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,E1,Oct 18 05:42:30 2023 GMT,Let's Encrypt,2,1,2023-07-20 06:04,0,,0,0,-1
+https://surfbuddiesnew.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct 14 10:50:00 2023 GMT,Google Trust Services LLC,9,1,2023-05-18 07:16,0,,0,0,-1
+https://www.badgepoint.com/de,legitimate,18,3,1,0,23,2,0,1,1,0,0,2,1,R3,Sep  3 09:18:54 2023 GMT,Let's Encrypt,2,0,1999-08-06 18:48,0,-1,0,0,-1
+https://www.brandtoiletries.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 14 06:53:37 2023 GMT,Google Trust Services LLC,9,1,2023-06-16 07:40,0,,0,0,-1
+https://www.linens-chic.com,fraudulent,19,3,1,0,21,2,1,1,1,0,0,0,0,GTS CA 1P5,Oct 13 03:34:51 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 02:29,0,,0,0,-1
+https://www.bunzlaucastle.com,legitimate,21,3,1,0,24,2,0,1,1,0,0,2,1,R3,Oct  7 00:01:50 2023 GMT,Let's Encrypt,2,0,2007-11-14 12:23,0,-1,0,0,-1
+https://www.outdoorline.sk/en,legitimate,18,2,1,0,23,2,0,1,0,0,0,2,1,Starfield Secure Certificate Authority - G2,Mar 19 08:05:42 2024 GMT,"Starfield Technologies, Inc.",11,0,2012-05-30 00:00,1,4.8,0,0,-1
+https://www.livingandcompany.com/en,legitimate,24,3,1,0,29,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  1 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2013-11-12 18:10,1,1,0,0,-1
+https://www.omniteksas.lt/lt,legitimate,17,2,1,0,22,2,0,1,1,1,0,2,1,R3,Oct 13 05:40:03 2023 GMT,Let's Encrypt,2,0,2021-08-27 00:00,0,-1,0,0,-1
+https://www.analytics-shop.com,legitimate,22,3,1,0,24,2,1,0,1,0,0,2,1,R3,Oct  6 02:30:12 2023 GMT,Let's Encrypt,2,0,2010-07-19 14:30,0,-1,0,0,-1
+https://www.fallers.ie,legitimate,14,2,1,0,17,2,0,1,1,0,0,2,1,R3,Oct 10 22:33:11 2023 GMT,Let's Encrypt,2,0,2000-05-30 00:00,1,4.8,0,0,-1
+https://www.lahve-a-sklenice.cz,legitimate,23,2,1,0,24,2,2,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,Feb 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2012-02-22 20:07,0,-1,0,0,-1
+https://www.showroomprive.pt,legitimate,20,2,1,0,23,2,0,0,0,0,0,0,1,GeoTrust EV RSA CA 2018,Aug 31 23:59:59 2023 GMT,DigiCert Inc,7,0,2012-04-06,1,1.4,0,0,-1
+https://hobbyshop.lt,legitimate,12,2,0,0,16,1,0,1,0,1,0,3,1,R3,Oct 19 02:03:28 2023 GMT,Let's Encrypt,2,0,2007-02-14 00:00,0,-1,0,0,-1
+https://www.deverkauffahrrad.com,fraudulent,24,3,1,0,27,2,0,0,0,0,0,0,0,GTS CA 1P5,Oct 12 13:12:33 2023 GMT,Google Trust Services LLC,9,1,2023-05-16 11:25,0,,0,0,-1
+https://www.ridestore.com,legitimate,17,3,1,0,20,2,0,0,0,0,0,2,1,Cloudflare Inc ECC CA-3,Jul 10 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2005-08-03 18:21,1,4.7,0,0,-1
+https://www.petstop.ie,legitimate,14,2,1,0,17,2,0,1,1,0,0,2,1,R3,Oct 13 04:53:24 2023 GMT,Let's Encrypt,2,0,1997-12-16 00:00,1,4.9,0,0,-1
+https://www.lovatieses.lt/lt,legitimate,17,2,1,0,22,2,0,1,1,1,0,2,1,R3,Oct 10 02:54:06 2023 GMT,Let's Encrypt,2,0,2013-11-21 00:00,0,-1,0,0,-1
+https://www.cutshopcentral.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 15 09:11:22 2023 GMT,Google Trust Services LLC,9,1,2023-05-19 05:48,0,,0,0,-1
+https://www.everyswimsuit.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 11 09:37:58 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 07:16,0,,0,0,-1
+https://www.artexcellene.com,fraudulent,20,3,1,0,23,2,0,1,1,1,0,3,0,R3,Sep 16 06:10:30 2023 GMT,Let's Encrypt,2,1,2022-10-17 09:49,0,,0,0,-1
+https://www.cdo-forum-germany.de,fraudulent,24,2,1,0,25,2,2,1,1,0,0,3,1,GTS CA 1P5,Sep  5 03:42:41 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://dopplerschirme.com/de,legitimate,18,3,0,0,24,1,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 07:54:06 2023 GMT,Google Trust Services LLC,9,0,2001-01-02 14:38,0,-1,0,0,-1
+https://www.stylishsirenshop.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 18 11:43:13 2023 GMT,Google Trust Services LLC,9,1,2023-05-22 09:04,0,,0,0,-1
+https://www.foodixs.com,fraudulent,15,3,1,0,18,2,0,1,1,0,0,0,1,E1,Oct 22 08:07:04 2023 GMT,Let's Encrypt,2,1,2023-05-26 07:01,0,,0,0,-1
+https://www.knivesolamic.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 19 09:57:49 2023 GMT,Google Trust Services LLC,9,1,2023-03-21 00:00,0,,0,0,-1
+https://fearlessgreatpyrenees.com,fraudulent,25,3,0,0,29,1,0,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Nov 28 23:59:59 2023 GMT,Sectigo Limited,3,1,2022-10-27 08:07,0,,0,0,-1
+https://www.usepicsurfing.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 11 08:59:33 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 06:16,0,,0,0,-1
+https://lingrid.lt,legitimate,10,2,0,0,14,1,0,1,1,1,0,2,1,R3,Oct 24 03:37:11 2023 GMT,Let's Encrypt,2,0,2021-11-30 00:00,0,-1,0,0,-1
+https://www.juta.lt,legitimate,11,2,1,0,14,2,0,1,1,1,0,2,1,RapidSSL Global TLS RSA4096 SHA256 2022 CA1,Dec 31 23:59:59 2023 GMT,DigiCert Inc,7,0,2000-06-07 00:00,0,-1,0,0,-1
+https://www.barrypackaging.com,legitimate,22,3,1,0,25,2,0,1,0,0,0,2,1,Cloudflare Inc ECC CA-3,Apr  8 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2001-02-20 17:16,0,-1,0,0,-1
+https://www.sterilamo.com,legitimate,17,3,1,0,20,2,0,1,1,0,0,1,1,R3,Oct 24 09:29:47 2023 GMT,Let's Encrypt,2,1,2023-05-27 11:23,0,-1,0,0,-1
+https://cleaned4you.com,legitimate,15,3,0,1,18,1,0,1,0,1,0,0,1,E1,Sep  7 02:43:12 2023 GMT,Let's Encrypt,2,0,2009-01-25 20:06,0,-1,0,0,-1
+https://www.field-baseball.com,fraudulent,22,3,1,0,24,2,1,1,1,0,0,0,1,GTS CA 1P5,Oct 23 00:54:40 2023 GMT,Google Trust Services LLC,9,1,2023-07-25 00:00,0,,0,0,-1
+https://www.ihrearztonline.com,fraudulent,22,3,1,0,25,2,0,0,0,0,0,0,1,R3,Sep  8 00:29:09 2023 GMT,Let's Encrypt,2,0,2021-02-10 14:13,0,,0,0,-1
+https://www.toolisspro.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,E1,Oct 16 01:36:00 2023 GMT,Let's Encrypt,2,1,2023-07-18 02:27,0,,0,0,-1
+https://losdetallesdetuboda.com,legitimate,23,3,0,0,27,1,0,0,0,0,0,2,1,R3,Sep 16 23:32:34 2023 GMT,Let's Encrypt,2,0,2013-06-13 12:20,0,-1,0,0,-1
+https://www.coccinellefashion.com,legitimate,25,3,1,0,28,2,0,1,1,0,0,2,1,R3,Oct 11 04:01:20 2023 GMT,Let's Encrypt,2,0,2010-06-04 15:30,1,3.7,0,0,-1
+https://yourselfapparel.com/en,legitimate,19,3,0,0,25,1,0,1,1,0,0,1,1,GTS CA 1P5,Sep 15 02:51:57 2023 GMT,Google Trust Services LLC,9,0,2010-05-15 00:46,1,3.7,0,0,-1
+https://www.avenolife.pl,legitimate,16,2,1,0,19,2,0,0,0,0,0,2,1,Certum Domain Validation CA SHA2,Sep 13 10:24:51 2023 GMT,Unizeto Technologies S.A.,11,0,2014-05-12 23:25,0,-1,0,0,-1
+https://hobbycutlery.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 10:37:36 2023 GMT,Google Trust Services LLC,9,1,2023-05-06 00:00,0,,0,0,-1
+https://fafrinog.pt,legitimate,11,2,0,0,15,1,0,0,0,0,0,2,1,"cPanel, Inc. Certification Authority",Oct  8 23:59:59 2023 GMT,"cPanel, Inc.",4,2,Hidden,0,-1,0,0,-1
+https://max-steroids.com,fraudulent,16,3,0,0,19,1,1,1,0,0,1,0,1,GTS CA 1P5,Sep 26 22:29:07 2023 GMT,Google Trust Services LLC,9,1,2022-09-05 19:22,0,,0,0,-1
+https://www.fivland.com,fraudulent,15,3,1,0,18,2,0,1,1,0,0,1,1,Cloudflare Inc ECC CA-3,Jun  6 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-02 00:00,0,,0,0,-1
+https://www.masterfisch.eu/en,legitimate,18,2,1,0,23,2,0,1,1,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Feb  3 23:59:59 2024 GMT,Sectigo Limited,3,2,Hidden,1,4.2,0,0,-1
+https://www.marliesdekkers.com,legitimate,22,3,1,0,25,2,0,0,1,0,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Jul 28 23:59:59 2024 GMT,Sectigo Limited,3,0,2003-04-11 18:15,1,2.1,0,0,-1
+https://www.carrerajeans.com,legitimate,20,3,1,0,23,2,0,1,1,0,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Aug 27 23:59:59 2024 GMT,Sectigo Limited,3,0,2000-01-13 00:00,1,2.7,0,0,-1
+https://www.officechair-4u.com,legitimate,22,3,1,1,23,2,1,1,1,1,0,2,1,R3,Sep  6 00:52:19 2023 GMT,Let's Encrypt,2,0,2011-05-06 16:25,0,-1,0,0,-1
+https://www.laptop-akkus.eu,fraudulent,19,2,1,0,21,2,1,0,1,0,0,1,1,R3,Oct 28 09:32:59 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.gifthobby.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 25 07:34:54 2023 GMT,Google Trust Services LLC,9,1,2023-07-27 08:20,0,,0,0,-1
+https://www.rabbettesfurniture.ie,legitimate,25,2,1,0,28,2,0,0,0,0,0,1,1,GTS CA 1P5,Nov 14 17:57:20 2023 GMT,Google Trust Services LLC,9,0,2016-03-16 00:00,0,-1,0,0,-1
+https://www.fishingoptimal.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 17 02:47:26 2023 GMT,Google Trust Services LLC,9,1,2023-07-19 00:00,0,,0,0,-1
+https://www.chicloverplusize.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 17 05:49:29 2023 GMT,Google Trust Services LLC,9,1,2023-06-19 06:35,0,,0,0,-1
+https://e-zoo.lt,legitimate,8,2,0,0,11,1,1,1,0,1,0,2,1,R3,Sep 29 20:10:53 2023 GMT,Let's Encrypt,2,0,2020-12-22 00:00,0,-1,0,0,-1
+https://royal-present.com,legitimate,17,3,0,0,20,1,1,1,1,0,0,1,1,Cloudflare Inc ECC CA-3,Jun  2 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2012-06-13 15:07,1,3.7,0,0,-1
+https://gearfreak.se,legitimate,12,2,0,0,16,1,0,1,0,1,0,1,1,Sectigo RSA Domain Validation Secure Server CA,Jan 15 23:59:59 2024 GMT,Sectigo Limited,3,0,2021-02-03 00:00,1,4.6,0,0,-1
+https://euronics.ie,legitimate,11,2,0,0,15,1,0,1,1,1,0,2,1,R3,Nov 10 19:56:14 2023 GMT,Let's Encrypt,2,0,2006-08-28 00:00,1,4.4,0,1,796877
+https://www.arredatutto.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,May 15 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2011-04-11 00:00,1,2.8,0,0,-1
+https://studioriviera.de,legitimate,16,2,0,0,20,1,0,1,1,0,0,2,1,R3,Sep 22 07:07:57 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.sportstorepro.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct 17 06:11:33 2023 GMT,Let's Encrypt,2,1,2023-07-19 06:59,0,,0,0,-1
+https://www.hotsalethebike.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,E1,Oct 18 06:35:59 2023 GMT,Let's Encrypt,2,1,2023-07-20 00:00,0,,0,0,-1
+https://meryancor.com/en,legitimate,13,3,0,0,19,1,0,1,1,0,0,2,1,R3,Oct  3 21:35:01 2023 GMT,Let's Encrypt,2,0,2004-02-05 10:52,0,-1,0,0,-1
+https://www.underweardistrict.nl/en,legitimate,24,2,1,0,29,2,0,1,1,1,0,3,1,Cloudflare Inc ECC CA-3,Feb 20 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2021-02-03 00:00,0,-1,0,0,-1
+https://vogueformal.com,fraudulent,15,3,0,0,19,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 11:01:28 2023 GMT,Google Trust Services LLC,9,1,2023-05-06 09:27,0,,0,0,-1
+https://tinystories.nl,legitimate,14,2,0,0,18,1,0,1,1,1,0,2,1,R3,Oct 13 22:33:24 2023 GMT,Let's Encrypt,2,0,2017-04-08 00:00,0,-1,0,0,-1
+https://equizoneonline.com,legitimate,18,3,0,0,22,1,0,1,1,1,1,2,1,R3,Oct 28 14:47:03 2023 GMT,Let's Encrypt,2,0,2015-12-02 17:08,0,-1,0,0,-1
+https://www.bilbishop.com,fraudulent,17,3,1,0,20,2,0,0,0,1,0,0,0,GTS CA 1P5,Sep 25 06:54:32 2023 GMT,Google Trust Services LLC,9,1,2023-06-23 05:33,0,,0,0,-1
+https://www.buychildus.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  7 03:07:08 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 00:00,0,,0,0,-1
+https://www.axiogenesis.com,fraudulent,19,3,1,0,22,2,0,1,0,0,0,0,1,R3,Oct 15 03:14:35 2023 GMT,Let's Encrypt,2,0,2000-06-12 21:34,0,,0,0,-1
+https://www.bseoyol.shop,fraudulent,16,4,1,0,19,2,0,1,1,1,0,0,0,GTS CA 1P5,Oct 12 12:57:53 2023 GMT,Google Trust Services LLC,9,1,2023-03-16 08:05,0,,0,0,-1
+https://visio-official.com,legitimate,18,3,0,0,21,1,1,1,1,0,0,2,1,R3,Sep 16 01:17:51 2023 GMT,Let's Encrypt,2,0,2021-09-21 11:18,1,4.7,0,0,-1
+https://www.bikeforword.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 00:41:04 2023 GMT,Google Trust Services LLC,9,1,2023-06-05 00:00,0,,0,0,-1
+https://www.itemdohome.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,E1,Oct 25 10:41:34 2023 GMT,Let's Encrypt,2,1,2023-05-29 00:00,0,,0,0,-1
+https://www.cutrin.lt/lt,legitimate,13,2,1,0,18,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 20 14:38:24 2023 GMT,Google Trust Services LLC,9,0,2019-10-01 00:00,0,-1,0,0,-1
+https://www.filmmakaz.shop,legitimate,18,4,1,0,21,2,0,1,1,1,0,3,1,R3,Oct 10 19:18:38 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.esprit.co.uk,legitimate,16,5,1,0,18,3,0,1,1,1,0,2,1,Sectigo RSA Organization Validation Secure Server CA,Oct 27 23:59:59 2023 GMT,Sectigo Limited,3,0,2006-09-05 00:00,1,2,0,0,-1
+https://www.qvc.com,legitimate,11,3,1,0,14,2,0,1,1,1,0,2,1,DigiCert EV RSA CA G2,Feb 13 23:59:59 2024 GMT,DigiCert Inc,7,0,1994-11-16 05:00,1,1.5,1,0,-1
+https://www.fuerstenberg-porzellan.com,legitimate,30,3,1,0,32,2,1,1,1,0,0,2,1,GeoTrust TLS RSA CA G1,Jul 15 23:59:59 2024 GMT,DigiCert Inc,7,0,1998-01-30 05:00,0,-1,0,0,-1
+https://www.goodsmsvogue.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 18 18:02:22 2023 GMT,Google Trust Services LLC,9,1,2023-03-24 11:55,0,,0,0,-1
+https://www.intenseoutside.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  4 07:56:34 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 00:00,0,,0,0,-1
+https://www.fahrradpumpende.com,fraudulent,23,3,1,0,26,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct  4 08:01:53 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 08:33,0,,0,0,-1
+https://www.hockeybetter.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 19 05:21:07 2023 GMT,Let's Encrypt,2,1,2023-07-21 06:01,0,,0,0,-1
+https://www.shutterfly.com,legitimate,18,3,1,0,21,2,0,0,0,0,0,0,1,DigiCert TLS RSA SHA256 2020 CA1,Apr 24 23:59:59 2024 GMT,DigiCert Inc,7,0,1999-07-07 21:01,1,1.8,1,0,-1
+https://www.littledreamersshop.com,fraudulent,26,3,1,0,29,2,0,1,1,0,0,0,1,E1,Sep 14 07:12:56 2023 GMT,Let's Encrypt,2,1,2023-06-16 07:47,0,,0,0,-1
+https://www.freshlabels.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,2,1,R3,Oct 23 04:04:38 2023 GMT,Let's Encrypt,2,0,2006-11-09 02:52,0,-1,0,0,-1
+https://shoeathletics.com,fraudulent,17,3,0,0,21,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct  8 06:47:35 2023 GMT,Google Trust Services LLC,9,1,2023-05-12 06:18,0,,0,0,-1
+https://usplaythings.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 07:39:03 2023 GMT,Google Trust Services LLC,9,1,2023-05-09 02:48,0,,0,0,-1
+https://sandsationalsparkle.com,legitimate,23,3,0,0,27,1,0,1,1,0,0,2,1,R3,Sep 15 07:13:50 2023 GMT,Let's Encrypt,2,0,2009-03-31 17:52,0,-1,0,0,-1
+https://www.runfitfrenzy.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 22 02:03:17 2023 GMT,Google Trust Services LLC,9,1,2023-07-24 02:51,0,,0,0,-1
+https://vinaigerprosuppliers.com,fraudulent,24,3,0,0,28,1,0,0,0,1,0,2,1,R3,Oct 12 11:23:21 2023 GMT,Let's Encrypt,2,1,2023-03-14 00:00,0,,0,0,-1
+https://boisvignon.com,fraudulent,14,3,0,0,18,1,0,1,0,0,0,2,1,ZeroSSL RSA Domain Secure Site CA,Sep 19 23:59:59 2023 GMT,ZeroSSL,10,1,2023-06-21 13:16,0,,0,0,-1
+https://www.elektroklelimp.com,fraudulent,22,3,1,0,25,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb 13 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-10-19 02:18,0,,0,0,-1
+https://cingomma.com,legitimate,12,3,0,0,16,1,0,0,1,0,0,2,0,R3,Sep 24 14:16:35 2023 GMT,Let's Encrypt,2,0,2011-02-01 09:34,0,-1,0,0,-1
+https://www.fragrancedirect.co.uk,legitimate,25,5,1,0,27,3,0,1,1,1,0,1,1,DigiCert Global G2 TLS RSA SHA256 2020 CA1,May 21 23:59:59 2024 GMT,DigiCert Inc,7,0,1999-05-26 00:00,1,4.3,1,0,-1
+https://www.battingzonedirect.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,0,E1,Oct 17 06:50:31 2023 GMT,Let's Encrypt,2,1,2023-07-19 00:00,0,,0,0,-1
+https://www.boots.com,legitimate,13,3,1,0,16,2,0,0,0,1,0,1,1,Sectigo RSA Organization Validation Secure Server CA,Jun 13 23:59:59 2024 GMT,Sectigo Limited,3,0,1995-06-06 04:00,1,3.2,1,0,-1
+https://www.guidomaggi.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,3,1,R3,Sep 26 23:05:02 2023 GMT,Let's Encrypt,2,0,2012-02-13 00:00,1,4,0,0,-1
+https://blissoma.com,legitimate,12,3,0,0,16,1,0,1,1,0,0,2,1,GeoTrust EV RSA CA G2,Mar 18 23:59:59 2024 GMT,DigiCert Inc,7,0,2012-12-21 00:18,0,-1,1,1,918108
+https://360commoditysolutions.com,fraudulent,25,3,0,3,26,1,0,0,0,1,0,2,1,R3,Sep 30 20:28:24 2023 GMT,Let's Encrypt,2,1,2022-10-31 17:47,0,,0,0,-1
+https://www.bathroomkitshop.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov  1 02:16:46 2023 GMT,Google Trust Services LLC,9,1,2023-08-03 03:02,0,,0,0,-1
+https://gamecardshop.com,legitimate,16,3,0,0,20,1,0,0,1,0,0,2,1,Cloudflare Inc ECC CA-3,Feb 22 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2001-06-09 20:16,1,4.4,0,0,-1
+https://avfx.eu,legitimate,7,2,0,0,11,1,0,0,0,0,0,3,1,R3,Oct 17 23:51:24 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.buymasonrytool.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  8 03:13:55 2023 GMT,Google Trust Services LLC,9,1,2023-07-10 03:34,0,,0,0,-1
+https://www.babythrust.com,fraudulent,18,3,1,0,21,2,0,1,0,1,0,0,1,GTS CA 1P5,Sep 10 11:36:37 2023 GMT,Google Trust Services LLC,9,1,2022-10-19 02:07,0,,0,0,-1
+https://www.nicestylish.com,fraudulent,19,3,1,0,22,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct  4 06:04:10 2023 GMT,Google Trust Services LLC,9,1,2023-07-06 00:00,0,,0,0,-1
+https://www.evertonspa.it,legitimate,17,2,1,0,20,2,0,0,0,0,0,2,1,R3,Oct  2 14:46:54 2023 GMT,Let's Encrypt,2,0,2000-12-22 00:00,0,-1,0,0,-1
+https://shieldapparels.com,legitimate,18,3,0,0,22,1,0,1,1,0,0,2,1,R3,Oct 17 12:10:09 2023 GMT,Let's Encrypt,2,0,2016-02-14 00:00,0,-1,0,0,-1
+https://www.originalmuranoglass.com,legitimate,27,3,1,0,30,2,0,1,1,0,0,2,1,GTS CA 1P5,Sep 17 14:57:51 2023 GMT,Google Trust Services LLC,9,0,2013-12-04 09:45,1,2.7,0,0,-1
+https://fussmatten-welt.de,legitimate,18,2,0,0,21,1,1,1,1,0,0,2,1,R3,Sep  1 11:14:33 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://levitraeurope.com,fraudulent,17,3,0,0,21,1,0,1,0,0,0,0,0,R3,Nov  1 23:24:14 2023 GMT,Let's Encrypt,2,0,2015-08-14 11:34,0,,0,0,-1
+https://www.adi-trade.com,fraudulent,17,3,1,0,19,2,1,0,1,1,0,2,1,Cloudflare Inc ECC CA-3,Jul 10 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-10-28 14:31,0,,0,0,-1
+https://www.dcskaterschuhe.de,fraudulent,21,2,1,0,24,2,0,0,0,0,0,0,0,"cPanel, Inc. Certification Authority",Sep 28 23:59:59 2023 GMT,"cPanel, Inc.",4,2,Hidden,0,,0,0,-1
+https://www.partyverhuurzuidplas.nl,legitimate,27,2,1,0,30,2,0,0,0,0,0,2,1,R3,Oct  6 21:23:58 2023 GMT,Let's Encrypt,2,0,2010-01-07 00:00,0,-1,0,0,-1
+https://www.mountainexperience.it/it,legitimate,25,2,1,0,30,2,0,0,1,0,0,2,1,R3,Oct  7 17:18:26 2023 GMT,Let's Encrypt,2,0,2007-01-22 00:00,1,3.9,0,0,-1
+https://www.hvsolpkemieste.de,fraudulent,21,2,1,0,24,2,0,1,1,0,0,0,1,R3,Sep 28 19:29:28 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.guitarssales.com,fraudulent,20,3,1,0,23,2,0,1,0,1,0,0,1,E1,Sep 30 08:00:06 2023 GMT,Let's Encrypt,2,1,2023-05-04 03:33,0,,0,0,-1
+https://www.feelgoodcontacts.ie,legitimate,23,2,1,0,26,2,0,1,1,1,1,2,1,DigiCert TLS RSA SHA256 2020 CA1,Jan 23 23:59:59 2024 GMT,DigiCert Inc,7,0,2015-03-06 00:00,1,4.4,0,0,-1
+https://developingplaza.com,fraudulent,19,3,0,0,23,1,0,1,0,0,0,1,1,R3,Oct 19 06:24:28 2023 GMT,Let's Encrypt,2,0,2021-03-29 10:54,0,,0,0,-1
+https://bagenjoy.com,fraudulent,12,3,0,0,16,1,0,1,1,0,0,0,1,E1,Oct  2 10:23:26 2023 GMT,Let's Encrypt,2,1,2023-05-06 00:00,0,,0,0,-1
+https://www.freezedriedandco.com,legitimate,24,3,1,0,27,2,0,0,0,1,0,3,1,Thawte TLS RSA CA G1,May 22 23:59:59 2024 GMT,DigiCert Inc,7,0,2018-06-28 12:12,0,-1,0,0,-1
+https://www.tradera.com,legitimate,15,3,1,0,18,2,0,1,1,1,0,2,1,Go Daddy Secure Certificate Authority - G2,Aug 16 20:55:30 2023 GMT,"GoDaddy.com, Inc.",5,0,1999-02-20 05:00,1,3.7,1,0,-1
+https://www.swimsunseekeroff.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 16 06:26:39 2023 GMT,Google Trust Services LLC,9,1,2023-05-20 05:51,0,,0,0,-1
+https://www.apparelusmen.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 29 02:11:55 2023 GMT,Google Trust Services LLC,9,1,2023-06-30 10:34,0,,0,0,-1
+https://www.karpfenrutengeschaft.com,fraudulent,28,3,1,0,31,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 15 13:20:03 2023 GMT,Google Trust Services LLC,9,1,2023-05-19 09:58,0,,0,0,-1
+https://knirps.com,legitimate,10,3,0,0,14,1,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 08:02:49 2023 GMT,Google Trust Services LLC,9,0,1999-07-05 17:13,0,-1,0,0,-1
+https://www.eibabo.com/e,legitimate,14,3,1,0,18,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 20 16:21:12 2023 GMT,Google Trust Services LLC,9,0,2016-06-14 14:45,1,3.3,0,0,-1
+https://transactcontainers.co.za,fraudulent,24,5,0,0,27,2,0,0,0,0,0,2,1,R3,Sep 24 00:34:46 2023 GMT,Let's Encrypt,2,0,2020-08-13 00:00,0,,0,0,-1
+https://www.cbtwohousehold.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 10 01:12:06 2023 GMT,Google Trust Services LLC,9,1,2023-06-12 02:00,0,,0,0,-1
+https://www.beaubags.com,legitimate,16,3,1,0,19,2,0,1,1,0,0,2,1,R3,Oct 18 06:18:42 2023 GMT,Let's Encrypt,2,0,2009-07-01 19:35,0,-1,0,0,-1
+https://www.kamagra-shqip.com,fraudulent,21,3,1,0,23,2,1,0,0,0,0,0,1,GTS CA 1P5,Sep 22 10:27:14 2023 GMT,Google Trust Services LLC,9,1,2023-02-26 04:24,0,,0,0,-1
+https://www.winkelstraat.nl,legitimate,19,2,1,0,22,2,0,1,0,0,0,0,1,Cloudflare Inc ECC CA-3,May  3 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1997-09-23 00:00,1,4.5,0,0,-1
+https://physiosupplies.ie,legitimate,17,2,0,0,21,1,0,1,1,0,0,2,1,R3,Oct 26 00:25:04 2023 GMT,Let's Encrypt,2,0,2020-09-11 00:00,0,-1,0,0,-1
+https://www.comunelloshop.it,legitimate,20,2,1,0,23,2,0,1,1,0,0,2,1,R3,Sep  3 23:08:10 2023 GMT,Let's Encrypt,2,0,2013-06-19 15:33,1,3.7,0,0,-1
+https://au-meds.com,fraudulent,11,3,0,0,14,1,1,1,0,0,0,0,1,Cloudflare Inc ECC CA-3,Jan 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2020-10-28 15:34,0,,0,0,-1
+https://flammkuchen24.shop,legitimate,18,4,0,2,20,1,0,0,1,0,0,3,1,R3,Sep  1 06:40:55 2023 GMT,Let's Encrypt,2,0,2016-09-26,0,-1,0,0,-1
+https://www.harrycorry.com,legitimate,18,3,1,0,21,2,0,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,Jan  1 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1999-08-17 11:47,1,4.7,0,0,-1
+https://www.aprmsshop.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,0,E1,Sep 25 06:53:41 2023 GMT,Let's Encrypt,2,1,2023-06-23 05:31,0,,0,0,-1
+https://www.mpereur.com,legitimate,15,3,1,0,18,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Jan 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2015-10-01 09:38,0,-1,0,0,-1
+https://www.fashionflairr.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 13 05:12:08 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 03:19,0,,0,0,-1
+https://nolofashion.com,legitimate,15,3,0,0,19,1,0,1,1,1,0,1,1,Encryption Everywhere DV TLS CA - G1,Sep 12 23:59:59 2023 GMT,DigiCert Inc,7,0,2012-01-11 14:48,0,-1,0,0,-1
+https://www.ornamentli.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 28 10:55:34 2023 GMT,Google Trust Services LLC,9,1,2023-06-01 03:20,0,,0,0,-1
+https://www.impellerde.com,fraudulent,18,3,1,0,21,2,0,1,1,1,0,0,1,E1,Sep 17 05:56:08 2023 GMT,Let's Encrypt,2,1,2023-04-21 01:40,0,,0,0,-1
+https://www.boden.co.uk,legitimate,15,5,1,0,17,3,0,0,0,0,0,0,1,GlobalSign Atlas R3 DV TLS CA 2023 Q3,Aug 30 20:51:49 2024 GMT,GlobalSign nv-sa,8,0,1997-08-05 00:00,1,4.6,1,0,-1
+https://pillen-apotheek.com,fraudulent,19,3,0,0,22,1,1,0,0,0,0,0,1,R3,Oct 15 17:47:11 2023 GMT,Let's Encrypt,2,1,2023-07-17 18:44,0,,0,0,-1
+https://dumtakis.lt,legitimate,11,2,0,0,15,1,0,1,0,1,0,1,1,R3,Aug 31 04:37:07 2023 GMT,Let's Encrypt,2,0,2012-06-18 00:00,0,-1,0,0,-1
+https://www.lightonsal.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 27 01:51:54 2023 GMT,Google Trust Services LLC,9,1,2023-06-29 02:00,0,,0,0,-1
+https://computeroutlet.it,legitimate,17,2,0,0,21,1,0,1,1,0,0,2,1,R3,Sep  5 03:04:25 2023 GMT,Let's Encrypt,2,0,2006-02-07 00:00,0,-1,0,0,-1
+https://www.forsalemusic.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  7 07:04:23 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 00:00,0,,0,0,-1
+https://eu.directactiongear.com,legitimate,23,3,0,0,26,2,0,1,1,0,0,3,1,R3,Sep 12 23:18:54 2023 GMT,Let's Encrypt,2,0,2013-10-21 00:39,0,-1,0,0,-1
+https://www.belle-tool.com,fraudulent,18,3,1,0,20,2,1,1,1,0,0,0,0,GTS CA 1P5,Oct 16 05:51:16 2023 GMT,Google Trust Services LLC,9,1,2023-07-18 00:00,0,,0,0,-1
+https://www.sportusproducts.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 10 05:19:33 2023 GMT,Google Trust Services LLC,9,1,2023-04-14 03:39,0,,0,0,-1
+https://www.suppastore.com,legitimate,18,3,1,0,21,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2012-05-18 10:03,1,4.1,0,0,-1
+https://www.lolitamoda.pt,legitimate,17,2,1,0,20,2,0,1,1,0,0,2,1,Don Dominio / MrDomain RSA DV CA,Aug  5 23:59:59 2024 GMT,"Soluciones Corporativas IP, SL",11,0,2018-05-15,0,-1,0,0,-1
+https://www.kalango.com,legitimate,15,3,1,0,18,2,0,1,1,0,0,0,1,R3,Sep 21 21:54:03 2023 GMT,Let's Encrypt,2,0,2004-05-30 18:21,0,-1,0,0,-1
+https://novafon.com/e,legitimate,11,3,0,0,16,1,0,1,1,0,0,0,1,R3,Sep 15 01:28:40 2023 GMT,Let's Encrypt,2,0,2002-06-17 18:12,0,-1,0,0,-1
+https://www.fledbag.com,legitimate,15,3,1,0,18,2,0,1,1,0,0,2,1,R3,Oct 27 22:16:17 2023 GMT,Let's Encrypt,2,0,2016-10-06 22:08,0,-1,0,0,-1
+https://www.siteustrendy.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 22 07:18:39 2023 GMT,Google Trust Services LLC,9,1,2023-07-24 07:16,0,,0,0,-1
+https://www.juicydesigner.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 20 07:18:26 2023 GMT,Google Trust Services LLC,9,1,2023-02-11 03:08,0,,0,0,-1
+https://www.lasporitiva.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,3,1,GTS CA 1P5,Sep 10 09:25:59 2023 GMT,Google Trust Services LLC,9,1,2023-06-12 07:10,0,,0,0,-1
+https://www.sportyartsbv.com,fraudulent,20,3,1,0,23,2,0,0,0,0,0,2,1,R3,Sep 19 14:40:43 2023 GMT,Let's Encrypt,2,0,2021-07-18 00:00,0,,0,0,-1
+https://www.magee1866.com/Mobile,legitimate,17,3,1,4,22,2,0,1,1,0,0,3,1,GeoTrust Global TLS RSA4096 SHA256 2022 CA1,Oct 26 23:59:59 2023 GMT,DigiCert Inc,7,0,2012-01-27 12:32,1,4,0,0,-1
+https://sveameks.lt,legitimate,11,2,0,0,15,1,0,0,1,0,0,0,1,GTS CA 1P5,Sep  6 08:20:27 2023 GMT,Google Trust Services LLC,9,1,2022-10-11 00:00,0,-1,0,0,-1
+https://www.thetoyshop.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,Apr  7 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1996-08-08 04:00,1,4.3,0,0,-1
+https://eustore.ifixit.com,legitimate,18,3,0,0,21,2,0,1,1,1,0,3,1,R3,Sep 21 06:28:55 2023 GMT,Let's Encrypt,2,0,2001-02-14 13:14,1,2.9,0,0,-1
+https://www.addsk.com,legitimate,13,3,1,0,16,2,0,0,0,0,0,0,1,R3,Oct 18 02:57:18 2023 GMT,Let's Encrypt,2,0,2014-10-15 10:02,0,-1,0,0,-1
+https://www.fahrradersde.com,fraudulent,20,3,1,0,23,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct  9 03:47:37 2023 GMT,Google Trust Services LLC,9,1,2023-05-13 03:20,0,,0,0,-1
+https://www.civicgreat.club,fraudulent,19,4,1,0,22,2,0,0,0,0,0,3,0,GTS CA 1P5,Oct  8 04:45:42 2023 GMT,Google Trust Services LLC,9,1,2023-01-14 00:00,0,,0,0,-1
+https://www.bicycle-clearance.com,fraudulent,25,3,1,0,27,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep 15 07:15:34 2023 GMT,Google Trust Services LLC,9,1,2023-04-19 00:00,0,,0,0,-1
+https://www.saleladyfad.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 11 10:29:49 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 08:50,0,,0,0,-1
+https://www.louiscopeland.com,legitimate,21,3,1,0,24,2,0,1,1,1,0,3,1,R3,Nov 19 00:54:00 2023 GMT,Let's Encrypt,2,0,1998-06-18 00:00,1,4.1,0,0,-1
+https://www.homecjzsh.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 23 08:57:23 2023 GMT,Google Trust Services LLC,9,1,2023-02-09 08:58,0,,0,0,-1
+https://www.europeangeneric.com,fraudulent,23,3,1,0,26,2,0,0,0,0,0,0,1,R3,Oct  4 07:10:12 2023 GMT,Let's Encrypt,2,0,2015-11-17 14:09,1,3.2,0,0,-1
+https://www.canadian-cheaprx.com,fraudulent,24,3,1,0,26,2,1,0,0,0,0,0,0,R3,Sep 28 00:22:14 2023 GMT,Let's Encrypt,2,0,2020-06-01 17:00,0,,0,0,-1
+https://www.gearpedalup.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 17 05:53:53 2023 GMT,Google Trust Services LLC,9,1,2023-06-19 06:47,0,,0,0,-1
+https://solingen24.com,legitimate,14,3,0,2,16,1,0,0,1,1,0,2,1,R3,Sep 17 21:53:23 2023 GMT,Let's Encrypt,2,0,2014-02-17 08:45,0,-1,0,0,-1
+https://biomed.lt/lt,legitimate,9,2,0,0,15,1,0,1,0,1,0,2,1,R3,Sep 29 00:20:34 2023 GMT,Let's Encrypt,2,0,2014-02-23 00:00,0,-1,0,0,-1
+https://www.lasportivaonl.cc,fraudulent,20,2,1,0,23,2,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jun 25 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-25 06:32,0,,0,0,-1
+https://www.fashionusregion.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 06:54:15 2023 GMT,Google Trust Services LLC,9,1,2023-07-06 00:00,0,,0,0,-1
+https://www.toolproselling.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 28 08:39:31 2023 GMT,Google Trust Services LLC,9,1,2023-06-30 09:32,0,,0,0,-1
+https://revolutionaryfireams.com,fraudulent,24,3,0,0,28,1,0,1,1,1,1,2,1,R3,Oct  4 01:34:39 2023 GMT,Let's Encrypt,2,0,2022-03-23 12:44,0,,0,0,-1
+https://kilkennydesign.com,legitimate,18,3,0,0,22,1,0,1,1,1,0,3,1,GTS CA 1P5,Nov 21 00:55:39 2023 GMT,Google Trust Services LLC,9,0,1999-03-10 05:00,0,-1,0,1,346606
+https://a1apotheke.com,fraudulent,14,3,0,1,17,1,0,1,1,0,0,0,1,E1,Sep 10 02:24:33 2023 GMT,Let's Encrypt,2,0,2018-12-04 11:46,1,3.1,0,0,-1
+https://www.gartenrabatt.com,fraudulent,20,3,1,0,23,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep  6 19:38:29 2023 GMT,Google Trust Services LLC,9,1,2022-10-15 08:10,0,,0,0,-1
+https://www.btfmin.shop,fraudulent,15,4,1,0,18,2,0,1,1,0,0,2,0,R3,Oct  9 03:30:49 2023 GMT,Let's Encrypt,2,1,2022-10-03 10:54,0,,0,0,-1
+https://www.anhangershop24.com,fraudulent,22,3,1,2,23,2,0,0,0,0,0,2,1,R3,Oct 14 15:08:22 2023 GMT,Let's Encrypt,2,1,2023-01-17 17:54,0,,0,0,-1
+https://www.limitedwomen.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 15 16:17:53 2023 GMT,Google Trust Services LLC,9,1,2023-03-17 00:00,0,,0,0,-1
+https://eventaquatics.com,fraudulent,17,3,0,0,21,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 12:05:10 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 00:00,0,,0,0,-1
+https://goodpricedrugs.com,fraudulent,18,3,0,0,22,1,0,1,0,0,0,0,1,R3,Nov  4 01:50:24 2023 GMT,Let's Encrypt,2,0,2021-07-22 09:15,0,,0,0,-1
+https://goodlook.shop,fraudulent,13,4,0,0,17,1,0,1,0,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Oct  4 23:59:59 2023 GMT,Sectigo Limited,3,0,2018-08-11 09:21,0,,0,0,-1
+https://alena-home.cz,legitimate,13,2,0,0,16,1,1,0,0,0,0,2,1,R3,Sep 28 07:15:37 2023 GMT,Let's Encrypt,2,0,2021-09-05,0,-1,0,0,-1
+https://famozdealz.de,fraudulent,13,2,0,0,17,1,0,0,0,0,0,0,1,E1,Sep 29 14:08:01 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.discountbloc.ru,fraudulent,19,2,1,0,22,2,0,0,0,0,0,3,0,R3,Sep 12 06:46:58 2023 GMT,Let's Encrypt,2,1,2023-06-14 05:34,0,,1,0,-1
+https://magicoa.co,fraudulent,10,2,0,0,14,1,0,0,0,0,0,2,1,R3,Sep 26 01:05:37 2023 GMT,Let's Encrypt,2,1,2023-04-15 00:00,0,,0,0,-1
+https://www.vaterschaftstest24.de,legitimate,25,2,1,2,26,2,0,0,0,0,0,0,1,R3,Oct 14 01:49:09 2023 GMT,Let's Encrypt,2,2,Hidden,1,3.2,0,0,-1
+https://essentiellamp.com,fraudulent,17,3,0,0,21,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  1 05:30:54 2023 GMT,Google Trust Services LLC,9,1,2023-05-05 00:00,0,,0,0,-1
+https://lt.sportsdirect.com,legitimate,19,3,0,0,22,2,0,1,1,1,0,0,1,GlobalSign RSA OV SSL CA 2018,Jul 28 12:44:29 2024 GMT,GlobalSign nv-sa,8,0,1996-02-11 05:00,0,-1,0,0,-1
+https://ikonisch.pt,legitimate,11,2,0,0,15,1,0,0,0,0,0,2,1,R3,Oct 13 16:06:07 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.cherieboutique.it,legitimate,21,2,1,0,24,2,0,0,0,0,0,1,1,R3,Sep  1 14:47:13 2023 GMT,Let's Encrypt,2,0,2019-05-17 18:17,0,-1,0,0,-1
+https://www.heals.com,legitimate,13,3,1,0,16,2,0,1,1,0,0,3,1,R3,Oct  3 02:07:05 2023 GMT,Let's Encrypt,2,0,2000-01-11 13:30,1,3.3,1,0,-1
+https://www.groundiesshop.at,fraudulent,20,2,1,0,23,2,0,1,1,0,0,0,1,R3,Oct 13 07:20:04 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.creoven.eu,legitimate,14,2,1,0,17,2,0,1,1,1,0,3,1,Encryption Everywhere DV TLS CA - G2,Oct 29 23:59:59 2023 GMT,DigiCert Inc,7,2,Hidden,0,-1,0,0,-1
+https://www.tartaruguita.pt,legitimate,19,2,1,0,22,2,0,0,1,1,0,2,1,R3,Sep 29 09:50:39 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.cowboystiefel-shop.com,legitimate,26,3,1,0,28,2,1,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G2,Sep 18 23:59:59 2023 GMT,DigiCert Inc,7,0,2005-12-06 14:35,1,3.7,0,0,-1
+https://www.brandnewinfad.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 07:49:22 2023 GMT,Google Trust Services LLC,9,1,2023-04-07 00:00,0,,0,0,-1
+https://www.merchandisingplaza.com.au,legitimate,29,6,1,0,31,3,0,1,1,1,0,3,1,GlobeSSL DV CA,Jun  3 23:59:59 2024 GMT,CentralNic Luxembourg Srl,11,2,Hidden,0,-1,0,0,-1
+https://globaltechindustries.co.za,fraudulent,26,5,0,0,29,2,0,0,0,0,0,2,0,R3,Sep 11 20:30:51 2023 GMT,Let's Encrypt,2,1,2023-06-06 00:00,0,,0,0,-1
+https://amybella.online,fraudulent,15,6,0,0,19,1,0,1,1,0,0,2,0,R3,Oct 11 16:31:31 2023 GMT,Let's Encrypt,2,1,2023-03-15 18:51,0,,0,0,-1
+http://medicineronline.net,fraudulent,19,3,0,0,22,1,0,1,0,0,0,0,0,"cPanel, Inc. Certification Authority",Nov 19 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2017-03-24 09:58,0,,0,0,-1
+https://lekaren-slovenska247.com,fraudulent,24,3,0,3,24,1,1,0,0,0,0,0,1,GTS CA 1P5,Sep 15 12:03:52 2023 GMT,Google Trust Services LLC,9,1,2022-06-27 15:51,0,,0,0,-1
+https://tradeimportcoltd.com,fraudulent,20,3,0,0,24,1,0,0,0,0,0,2,1,R3,Sep 10 02:51:53 2023 GMT,Let's Encrypt,2,1,2023-02-08 05:56,0,,0,0,-1
+https://elitwelpen.de,fraudulent,13,2,0,0,17,1,0,0,0,0,0,3,1,R3,Sep 13 12:48:08 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://steadfastspl.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,2,1,E1,Sep  6 05:12:51 2023 GMT,Let's Encrypt,2,0,2015-12-17 12:49,0,-1,0,0,-1
+https://www.lecuine.com,legitimate,15,3,1,0,18,2,0,0,0,0,0,0,1,E1,Sep 27 22:19:59 2023 GMT,Let's Encrypt,2,0,2010-10-18 10:30,1,4.7,0,0,-1
+https://www.clothingqiu.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep  3 05:47:33 2023 GMT,Google Trust Services LLC,9,1,2023-06-05 00:00,0,,0,0,-1
+https://www.bikingears.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,E1,Sep  6 01:47:30 2023 GMT,Let's Encrypt,2,1,2023-06-08 00:00,0,,0,0,-1
+https://www.did.ie,legitimate,10,2,1,0,13,2,0,1,1,1,0,2,1,R3,Oct 12 13:23:41 2023 GMT,Let's Encrypt,2,0,2001-04-03 00:00,1,4.7,0,0,-1
+https://www.bikeworld.ie,legitimate,16,2,1,0,19,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov  5 11:06:08 2023 GMT,Google Trust Services LLC,9,0,1998-03-12 00:00,1,2.3,0,0,-1
+https://www.michidamato.com,legitimate,19,3,1,0,22,2,0,0,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jul 24 23:59:59 2024 GMT,Sectigo Limited,3,0,2016-04-14 08:06,1,4.1,0,0,-1
+https://candlemania.ie,legitimate,14,2,0,0,18,1,0,0,0,0,0,2,1,"cPanel, Inc. Certification Authority",Oct 17 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2010-10-12 00:00,1,4.4,0,0,-1
+https://store.inoutcooking.com/pt,legitimate,22,3,0,0,27,2,0,1,1,0,0,1,1,R3,Oct 16 15:51:11 2023 GMT,Let's Encrypt,2,0,2014-01-29 14:08,0,-1,0,0,-1
+https://www.fashion-boots.com,legitimate,21,3,1,0,23,2,1,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G2,Sep 18 23:59:59 2023 GMT,DigiCert Inc,7,0,2002-11-11 19:16,1,3.8,0,0,-1
+https://ltvaikas.lt/lt,legitimate,11,2,0,0,17,1,0,1,1,1,0,2,1,R3,Sep 19 20:06:25 2023 GMT,Let's Encrypt,2,0,2009-12-02 00:00,0,-1,0,0,-1
+https://www.fanwish.cn,fraudulent,14,2,1,0,17,2,0,1,0,0,0,0,1,GTS CA 1P5,Oct  8 09:51:22 2023 GMT,Google Trust Services LLC,9,0,2016-09-22 11:50,0,,0,0,-1
+https://www.enzorepublika.cz,legitimate,20,2,1,0,23,2,0,1,1,0,0,2,1,R3,Oct 12 21:14:36 2023 GMT,Let's Encrypt,2,0,2022.06.28,0,-1,0,0,-1
+https://petrolindustries.com,legitimate,20,3,0,0,24,1,0,0,1,0,0,2,1,R3,Sep  2 05:34:31 2023 GMT,Let's Encrypt,2,0,2001-11-27 13:39,1,3.6,0,0,-1
+https://www.hotelchocolat.com/u,legitimate,21,3,1,0,25,2,0,1,1,1,0,2,1,Thawte EV RSA CA 2018,Jan 26 23:59:59 2024 GMT,DigiCert Inc,7,0,2002-07-26 15:21,1,4.2,1,0,-1
+https://www.ss-tradingcoltd.com,fraudulent,23,3,1,0,25,2,1,0,1,1,0,1,0,Sectigo RSA Domain Validation Secure Server CA,Sep  7 23:59:59 2023 GMT,Sectigo Limited,3,1,2022-10-12 04:44,0,,0,0,-1
+https://www.bhphotovideo.com,legitimate,20,3,1,0,23,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Apr  7 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1996-05-14 04:00,1,4.9,1,0,-1
+https://www.asci-ipy.de,fraudulent,15,2,1,0,17,2,1,1,0,0,0,3,1,R3,Oct  3 15:21:18 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.toastgrill.de,fraudulent,17,2,1,0,20,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb 29 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,,0,0,-1
+https://www.lasportivaeu.top,fraudulent,20,3,1,0,23,2,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jun 29 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-05-13 00:00,0,,0,0,-1
+https://www.chicballus.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  5 06:20:16 2023 GMT,Google Trust Services LLC,9,1,2023-05-09 01:57,0,,0,0,-1
+https://www.justneedtool.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 23 06:55:23 2023 GMT,Google Trust Services LLC,9,1,2023-07-25 07:47,0,,0,0,-1
+https://www.bakewarebrand.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  1 14:01:43 2023 GMT,Google Trust Services LLC,9,1,2023-03-07 09:25,0,,0,0,-1
+https://www.borner.pt,legitimate,13,2,1,0,16,2,0,0,1,0,0,2,1,R3,Sep  2 08:06:11 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.fiyo.dk,legitimate,11,2,1,0,14,2,0,1,1,0,0,2,1,R3,Oct  8 04:06:02 2023 GMT,Let's Encrypt,2,0,2017-03-11 00:00,1,4.1,0,0,-1
+https://www.kamagra-online-bestellen.com,fraudulent,32,3,1,0,33,2,2,0,1,0,0,0,0,R3,Sep  5 09:02:40 2023 GMT,Let's Encrypt,2,1,2023-01-28 22:21,0,,0,0,-1
+https://rebateshoesnew.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct  1 05:53:08 2023 GMT,Google Trust Services LLC,9,1,2023-05-05 03:00,0,,0,0,-1
+https://www.scharlau.com/gb,legitimate,16,3,1,0,21,2,0,1,1,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jul  6 23:59:59 2024 GMT,Sectigo Limited,3,0,1998-01-12 05:00,1,4.8,0,0,-1
+https://wunderlich-adventure.de,legitimate,23,2,0,0,26,1,1,1,1,0,0,3,0,R3,Oct  4 10:22:24 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://brottdog.com/en,legitimate,12,3,0,0,18,1,0,1,1,0,0,2,1,R3,Sep 16 03:07:00 2023 GMT,Let's Encrypt,2,0,2011-09-06 06:50,0,-1,0,0,-1
+https://www.gerikatilai.lt,legitimate,18,2,1,0,21,2,0,1,0,0,0,2,1,R3,Sep 30 20:13:36 2023 GMT,Let's Encrypt,2,0,2019-08-20 00:00,0,-1,0,0,-1
+https://www.debenhams.com,legitimate,17,3,1,0,20,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Jan  7 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1997-11-13 05:00,1,3.1,1,0,-1
+https://ielm.us,legitimate,7,2,0,0,11,1,0,1,1,0,0,2,1,GTS CA 1D4,Oct 20 01:00:21 2023 GMT,Google Trust Services LLC,9,0,2018-11-29 10:12,0,-1,0,0,-1
+https://bmpharmacyofficial.com,fraudulent,22,3,0,0,26,1,0,0,0,0,0,0,1,R3,Oct 19 10:09:08 2023 GMT,Let's Encrypt,2,0,2016-06-06 22:23,1,3.6,0,0,-1
+https://ortopediaemcasa.pt,legitimate,18,2,0,0,22,1,0,0,1,0,0,2,1,R3,Aug 31 21:44:18 2023 GMT,Let's Encrypt,2,0,2016-07-11,0,-1,0,0,-1
+https://www.zusengus.nl,legitimate,15,2,1,0,18,2,0,0,0,0,0,2,0,R3,Sep  8 22:04:30 2023 GMT,Let's Encrypt,2,0,2009-10-25 00:00,0,-1,0,0,-1
+https://www.abusfahrrad.com,fraudulent,19,3,1,0,22,2,0,0,0,0,0,0,1,GTS CA 1P5,Sep  2 17:07:10 2023 GMT,Google Trust Services LLC,9,1,2023-04-06 00:00,0,,0,0,-1
+https://overtheworldmdseller.com,fraudulent,24,3,0,0,28,1,0,1,0,0,0,0,0,R3,Nov 11 13:10:31 2023 GMT,Let's Encrypt,2,0,2019-11-28 14:22,0,,0,0,-1
+https://www.wearegarcia.com,legitimate,19,3,1,0,22,2,0,0,0,1,0,2,1,R3,Sep 27 09:26:35 2023 GMT,Let's Encrypt,2,0,2017-11-15 10:19,0,-1,0,0,-1
+https://www.farmspain.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,1,R3,Aug 31 01:04:13 2023 GMT,Let's Encrypt,2,0,2020-11-29 04:03,0,,0,0,-1
+https://www.allparts.com,legitimate,16,3,1,0,19,2,0,1,1,0,0,2,1,R3,Sep  2 00:41:31 2023 GMT,Let's Encrypt,2,0,1996-10-30 05:00,0,-1,1,0,-1
+https://www.habbel-haustechnik.de,fraudulent,25,2,1,0,27,2,1,0,0,0,0,3,0,GTS CA 1P5,Sep 14 09:05:47 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.designcabinet.biz,legitimate,21,3,1,0,24,2,0,1,1,0,1,2,1,GeoTrust Global TLS RSA4096 SHA256 2022 CA1,Oct  4 23:59:59 2023 GMT,DigiCert Inc,7,0,2009-04-21 17:30,1,2.9,0,0,-1
+https://www.fitness-order.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,0,GTS CA 1P5,Oct 27 07:49:03 2023 GMT,Google Trust Services LLC,9,1,2023-07-29 08:27,0,,0,0,-1
+https://www.gahtoypro.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 22 17:24:19 2023 GMT,Google Trust Services LLC,9,1,2023-05-26 00:00,0,,0,0,-1
+https://www.aqua-nobilis.com/en,legitimate,20,3,1,0,24,2,1,1,1,0,1,2,1,R3,Oct  3 09:02:34 2023 GMT,Let's Encrypt,2,0,2017-04-28 14:12,0,-1,0,0,-1
+https://www.newtoolsregion.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 16 04:58:49 2023 GMT,Google Trust Services LLC,9,1,2023-07-18 00:00,0,,0,0,-1
+https://jmcorals.com,legitimate,12,3,0,0,16,1,0,0,1,0,0,2,1,Thawte TLS RSA CA G1,Mar  8 23:59:59 2024 GMT,DigiCert Inc,7,0,2020-02-05 12:31,0,-1,0,0,-1
+https://music-like.com,fraudulent,14,3,0,0,17,1,1,1,1,0,0,0,0,E1,Oct 12 06:26:53 2023 GMT,Let's Encrypt,2,1,2023-05-16 02:59,0,,0,0,-1
+https://www.michaelmurphy.ie,legitimate,20,2,1,0,23,2,0,1,1,1,0,2,1,R3,Oct  5 01:53:16 2023 GMT,Let's Encrypt,2,0,2000-04-11 00:00,1,5,0,0,-1
+https://www.abestunderwear.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 25 17:10:22 2023 GMT,Google Trust Services LLC,9,1,2023-05-29 00:00,0,,0,0,-1
+https://www.thecope.ie,legitimate,14,2,1,0,17,2,0,1,1,0,1,2,1,R3,Nov 12 19:26:20 2023 GMT,Let's Encrypt,2,0,2002-01-04 00:00,1,4,0,0,-1
+https://logifreightshipping.com,fraudulent,23,3,0,0,27,1,0,0,0,0,0,2,1,R3,Sep 10 05:15:02 2023 GMT,Let's Encrypt,2,1,2023-02-10 06:08,0,,0,0,-1
+https://www.loveapparelus.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct 24 13:20:41 2023 GMT,Let's Encrypt,2,1,2023-03-30 03:15,0,,0,0,-1
+https://paulogenerators.co.za,fraudulent,21,5,0,0,24,2,0,0,0,0,0,2,1,R3,Oct 17 15:38:24 2023 GMT,Let's Encrypt,2,1,2022-09-17 00:00,0,,0,0,-1
+https://zoey-denmark.com,legitimate,16,3,0,0,19,1,1,1,1,0,0,3,1,R3,Oct  1 00:50:48 2023 GMT,Let's Encrypt,2,0,2017-06-19 11:25,0,-1,0,0,-1
+https://www.gsmsignalizacija.lt,legitimate,23,2,1,0,26,2,0,1,0,1,0,0,1,"cPanel, Inc. Certification Authority",Oct 21 23:59:59 2023 GMT,"cPanel, Inc.",4,0,2016-08-01 00:00,0,-1,0,0,-1
+https://www.cosplayschuhede.com,fraudulent,23,3,1,0,26,2,0,1,1,1,0,0,1,E1,Sep 19 04:53:44 2023 GMT,Let's Encrypt,2,1,2023-06-21 05:49,0,,0,0,-1
+https://aquaglowdecor.hr,legitimate,16,2,0,0,20,1,0,1,1,0,0,3,1,R3,Sep 11 06:07:08 2023 GMT,Let's Encrypt,2,1,2023-05-25 22:00,0,-1,0,0,-1
+https://uk.trotec.com,legitimate,13,3,0,0,16,2,0,1,1,1,0,3,1,Starfield Secure Certificate Authority - G2,Jul 27 09:24:42 2024 GMT,"Starfield Technologies, Inc.",11,0,2000-03-02 00:45,0,-1,0,0,-1
+https://www.ekokolekcija.lt,legitimate,19,2,1,0,22,2,0,1,0,0,0,2,1,R3,Sep 26 20:10:42 2023 GMT,Let's Encrypt,2,0,2012-01-19 00:00,0,-1,0,0,-1
+https://svelitus.lt,legitimate,11,2,0,0,15,1,0,0,0,0,0,0,1,GTS CA 1P5,Oct  2 04:14:02 2023 GMT,Google Trust Services LLC,9,0,2018-08-10 00:00,0,-1,0,0,-1
+https://dmours.com,fraudulent,10,3,0,0,14,1,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jul 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-07-25 15:13,0,,0,0,-1
+https://clarumled.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,2,0,Certum Domain Validation CA SHA2,Jun 17 23:21:47 2024 GMT,Unizeto Technologies S.A.,11,0,2014-01-08 14:07,0,-1,0,0,-1
+https://www.on-vacation.club,legitimate,20,4,1,0,22,2,1,1,1,1,0,2,1,GlobalSign Domain Validation CA - SHA256 - G3,Nov  4 18:02:01 2023 GMT,GlobalSign nv-sa,8,0,2016-06-12 16:19,1,2.8,0,0,-1
+https://nespresso.lt/lt,legitimate,12,2,0,0,18,1,0,1,0,1,0,0,1,R3,Oct  7 20:12:00 2023 GMT,Let's Encrypt,2,0,2000-05-04 00:00,0,-1,0,0,-1
+https://www.sidabras925.lt/lt,legitimate,18,2,1,3,20,2,0,1,1,1,0,2,0,Sectigo RSA Domain Validation Secure Server CA,Apr 16 23:59:59 2024 GMT,Sectigo Limited,3,0,2010-06-18 00:00,0,-1,0,0,-1
+https://saintbasics.com,legitimate,15,3,0,0,19,1,0,1,1,0,0,2,1,R3,Sep 16 04:07:50 2023 GMT,Let's Encrypt,2,0,2008-10-06 07:31,1,4.7,0,0,-1
+https://www.findsportsus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  4 07:16:52 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 00:00,0,,0,0,-1
+https://balticseeds.lt,legitimate,14,2,0,0,18,1,0,1,0,1,0,2,1,R3,Oct 19 03:58:59 2023 GMT,Let's Encrypt,2,0,2005-11-10 00:00,0,-1,0,0,-1
+https://gustavconcept.com,legitimate,17,3,0,0,21,1,0,1,1,0,0,2,1,R3,Sep 17 18:58:50 2023 GMT,Let's Encrypt,2,0,2017-05-15 01:19,0,-1,0,0,-1
+https://www.loveoutdooritem.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep  4 08:34:34 2023 GMT,Google Trust Services LLC,9,1,2023-04-08 06:40,0,,0,0,-1
+https://futegi.com,fraudulent,10,3,0,0,14,1,0,0,0,0,0,2,0,R3,Oct 25 20:21:55 2023 GMT,Let's Encrypt,2,1,2023-05-12 14:45,0,,0,0,-1
+https://manakas.com,legitimate,11,3,0,0,15,1,0,1,1,0,0,2,1,R3,Oct  9 11:42:40 2023 GMT,Let's Encrypt,2,0,2000-07-06 13:33,1,3.8,0,0,-1
+https://www.fashionablenew.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,E1,Oct 28 19:48:13 2023 GMT,Let's Encrypt,2,1,2023-04-03 00:00,0,,0,0,-1
+https://www.knife-limit.com,fraudulent,19,3,1,0,21,2,1,1,1,0,0,0,1,GTS CA 1P5,Sep  9 10:17:40 2023 GMT,Google Trust Services LLC,9,1,2023-04-13 05:53,0,,0,0,-1
+https://www.edforit.com,fraudulent,15,3,1,0,18,2,0,1,0,0,0,0,1,R3,Oct 20 00:21:13 2023 GMT,Let's Encrypt,2,1,2023-03-22 09:44,0,,0,0,-1
+https://turbrand.com,legitimate,12,3,0,0,16,1,0,1,1,0,0,2,1,R3,Oct 17 14:34:19 2023 GMT,Let's Encrypt,2,0,2018-09-18 00:00,0,-1,0,0,-1
+https://www.nicegolfshop.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 10 08:20:48 2023 GMT,Google Trust Services LLC,9,1,2023-08-12 01:59,0,,0,0,-1
+https://www.knivesesee.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,0,E1,Oct 15 13:44:22 2023 GMT,Let's Encrypt,2,1,2023-03-21 00:00,0,,0,0,-1
+https://www.gktrlshop.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,0,GTS CA 1P5,Sep 25 06:58:07 2023 GMT,Google Trust Services LLC,9,1,2023-06-23 05:43,0,,0,0,-1
+https://www.internet-homeandgarden.com,legitimate,30,3,1,0,32,2,1,1,1,0,0,3,1,R3,Oct  5 21:19:50 2023 GMT,Let's Encrypt,2,0,2018-10-10 07:31,0,-1,0,0,-1
+https://trustedallovertheworld.com,fraudulent,26,3,0,0,30,1,0,1,0,0,1,0,1,E1,Oct  3 14:38:17 2023 GMT,Let's Encrypt,2,0,2017-03-15 21:25,1,3.7,0,0,-1
+https://www.fanaticgeneralstore.com,fraudulent,27,3,1,0,30,2,0,1,1,0,0,0,1,E1,Oct 22 08:26:29 2023 GMT,Let's Encrypt,2,1,2023-03-28 01:28,0,,0,0,-1
+https://www.pullupcase.com/e,legitimate,18,3,1,0,22,2,0,0,0,0,0,0,1,R3,Sep 15 03:06:35 2023 GMT,Let's Encrypt,2,0,2010-02-08 17:27,0,-1,0,0,-1
+https://www.basetoollimit.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  4 03:25:31 2023 GMT,Google Trust Services LLC,9,1,2023-06-06 00:00,0,,0,0,-1
+https://www.samsonite.lt/lt,legitimate,16,2,1,0,21,2,0,1,0,0,0,2,1,R3,Sep 21 17:05:09 2023 GMT,Let's Encrypt,2,0,2000-01-27 00:00,0,-1,0,0,-1
+https://www.usridingapparel.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,E1,Oct 24 03:01:26 2023 GMT,Let's Encrypt,2,1,2023-07-26 03:37,0,,0,0,-1
+https://www.derodeloper.com,legitimate,19,3,1,0,22,2,0,1,1,0,0,2,1,Sectigo RSA Organization Validation Secure Server CA,Apr 13 23:59:59 2024 GMT,Sectigo Limited,3,0,2004-11-30 13:27,1,3.9,0,0,-1
+https://www.enjoyladyfad.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 11 11:08:07 2023 GMT,Let's Encrypt,2,1,2023-05-15 08:50,0,,0,0,-1
+https://www.brautkleiderrabatt.com,fraudulent,26,3,1,0,29,2,0,1,1,0,1,0,1,GTS CA 1P5,Sep  1 05:11:37 2023 GMT,Google Trust Services LLC,9,1,2023-06-03 06:05,0,,0,0,-1
+https://sportymenswear.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,1,E1,Oct 11 10:52:16 2023 GMT,Let's Encrypt,2,1,2023-05-15 06:55,0,,0,0,-1
+https://www.ownervogue.com,fraudulent,18,3,1,0,21,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct  4 06:03:49 2023 GMT,Google Trust Services LLC,9,1,2023-07-06 06:43,0,,0,0,-1
+https://www.moebel-glanz.de,legitimate,19,2,1,0,21,2,1,1,0,0,0,2,1,RapidSSL Global TLS RSA4096 SHA256 2022 CA1,Feb 22 23:59:59 2024 GMT,DigiCert Inc,7,2,Hidden,0,-1,0,0,-1
+https://www.internet-sportandcasuals.com,legitimate,32,3,1,0,34,2,1,1,1,0,0,3,1,R3,Oct  5 21:20:34 2023 GMT,Let's Encrypt,2,0,2011-10-31 13:44,1,3.8,0,0,-1
+https://www.hochbeeteonlinestore.com,fraudulent,28,3,1,0,31,2,0,1,1,1,0,0,0,GTS CA 1P5,Sep 29 09:04:32 2023 GMT,Google Trust Services LLC,9,1,2023-05-03 08:09,0,,0,0,-1
+https://www.besthomeyes.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 23 03:25:01 2023 GMT,Google Trust Services LLC,9,1,2023-06-25 04:05,0,,0,0,-1
+https://www.pamelascott.com,legitimate,19,3,1,0,22,2,0,1,1,0,0,3,1,Cloudflare Inc ECC CA-3,Feb 10 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2010-01-02 00:00,1,3.8,0,0,-1
+https://www.manualtoolguru.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  8 08:13:24 2023 GMT,Google Trust Services LLC,9,1,2023-07-10 09:05,0,,0,0,-1
+https://dbeustore.com,fraudulent,13,3,0,0,17,1,0,1,1,1,0,1,1,ZeroSSL RSA Domain Secure Site CA,Oct 11 23:59:59 2023 GMT,ZeroSSL,10,1,2023-06-28 00:00,0,,0,0,-1
+https://www.storeofferus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 23 06:20:53 2023 GMT,Let's Encrypt,2,1,2023-07-25 07:17,0,,0,0,-1
+https://gilmara.lt,legitimate,10,2,0,0,14,1,0,1,0,0,0,2,1,R3,Sep 14 07:22:32 2023 GMT,Let's Encrypt,2,0,2016-02-03 00:00,0,-1,0,0,-1
+https://www.sonis.lt,legitimate,12,2,1,0,15,2,0,1,0,1,0,2,0,R3,Sep 13 00:39:29 2023 GMT,Let's Encrypt,2,0,2016-02-22 00:00,0,-1,0,0,-1
+https://www.jeweloptimal.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,3,0,GTS CA 1P5,Sep 26 03:45:12 2023 GMT,Google Trust Services LLC,9,1,2023-06-28 04:34,0,,0,0,-1
+https://whiskyinternationalonline.com,legitimate,29,3,0,0,33,1,0,1,1,0,0,0,1,GTS CA 1P5,Sep  8 02:48:38 2023 GMT,Google Trust Services LLC,9,0,2015-12-03 14:50,1,3.7,0,0,-1
+https://www.brandsdemocracy.com,legitimate,23,3,1,0,26,2,0,1,1,0,0,2,1,R3,Oct 21 20:42:06 2023 GMT,Let's Encrypt,2,0,2020-10-05 11:19,1,3.4,0,0,-1
+https://lacabossedor.com,legitimate,16,3,0,0,20,1,0,0,0,0,0,2,0,R3,Oct 26 16:10:34 2023 GMT,Let's Encrypt,2,0,1999-10-22 20:52,0,-1,0,0,-1
+https://contexture.it,legitimate,13,2,0,0,17,1,0,0,1,0,0,2,1,R3,Sep 30 12:32:24 2023 GMT,Let's Encrypt,2,0,2017-02-04 18:34,0,-1,0,0,-1
+https://cranebury.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,1,1,Go Daddy Secure Certificate Authority - G2,Jun  9 03:22:47 2024 GMT,"GoDaddy.com, Inc.",5,0,2015-11-01 18:01,0,-1,0,0,-1
+https://aerobicsbrand.com,fraudulent,17,3,0,0,21,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct  4 03:52:25 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 00:00,0,,0,0,-1
+https://www.defahrrad.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,1,GTS CA 1P5,Oct 26 12:39:01 2023 GMT,Google Trust Services LLC,9,1,2023-04-01 04:11,0,,0,0,-1
+https://www.shoeshop.ie,legitimate,15,2,1,0,18,2,0,1,1,1,0,1,1,Amazon RSA 2048 M01,Jun 13 23:59:59 2024 GMT,Amazon,6,0,2009-12-02 00:00,1,4.9,0,0,-1
+https://www.landcutlery.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 11 04:08:14 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 03:13,0,,0,0,-1
+https://www.microvetgric.com,fraudulent,20,3,1,0,23,2,0,1,0,0,0,2,1,R3,Sep  5 23:20:59 2023 GMT,Let's Encrypt,2,1,2022-10-04 00:00,0,,0,0,-1
+https://kultur-bike.com,fraudulent,15,3,0,0,18,1,1,1,1,0,0,2,0,R3,Oct  1 09:56:16 2023 GMT,Let's Encrypt,2,1,2023-05-04 11:31,1,2.9,0,0,-1
+https://www.newinsportus.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Sep  8 12:33:25 2023 GMT,Let's Encrypt,2,1,2023-04-12 08:58,0,,0,0,-1
+https://www.finechildus.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  7 06:25:05 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 00:00,0,,0,0,-1
+https://www.garrafas-e-frascos.pt,legitimate,25,2,1,0,26,2,2,1,1,0,0,0,1,E1,Sep 27 15:57:50 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.cave-bruant.fr,legitimate,18,2,1,0,20,2,1,0,1,0,0,1,1,AlphaSSL CA - SHA256 - G4,Jul  7 07:51:20 2024 GMT,GlobalSign nv-sa,8,0,2005-06-08 10:58,0,-1,0,0,-1
+https://www.cosplaywise.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 16 01:20:59 2023 GMT,Google Trust Services LLC,9,1,2023-08-18 02:14,0,,0,0,-1
+https://www.italian-design.nl/en,legitimate,21,2,1,0,25,2,1,1,1,1,0,2,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2005-11-28 00:00,0,-1,0,0,-1
+https://www.devicezonepro.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 26 06:03:28 2023 GMT,Google Trust Services LLC,9,1,2023-07-28 07:01,0,,0,0,-1
+https://murphylarkin.com,legitimate,16,3,0,0,20,1,0,1,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Apr 10 23:59:59 2024 GMT,Sectigo Limited,3,0,2009-05-28 00:00,1,5,0,0,-1
+https://bestpillsnetwork.com,fraudulent,20,3,0,0,24,1,0,0,0,0,0,0,1,R3,Oct 11 11:29:16 2023 GMT,Let's Encrypt,2,0,2022-04-18 09:50,0,,0,0,-1
+https://www.wearwolf.store,legitimate,18,5,1,0,21,2,0,1,1,0,0,2,1,R3,Oct 28 02:52:04 2023 GMT,Let's Encrypt,2,0,2019-11-16 00:00,0,-1,0,0,-1
+https://www.euro.com.pl,legitimate,15,6,1,0,17,3,0,1,0,1,1,2,1,R3,Sep  4 08:34:42 2023 GMT,Let's Encrypt,2,0,1997-04-15 13:00,1,3.7,0,0,-1
+https://trendydressshop.com,fraudulent,19,3,0,0,23,1,0,1,1,0,0,0,1,E1,Oct 13 04:46:46 2023 GMT,Let's Encrypt,2,1,2023-05-17 02:59,0,,0,0,-1
+https://mrfs-store.com,legitimate,14,3,0,0,17,1,1,1,1,0,0,2,1,R3,Sep 16 14:08:50 2023 GMT,Let's Encrypt,2,1,2022-11-01 08:35,0,-1,0,0,-1
+https://www.functoolslp.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 10 02:28:51 2023 GMT,Google Trust Services LLC,9,1,2023-06-08 00:00,0,,0,0,-1
+https://shop.parasols.eu,legitimate,16,2,0,0,19,2,0,1,1,0,0,0,1,Cloudflare Inc ECC CA-3,Mar 30 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,-1,0,0,-1
+https://universalcontainerexpert.com,fraudulent,28,3,0,0,32,1,0,0,0,0,0,2,1,R3,Aug 30 15:37:09 2023 GMT,Let's Encrypt,2,1,2022-09-30 13:39,0,,0,0,-1
+https://www.creative-metallgestaltung.at,legitimate,32,2,1,0,34,2,1,0,0,0,0,2,1,R3,Oct 13 07:03:47 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://stact.de,legitimate,8,2,0,0,12,1,0,1,1,0,0,2,1,R3,Sep  5 16:28:11 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.stylestroller.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct 13 05:50:19 2023 GMT,Let's Encrypt,2,1,2023-07-15 06:33,0,,0,0,-1
+https://www.myphoenixhomesearch.com,legitimate,27,3,1,0,30,2,0,0,0,1,0,3,1,R3,Oct 10 15:28:24 2023 GMT,Let's Encrypt,2,0,2014-04-07 18:13,0,-1,0,0,-1
+https://www.ersatzteilegeschaft.com,fraudulent,27,3,1,0,30,2,0,1,1,0,0,0,1,E1,Sep 18 03:46:07 2023 GMT,Let's Encrypt,2,1,2023-04-22 02:33,0,,0,0,-1
+https://www.globalptyltd.co.za,fraudulent,22,5,1,0,24,3,0,0,0,0,0,2,0,R3,Sep  5 17:04:51 2023 GMT,Let's Encrypt,2,1,2023-02-05 00:00,0,,0,0,-1
+https://welcomeyarn.pt,legitimate,14,2,0,0,18,1,0,1,1,0,0,2,1,R3,Oct 10 10:27:30 2023 GMT,Let's Encrypt,2,2,Hidden,1,4.8,0,0,-1
+https://www.kikatoys.com,legitimate,16,3,1,0,19,2,0,0,1,0,0,3,1,AlphaSSL CA - SHA256 - G4,Apr  9 12:43:53 2024 GMT,GlobalSign nv-sa,8,0,2007-12-03 10:14,0,-1,0,0,-1
+https://bestalpinism.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,1,E1,Oct  2 10:06:18 2023 GMT,Let's Encrypt,2,1,2023-05-06 07:08,0,,0,0,-1
+https://www.aquaticsportscp.com,fraudulent,23,3,1,0,26,2,0,1,1,0,1,0,0,E1,Sep  6 04:12:04 2023 GMT,Let's Encrypt,2,1,2023-06-08 00:00,0,,0,0,-1
+https://samarali.eu,legitimate,11,2,0,0,15,1,0,1,1,1,0,2,1,R3,Oct 15 02:37:36 2023 GMT,Let's Encrypt,2,2,Hidden,1,4.4,0,0,-1
+https://www.rewinedcandles.eu,legitimate,21,2,1,0,24,2,0,1,1,1,0,2,1,R3,Oct 23 18:06:37 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.water-bagshop.com,fraudulent,21,3,1,0,23,2,1,1,0,1,0,0,1,E1,Oct 13 07:30:21 2023 GMT,Let's Encrypt,2,1,2023-07-15 08:14,0,,0,0,-1
+https://shop.lagazoi.it,legitimate,15,2,0,0,18,2,0,1,1,0,0,3,1,R3,Sep 19 08:35:49 2023 GMT,Let's Encrypt,2,0,2001-10-31 00:00,1,4.9,0,0,-1
+https://www.boldraiment.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct  6 06:44:07 2023 GMT,Let's Encrypt,2,1,2023-05-10 00:00,0,,0,0,-1
+https://www.euoneill.de,fraudulent,15,2,1,0,18,2,0,0,0,0,0,0,0,Cloudflare Inc ECC CA-3,Feb  7 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,,0,0,-1
+https://www.hotsaletennis.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 11 05:25:19 2023 GMT,Google Trust Services LLC,9,1,2023-05-15 02:46,0,,0,0,-1
+https://www.happychildmarket.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 26 08:08:45 2023 GMT,Google Trust Services LLC,9,1,2023-06-28 08:55,0,,0,0,-1
+https://scorer.es/en,legitimate,9,2,0,0,15,1,0,1,1,1,0,3,1,Cloudflare Inc ECC CA-3,Oct 10 23:59:59 2023 GMT,"Cloudflare, Inc.",1,2,Hidden,1,3.3,0,0,-1
+https://newbagopt.com,fraudulent,13,3,0,0,17,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct  8 07:05:00 2023 GMT,Google Trust Services LLC,9,1,2023-05-12 06:31,0,,0,0,-1
+https://www.meagherspharmacy.ie,legitimate,23,2,1,0,26,2,0,1,1,1,0,2,1,R3,Oct 13 19:12:14 2023 GMT,Let's Encrypt,2,0,2010-01-26 00:00,1,4.8,0,0,-1
+https://vbchemicalsltd.com,fraudulent,18,3,0,0,22,1,0,0,0,0,0,2,1,R3,Oct  1 07:50:18 2023 GMT,Let's Encrypt,2,1,2023-03-02 16:56,0,,0,0,-1
+https://www.shade-control.com,legitimate,21,3,1,0,23,2,1,1,1,1,0,3,1,R3,Sep  8 09:13:28 2023 GMT,Let's Encrypt,2,0,2021-05-04 19:28,1,3.7,0,0,-1
+https://www.prodirectsport.com,legitimate,22,3,1,0,25,2,0,1,1,1,0,2,1,GeoTrust RSA CA 2018,Jun 21 23:59:59 2024 GMT,DigiCert Inc,7,0,2002-09-11 16:12,1,4.2,0,0,-1
+https://www.newlands.ie,legitimate,15,2,1,0,18,2,0,1,1,0,1,2,0,R3,Oct 17 09:53:53 2023 GMT,Let's Encrypt,2,0,2000-05-22 00:00,1,3.6,0,0,-1
+https://www.paradigit.ie,legitimate,16,2,1,0,19,2,0,1,1,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Nov 23 23:59:59 2023 GMT,Sectigo Limited,3,0,2013-04-11 00:00,1,2.6,0,0,-1
+https://www.hhv.de/shop/e,legitimate,10,2,1,0,18,2,0,1,1,1,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Apr 20 23:59:59 2024 GMT,Sectigo Limited,3,2,Hidden,1,4.1,0,0,-1
+https://www.michaelkors.de,legitimate,18,2,1,0,21,2,0,1,1,1,0,1,1,DigiCert TLS RSA SHA256 2020 CA1,Mar 24 23:59:59 2024 GMT,DigiCert Inc,7,2,Hidden,1,2.6,0,0,-1
+https://www.enamams.lt,legitimate,14,2,1,0,17,2,0,1,0,0,0,2,0,R3,Sep 17 02:17:02 2023 GMT,Let's Encrypt,2,0,2009-05-11 00:00,0,-1,0,0,-1
+https://www.ola-bebe.com,legitimate,16,3,1,0,18,2,1,0,0,0,0,2,1,R3,Oct  1 04:41:17 2023 GMT,Let's Encrypt,2,0,2015-04-17 11:48,0,-1,0,0,-1
+https://natos.lt/en/inde,legitimate,8,2,0,0,18,1,0,1,1,0,0,2,1,R3,Sep  9 04:40:50 2023 GMT,Let's Encrypt,2,0,2005-12-20 00:00,0,-1,0,0,-1
+https://kiki-kiss-kiss.com,legitimate,18,3,0,0,20,1,2,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G1,Dec 12 23:59:59 2023 GMT,DigiCert Inc,7,0,2011-09-03 02:00,0,-1,0,0,-1
+https://beanbags.ie,legitimate,11,2,0,0,15,1,0,0,0,0,0,3,1,E1,Nov 11 13:58:08 2023 GMT,Let's Encrypt,2,0,2011-10-18 00:00,0,-1,0,0,-1
+https://www.finesthometool.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 24 00:53:37 2023 GMT,Google Trust Services LLC,9,1,2023-07-26 00:00,0,,0,0,-1
+https://www.reuter.com,legitimate,14,3,1,0,17,2,0,0,0,0,0,0,1,Starfield Secure Certificate Authority - G2,Apr  7 09:58:39 2024 GMT,"Starfield Technologies, Inc.",11,0,1998-08-13 04:00,1,3.9,1,0,-1
+https://vitasciences.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,2,1,R3,Oct  9 07:51:29 2023 GMT,Let's Encrypt,2,0,2004-08-03 18:18,1,4.5,0,0,-1
+https://www.littleyou.me,legitimate,16,2,1,0,19,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 19 02:55:14 2023 GMT,Google Trust Services LLC,9,0,2017-04-11 08:04,0,-1,0,0,-1
+https://oallery.com,legitimate,11,3,0,0,15,1,0,1,1,0,0,2,1,R3,Oct 17 08:08:22 2023 GMT,Let's Encrypt,2,0,2018-03-03 22:06,0,-1,0,0,-1
+https://brennholz-geschaft.com,fraudulent,22,3,0,0,25,1,1,0,0,1,0,2,1,"cPanel, Inc. Certification Authority",Aug 24 23:59:59 2023 GMT,"cPanel, Inc.",4,1,2023-03-11 09:55,0,,0,0,-1
+https://www.altonaer-silberwerkstatt.de,legitimate,31,2,1,0,33,2,1,0,0,1,0,2,1,R3,Oct  2 01:20:21 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.giftusoutdoor.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct  7 06:08:08 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 02:26,0,,0,0,-1
+https://www.newlook.com/ro,legitimate,15,3,1,0,20,2,0,0,0,0,0,0,1,DigiCert TLS RSA SHA256 2020 CA1,Oct 13 23:59:59 2023 GMT,DigiCert Inc,7,0,1995-08-10 04:00,1,4.4,1,0,-1
+https://www.bodegaaurrera.com.mx/inici,legitimate,24,6,1,0,31,3,0,0,0,0,0,0,1,GlobalSign RSA OV SSL CA 2018,Jul 17 13:03:25 2024 GMT,GlobalSign nv-sa,8,0,2016-09-19 00:00,1,3.2,0,0,-1
+https://www.twoktools.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 06:28:02 2023 GMT,Google Trust Services LLC,9,1,2023-07-06 00:00,0,,0,0,-1
+https://www.newtechstore.eu,legitimate,19,2,1,0,22,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 26 02:03:13 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,-1,0,0,-1
+https://www.kidstruckerhat-shop.com,fraudulent,27,3,1,0,29,2,1,1,1,1,0,0,1,E1,Oct 13 05:39:05 2023 GMT,Let's Encrypt,2,1,2023-05-17 05:49,0,,0,0,-1
+https://www.3dprima.com,legitimate,15,3,1,1,17,2,0,1,1,1,0,2,1,Encryption Everywhere DV TLS CA - G2,Oct  5 23:59:59 2023 GMT,DigiCert Inc,7,0,2013-07-11 10:51,1,3.4,0,0,-1
+https://www.wss-berlin.de,legitimate,17,2,1,0,19,2,1,0,1,0,0,0,1,R3,Oct 25 22:01:03 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.sport-conrad.com,legitimate,20,3,1,0,32,2,1,1,1,0,0,3,1,GTS CA 1P5,Oct  8 06:19:59 2023 GMT,Google Trust Services LLC,9,0,2004-07-21 13:50,1,4.2,0,0,-1
+https://www.getzoo.de,legitimate,13,2,1,0,16,2,0,1,1,0,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Jun 22 23:59:59 2024 GMT,Sectigo Limited,3,2,Hidden,0,-1,0,0,-1
+https://www.fashionclothwo.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 17 06:02:50 2023 GMT,Google Trust Services LLC,9,1,2023-06-19 06:55,0,,0,0,-1
+https://www.lasport.top,fraudulent,15,3,1,0,18,2,0,1,1,0,0,3,0,Cloudflare Inc ECC CA-3,Jun 20 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-22 00:00,0,,0,0,-1
+https://www.sweatershop.com,legitimate,19,3,1,0,22,2,0,1,1,1,0,0,1,GTS CA 1P5,Nov 25 09:18:05 2023 GMT,Google Trust Services LLC,9,0,2003-03-09 19:06,0,-1,0,0,-1
+https://24rabatt.shop,fraudulent,13,4,0,2,15,1,0,1,1,0,0,0,1,R3,Sep 22 05:52:57 2023 GMT,Let's Encrypt,2,1,2023-02-23 00:53,0,,0,0,-1
+https://www.inishpharmacy.com,legitimate,21,3,1,0,24,2,0,1,1,0,0,2,1,Amazon RSA 2048 M02,Jul 19 23:59:59 2024 GMT,Amazon,6,0,2013-04-15 15:10,1,4.9,1,0,-1
+https://foys.ie,legitimate,7,2,0,0,11,1,0,1,1,1,0,2,1,R3,Oct 10 11:46:31 2023 GMT,Let's Encrypt,2,0,2001-09-26 00:00,1,4.9,0,0,-1
+https://hscph.com,legitimate,9,3,0,0,13,1,0,1,1,0,0,2,1,R3,Oct 20 01:27:23 2023 GMT,Let's Encrypt,2,0,2018-05-16 08:34,0,-1,0,0,-1
+https://skinshop.ie,legitimate,11,2,0,0,15,1,0,1,1,1,0,2,1,R3,Oct 16 01:57:34 2023 GMT,Let's Encrypt,2,0,2011-10-12 00:00,1,4.8,0,0,-1
+https://newoutward.com,fraudulent,14,3,0,0,18,1,0,1,1,0,0,0,1,E1,Oct 14 08:11:05 2023 GMT,Let's Encrypt,2,1,2023-05-18 04:35,0,,0,0,-1
+https://www.handtoolexperts.com,fraudulent,23,3,1,0,26,2,0,0,0,0,0,0,1,GTS CA 1P5,Oct  5 06:45:56 2023 GMT,Google Trust Services LLC,9,1,2023-07-07 06:59,0,,0,0,-1
+https://www.healthful-online.com,fraudulent,24,3,1,0,26,2,1,1,0,0,0,3,1,R3,Sep 29 00:23:15 2023 GMT,Let's Encrypt,2,0,2020-06-01 17:00,0,,0,0,-1
+https://www.gomecks.top,fraudulent,15,3,1,0,18,2,0,0,1,0,0,0,0,R3,Oct  8 05:49:46 2023 GMT,Let's Encrypt,2,1,2023-02-15 15:56,0,,0,0,-1
+https://www.discountcartool.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 24 00:55:38 2023 GMT,Google Trust Services LLC,9,1,2023-07-26 01:38,0,,0,0,-1
+https://premiumpillservice.com,fraudulent,22,3,0,0,26,1,0,0,0,0,0,0,1,R3,Nov  5 23:58:21 2023 GMT,Let's Encrypt,2,1,2023-02-08 13:46,0,,0,0,-1
+https://www.labq22.in,fraudulent,13,2,1,2,14,2,0,1,0,0,0,0,0,E1,Oct  8 05:10:46 2023 GMT,Let's Encrypt,2,0,2017-08-09 15:25,0,,0,0,-1
+https://www.collectionbicycle.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 15 07:03:59 2023 GMT,Google Trust Services LLC,9,1,2023-04-19 03:18,0,,0,0,-1
+https://www.lightfamous.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,0,GTS CA 1P5,Nov 14 06:34:26 2023 GMT,Google Trust Services LLC,9,1,2023-08-16 07:11,0,,0,0,-1
+https://landbikini.com,fraudulent,14,3,0,0,18,1,0,1,1,0,0,0,0,E1,Oct 13 09:49:58 2023 GMT,Let's Encrypt,2,1,2023-05-17 07:58,0,,0,0,-1
+https://caluaniechemicalsllc.com,fraudulent,24,3,0,0,28,1,0,0,0,1,0,2,1,R3,Sep 19 14:32:16 2023 GMT,Let's Encrypt,2,1,2022-12-08 00:00,0,,0,0,-1
+https://www.superglamourous.it,legitimate,22,2,1,0,25,2,0,1,1,0,0,1,1,R3,Oct 14 17:36:36 2023 GMT,Let's Encrypt,2,0,2011-10-28 12:28,1,3.8,1,0,-1
+https://abcexportgroup.co.za,fraudulent,20,5,0,0,23,2,0,0,0,0,0,2,1,R3,Oct 27 18:36:20 2023 GMT,Let's Encrypt,2,1,2022-09-27 00:00,0,,0,0,-1
+https://www.atlasformen.cz,legitimate,18,2,1,0,21,2,0,1,0,0,0,0,1,GlobalSign Atlas R3 DV TLS CA 2023 Q2,Nov 28 18:22:06 2023 GMT,GlobalSign nv-sa,8,0,2015-12-17 12:36,0,-1,0,0,-1
+https://www.industrialprotool.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 23 05:36:08 2023 GMT,Google Trust Services LLC,9,1,2023-06-25 06:18,0,,0,0,-1
+https://allbursatours.com,legitimate,17,3,0,0,21,1,0,0,0,0,0,2,1,R3,Oct 27 20:11:42 2023 GMT,Let's Encrypt,2,0,2013-12-27 07:41,0,-1,0,0,-1
+https://www.sugartrends.com,legitimate,19,3,1,0,22,2,0,0,0,0,0,0,1,GTS CA 1P5,Oct 12 00:08:41 2023 GMT,Google Trust Services LLC,9,0,2012-08-26 18:41,1,2.5,0,0,-1
+https://www.sportyglobe.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,E1,Oct 20 06:30:55 2023 GMT,Let's Encrypt,2,1,2023-05-24 03:28,0,,0,0,-1
+https://www.divinebugs.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,3,1,R3,Sep 21 05:56:41 2023 GMT,Let's Encrypt,2,0,2019-01-23 09:53,0,-1,0,0,-1
+https://www.usopenair.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 16 16:09:01 2023 GMT,Google Trust Services LLC,9,1,2023-03-22 10:50,0,,0,0,-1
+https://www.cosplaysincere.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,E1,Nov 15 06:22:13 2023 GMT,Let's Encrypt,2,1,2023-08-17 07:14,0,,0,0,-1
+https://www.decoration-house.com,fraudulent,24,3,1,0,26,2,1,1,1,0,0,0,1,E1,Nov  7 07:47:00 2023 GMT,Let's Encrypt,2,1,2023-08-09 08:23,0,,0,0,-1
+https://asieboisconcept.fr,fraudulent,18,2,0,0,22,1,0,1,0,0,0,2,0,Sectigo RSA Domain Validation Secure Server CA,Oct 19 23:59:59 2023 GMT,Sectigo Limited,3,1,2023-01-14 00:39,0,,0,0,-1
+https://www.bigdealkicks.com,fraudulent,20,3,1,0,23,2,0,0,0,0,0,0,0,GTS CA 1P5,Sep 14 08:55:42 2023 GMT,Google Trust Services LLC,9,1,2023-04-09 04:27,0,,0,0,-1
+https://www.focalprice.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,2,1,R3,Oct  5 05:40:29 2023 GMT,Let's Encrypt,2,0,2008-06-03 03:17,1,1.3,1,0,-1
+https://www.slendergoods.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 16 03:20:55 2023 GMT,Google Trust Services LLC,9,1,2023-05-20 01:38,0,,0,0,-1
+https://kosmart.eu,legitimate,10,2,0,0,14,1,0,1,1,0,0,1,1,GeoTrust EV RSA CA 2018,Sep  8 23:59:59 2023 GMT,DigiCert Inc,7,2,Hidden,0,-1,0,0,-1
+https://www.party365.se,legitimate,15,2,1,3,15,2,0,1,1,0,0,0,1,Amazon RSA 2048 M01,Nov 12 23:59:59 2023 GMT,Amazon,6,0,2021-09-23 00:00,0,-1,0,0,-1
+https://www.categoryfurniture.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,E1,Sep 17 05:31:49 2023 GMT,Let's Encrypt,2,1,2023-06-19 03:55,0,,0,0,-1
+https://lidiacrochettricot.com,legitimate,22,3,0,0,26,1,0,1,1,0,0,3,1,Cloudflare Inc ECC CA-3,Apr 17 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2015-03-18 00:00,0,-1,0,0,-1
+https://amofugroupholdings.com,fraudulent,22,3,0,0,26,1,0,0,0,0,0,2,1,R3,Oct 27 11:17:52 2023 GMT,Let's Encrypt,2,1,2023-03-29 11:10,0,,0,0,-1
+https://www.fischende.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,E1,Oct 15 08:53:26 2023 GMT,Let's Encrypt,2,1,2023-05-19 07:57,0,,0,0,-1
+https://johnny-urban.com,legitimate,16,3,0,0,19,1,1,1,1,0,0,3,1,R3,Sep 11 11:21:07 2023 GMT,Let's Encrypt,2,0,2017-05-17 15:09,0,-1,0,0,-1
+https://www.kartalyuvasi.eu/en,legitimate,19,2,1,0,24,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Mar 31 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,0,-1,0,0,-1
+https://www.byyentl.com,fraudulent,15,3,1,0,18,2,0,1,0,0,0,0,0,E1,Sep 16 08:35:33 2023 GMT,Let's Encrypt,2,1,2022-08-22 01:53,0,,0,0,-1
+https://www.greenlinelina.de,fraudulent,20,2,1,0,23,2,0,1,1,1,0,0,0,GTS CA 1P5,Sep 27 08:48:33 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://www.askopindopusat.com,fraudulent,22,3,1,0,25,2,0,1,0,0,0,0,1,R3,Oct 28 09:22:37 2023 GMT,Let's Encrypt,2,1,2022-09-27 02:35,0,,0,0,-1
+https://www.polo-motorrad.com/de-de,legitimate,21,3,1,0,27,2,2,1,1,1,0,2,1,DigiCert TLS RSA SHA256 2020 CA1,Feb 20 23:59:59 2024 GMT,DigiCert Inc,7,0,2003-08-05 11:13,1,4.6,0,0,-1
+https://www.trendfashionary.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 10 06:09:17 2023 GMT,Google Trust Services LLC,9,1,2023-04-14 03:39,0,,0,0,-1
+https://www.alaskanmaker.fr/en,legitimate,19,2,1,0,24,2,0,1,1,0,0,2,1,R3,Oct  6 00:32:16 2023 GMT,Let's Encrypt,2,0,2016-11-08 13:16,1,3.7,0,0,-1
+https://www.vaughanshoes.ie,legitimate,19,2,1,0,22,2,0,1,1,0,0,1,1,Amazon RSA 2048 M01,Sep 17 23:59:59 2024 GMT,Amazon,6,0,2014-04-09 00:00,1,5,0,0,-1
+https://www.gottalive.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,3,1,R3,Sep 13 20:01:27 2023 GMT,Let's Encrypt,2,0,2005-10-14 19:29,0,-1,0,0,-1
+https://www.electrifytools.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 06:04:58 2023 GMT,Google Trust Services LLC,9,1,2023-07-06 00:00,0,,0,0,-1
+https://lespirant.com,legitimate,13,3,0,0,17,1,0,1,1,0,0,2,1,R3,Oct 17 09:24:09 2023 GMT,Let's Encrypt,2,0,2015-09-29 20:58,0,-1,0,0,-1
+https://247pharm.net,fraudulent,12,3,0,3,13,1,0,1,1,0,1,0,1,GTS CA 1P5,Sep 15 18:49:13 2023 GMT,Google Trust Services LLC,9,0,2017-10-09 12:10,1,3.6,0,0,-1
+https://sunluxroofwindows.co.uk,legitimate,23,5,0,0,26,2,0,1,1,0,0,1,1,R3,Oct 22 18:00:20 2023 GMT,Let's Encrypt,2,0,2014-12-04 00:00,1,3.7,0,0,-1
+https://shop.ambclasse.com/passwor,legitimate,18,3,0,0,28,2,0,0,0,0,0,0,0,R3,Sep  5 19:38:11 2023 GMT,Let's Encrypt,2,0,2016-02-28 09:18,0,-1,0,0,-1
+https://www.meyer-trousers.ie/en_ie,legitimate,21,2,1,0,27,2,1,1,1,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Aug 22 23:59:59 2023 GMT,Sectigo Limited,3,0,2016-12-07 00:00,0,-1,0,0,-1
+https://www.teqoya.com,legitimate,14,3,1,0,17,2,0,1,0,0,0,2,1,R3,Oct  2 04:45:55 2023 GMT,Let's Encrypt,2,0,2014-07-21 18:09,1,4.5,0,0,-1
+https://www.accessoriesbetter.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 23 04:25:16 2023 GMT,Google Trust Services LLC,9,1,2023-02-27 00:00,0,,0,0,-1
+https://www.jerseyrabatt.com,fraudulent,20,3,1,0,23,2,0,0,0,0,0,0,0,GTS CA 1P5,Sep 27 07:42:25 2023 GMT,Google Trust Services LLC,9,0,2022-05-25 01:25,1,3.2,0,0,-1
+https://hero.lt,legitimate,7,2,0,0,11,1,0,1,0,1,0,2,1,R3,Sep 19 02:25:42 2023 GMT,Let's Encrypt,2,0,2012-04-05 00:00,0,-1,0,1,750712
+https://www.livingroomonsell.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Nov 13 07:09:41 2023 GMT,Google Trust Services LLC,9,1,2023-08-15 07:48,0,,0,0,-1
+https://www.canadian-rxpharmacy.com,fraudulent,27,3,1,0,29,2,1,0,0,0,0,0,0,R3,Sep 29 00:24:14 2023 GMT,Let's Encrypt,2,0,2020-06-01 17:00,0,,0,0,-1
+https://www.dosenprofi.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,0,1,R3,Sep  2 15:23:35 2023 GMT,Let's Encrypt,2,0,2007-04-11 13:12,0,-1,0,0,-1
+https://germanysolingen.com/en,legitimate,19,3,0,0,25,1,0,1,1,0,0,2,1,R3,Sep  5 12:35:42 2023 GMT,Let's Encrypt,2,0,2000-10-06 06:38,0,-1,0,0,-1
+https://www.inhealth.ie,legitimate,15,2,1,0,18,2,0,1,1,1,0,2,1,Encryption Everywhere G3 TLS ECC P384 SHA384 2023 CA1,May 12 23:59:59 2024 GMT,DigiCert Inc,7,0,2009-01-16 00:00,1,3.7,0,0,-1
+https://www.cyclesprint.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 28 02:53:56 2023 GMT,Google Trust Services LLC,9,1,2023-06-30 03:33,0,,0,0,-1
+https://allusmusic.com,fraudulent,14,3,0,0,18,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct 14 11:32:50 2023 GMT,Google Trust Services LLC,9,1,2023-05-18 09:21,0,,0,0,-1
+https://www.decathlon.co.uk,legitimate,19,5,1,0,21,3,0,1,1,1,0,0,1,E1,Oct 22 13:25:38 2023 GMT,Let's Encrypt,2,0,1997-03-12 00:00,1,4.3,1,0,-1
+https://www.kjus.com/us/en/hom,legitimate,12,3,1,0,22,2,0,1,1,1,0,2,1,DigiCert TLS RSA SHA256 2020 CA1,Feb 28 23:59:59 2024 GMT,DigiCert Inc,7,0,1999-02-15 05:00,1,2.4,0,0,-1
+https://silwy.de/e,legitimate,8,2,0,0,13,1,0,1,1,0,0,2,1,R3,Oct 20 23:41:51 2023 GMT,Let's Encrypt,2,2,Hidden,1,4.4,0,0,-1
+https://www.poweredblinds.dk,legitimate,20,2,1,0,23,2,0,0,1,0,0,0,1,GTS CA 1P5,Sep 25 19:37:51 2023 GMT,Google Trust Services LLC,9,0,2014-09-30 00:00,1,3.3,0,0,-1
+https://www.cycleshopworld.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 30 07:30:07 2023 GMT,Google Trust Services LLC,9,1,2023-08-01 08:20,0,,0,0,-1
+https://super-shop.com,legitimate,14,3,0,0,17,1,1,1,1,1,0,2,1,R3,Aug  6 22:18:06 2023 GMT,Let's Encrypt,2,0,2003-10-24 18:25,1,2.7,1,1,964101
+https://bestmedicineservice.com,fraudulent,23,3,0,0,27,1,0,0,0,0,0,0,1,R3,Oct 20 11:53:03 2023 GMT,Let's Encrypt,2,1,2023-01-23 08:56,0,,0,0,-1
+https://www.parduotuvevaikams.lt,legitimate,24,2,1,0,27,2,0,1,0,1,0,2,1,R3,Oct 14 02:29:00 2023 GMT,Let's Encrypt,2,0,2016-02-17 00:00,0,-1,0,0,-1
+https://www.sanct-bernhard.com,legitimate,22,3,1,0,24,2,1,1,1,1,0,3,1,R3,Oct 13 15:11:58 2023 GMT,Let's Encrypt,2,0,2000-03-28 15:10,1,3.8,0,0,-1
+https://esgehtauchohnerezept.net,fraudulent,24,3,0,0,28,1,0,0,0,0,0,0,1,R3,Aug  5 15:32:45 2023 GMT,Let's Encrypt,2,1,2023-01-20 07:15,0,,0,0,-1
+https://www.fundis-equestrian.com,legitimate,25,3,1,0,27,2,1,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb  5 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2020-04-15 14:02,0,-1,0,0,-1
+https://www.blutsgeschwister.de,legitimate,23,2,1,0,26,2,0,1,1,0,0,2,1,Certum Organization Validation CA SHA2,Dec 19 13:31:56 2023 GMT,Unizeto Technologies S.A.,11,2,Hidden,0,-1,0,0,-1
+https://www.erectieassistent.nl,fraudulent,23,2,1,0,26,2,0,1,0,0,0,0,1,GTS CA 1P5,Oct  7 16:28:27 2023 GMT,Google Trust Services LLC,9,1,2023-05-11 00:00,0,,0,0,-1
+https://www.vercella-vita.shop,legitimate,22,4,1,0,24,2,1,1,1,0,0,0,1,GeoTrust RSA CA 2018,Dec 24 23:59:59 2023 GMT,DigiCert Inc,7,0,2020-08-03 07:24,0,-1,0,0,-1
+https://www.immunepharma.com,fraudulent,20,3,1,0,23,2,0,0,0,0,0,2,1,R3,Aug 26 00:37:17 2023 GMT,Let's Encrypt,2,0,2009-06-20 18:54,0,,0,0,-1
+https://www.vhatkevada.shop,fraudulent,19,4,1,0,21,2,0,1,1,1,0,0,0,GTS CA 1P5,Oct 12 13:11:00 2023 GMT,Google Trust Services LLC,9,1,2023-03-18 00:12,0,,0,0,-1
+https://www.floranza.de,fraudulent,15,2,1,0,18,2,0,0,1,0,0,2,1,R3,Sep 24 22:40:04 2023 GMT,Let's Encrypt,2,2,Hidden,1,3.8,0,0,-1
+https://www.adsport.store,legitimate,17,5,1,0,20,2,0,1,0,1,0,2,1,R3,Oct  4 20:40:38 2023 GMT,Let's Encrypt,2,0,2019-03-11 00:00,0,-1,0,0,-1
+https://www.chicloverplusizes.com,fraudulent,25,3,1,0,28,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 17 06:20:30 2023 GMT,Google Trust Services LLC,9,1,2023-06-19 07:08,0,,0,0,-1
+https://www.lukasmullerwelpenzuhause.com,fraudulent,32,3,1,0,35,2,0,0,0,0,0,2,0,Sectigo RSA Domain Validation Secure Server CA,Mar 22 23:59:59 2024 GMT,Sectigo Limited,3,1,2023-03-22 00:00,0,,0,0,-1
+https://www.fanthome.com/en,legitimate,16,3,1,0,21,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2014-06-09 18:47,0,-1,0,0,-1
+https://www.keenschuhe.at,fraudulent,17,2,1,0,20,2,0,1,1,0,0,0,1,R3,Oct 16 05:36:41 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.clothesoptinfo.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,E1,Oct 26 06:53:33 2023 GMT,Let's Encrypt,2,1,2023-05-30 06:22,0,,0,0,-1
+https://irelandseyeknitwear.com,legitimate,23,3,0,0,27,1,0,1,1,1,0,3,1,R3,Oct 20 23:10:08 2023 GMT,Let's Encrypt,2,0,2019-05-15 17:17,1,3.2,0,0,-1
+https://got-bag.com,legitimate,11,3,0,0,14,1,1,1,1,0,0,2,1,R3,Sep 24 21:08:30 2023 GMT,Let's Encrypt,2,0,2016-10-20 19:05,1,2.8,0,1,481570
+https://www.fadtennis.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 22 10:20:00 2023 GMT,Google Trust Services LLC,9,1,2023-05-26 00:00,0,,0,0,-1
+https://www.tkmaxx.com/LandingPage,legitimate,14,3,1,0,28,2,0,0,0,0,0,0,1,DigiCert TLS RSA SHA256 2020 CA1,Aug 20 23:59:59 2023 GMT,DigiCert Inc,7,0,1996-05-11 04:00,1,2.1,1,0,-1
+https://baitukas.lt,legitimate,11,2,0,0,15,1,0,1,0,0,0,2,1,R3,Oct  6 03:48:15 2023 GMT,Let's Encrypt,2,0,2001-12-06 00:00,0,-1,0,0,-1
+https://www.hunkemoller.se,legitimate,18,2,1,0,21,2,0,1,1,1,0,3,1,GeoTrust EV RSA CA 2018,Sep 20 23:59:59 2023 GMT,DigiCert Inc,7,0,2009-10-21 00:00,1,4.4,0,0,-1
+https://www.overtoolbase.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 13 06:20:52 2023 GMT,Google Trust Services LLC,9,1,2023-07-15 03:39,0,,0,0,-1
+https://www.magrabo.com/gb,legitimate,15,3,1,0,20,2,0,1,1,1,0,3,1,R3,Sep  8 02:26:40 2023 GMT,Let's Encrypt,2,0,2015-03-19 09:27,0,-1,0,0,-1
+https://www.protest.eu/nl/n,legitimate,14,2,1,0,20,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,May 17 23:59:59 2024 GMT,"Cloudflare, Inc.",1,2,Hidden,1,1.6,0,0,-1
+https://www.obsession-shop.com/en,legitimate,22,3,1,0,26,2,1,1,0,0,0,0,1,Cloudflare Inc ECC CA-3,Feb 21 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2020-09-02 07:09,0,-1,0,0,-1
+https://www.barnesandnoble.com,legitimate,22,3,1,0,25,2,0,0,0,0,0,0,1,DigiCert TLS RSA SHA256 2020 CA1,Jun  6 23:59:59 2024 GMT,DigiCert Inc,7,0,1995-08-10 04:00,1,4.1,1,0,-1
+https://www.completoshop.cz,legitimate,19,2,1,0,22,2,0,1,1,0,0,2,1,Certum Domain Validation CA SHA2,Jun 29 11:22:50 2024 GMT,Unizeto Technologies S.A.,11,2,Hidden,0,-1,0,0,-1
+https://www.europe-pharm.net,fraudulent,20,3,1,0,22,2,1,0,0,0,1,0,1,E1,Oct 10 09:12:51 2023 GMT,Let's Encrypt,2,1,2023-05-14 07:29,0,,0,0,-1
+https://competitiveoutside.com,fraudulent,22,3,0,0,26,1,0,1,1,0,0,0,1,GTS CA 1P5,Oct  4 08:25:44 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 03:15,0,,0,0,-1
+https://www.proportional-dispensers.com,legitimate,31,3,1,0,33,2,1,1,1,0,0,3,1,Sectigo RSA Domain Validation Secure Server CA,Mar  4 23:59:59 2024 GMT,Sectigo Limited,3,0,2017-02-28 20:13,0,-1,0,0,-1
+https://ourstatestore.com,legitimate,17,3,0,0,21,1,0,1,1,1,0,3,1,R3,Sep  5 11:16:48 2023 GMT,Let's Encrypt,2,0,2010-05-03 13:50,0,-1,0,0,-1
+https://www.joyfuldollies.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 21 09:20:03 2023 GMT,Google Trust Services LLC,9,1,2023-05-25 00:00,0,,0,0,-1
+https://www.haulageproduct.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,GTS CA 1P5,Oct 18 09:44:57 2023 GMT,Google Trust Services LLC,9,1,2023-05-22 07:59,0,,0,0,-1
+https://www.furnitoolzhub.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 15 08:00:42 2023 GMT,Google Trust Services LLC,9,1,2023-06-15 08:16,0,,0,0,-1
+https://www.stylehighheel.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct 18 08:21:32 2023 GMT,Let's Encrypt,2,1,2023-07-20 06:07,0,,0,0,-1
+https://www.travelnet.ie,legitimate,16,2,1,0,19,2,0,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Sep 17 23:59:59 2023 GMT,Sectigo Limited,3,0,2001-12-20 00:00,0,-1,0,0,-1
+https://www.paninodipino.nl,legitimate,19,2,1,0,22,2,0,0,0,0,0,0,1,E1,Sep 22 06:08:07 2023 GMT,Let's Encrypt,2,0,2008-12-11 00:00,0,-1,0,0,-1
+https://horkans.ie,legitimate,10,2,0,0,14,1,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,Oct 17 23:59:59 2023 GMT,"Cloudflare, Inc.",1,0,2012-07-17 00:00,1,4.7,0,0,-1
+https://www.salescottonbriefs.com,fraudulent,25,3,1,0,28,2,0,1,1,1,0,0,1,GTS CA 1P5,Oct 22 06:52:31 2023 GMT,Google Trust Services LLC,9,1,2023-07-24 07:44,0,,0,0,-1
+https://sportano.hu,legitimate,11,2,0,0,15,1,0,1,1,0,0,2,1,Cloudflare Inc ECC CA-3,Nov 22 23:59:59 2023 GMT,"Cloudflare, Inc.",1,2,Hidden,0,-1,0,0,-1
+https://www.portugal-natura.com/pt,legitimate,23,3,1,0,27,2,1,0,1,0,0,2,1,R3,Oct 14 08:18:32 2023 GMT,Let's Encrypt,2,0,2017-07-05 09:04,1,3.8,0,0,-1
+https://www.saleshometool.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 24 00:56:39 2023 GMT,Google Trust Services LLC,9,1,2023-07-26 00:00,0,,0,0,-1
+https://topeuro-shop.com,fraudulent,16,3,0,0,19,1,1,1,0,0,1,0,1,R3,Nov 26 09:11:03 2023 GMT,Let's Encrypt,2,0,2017-03-15 21:25,0,,0,0,-1
+https://gilltry.com,fraudulent,11,3,0,0,15,1,0,1,1,0,0,3,1,R3,Oct 12 11:11:31 2023 GMT,Let's Encrypt,2,1,2023-03-16 12:45,0,,0,0,-1
+https://megapharmnorx.com,fraudulent,17,3,0,0,21,1,0,1,0,0,0,0,1,GTS CA 1P5,Oct 12 06:41:16 2023 GMT,Google Trust Services LLC,9,0,2015-05-03 18:39,0,,0,0,-1
+https://aemster.com,legitimate,11,3,0,0,15,1,0,1,1,0,0,2,1,R3,Oct 16 02:23:44 2023 GMT,Let's Encrypt,2,0,2020-12-29 11:59,0,-1,0,0,-1
+https://hurtownia-kesi.pl,legitimate,17,2,0,0,30,2,2,0,1,1,0,2,1,Certum Domain Validation CA SHA2,Jul 20 06:21:20 2024 GMT,Unizeto Technologies S.A.,2,0,2013-05-06 10:09,0,-1,0,0,-1
+https://lifestyle-atelier.com/en,legitimate,21,3,0,0,26,1,1,1,1,0,0,2,1,R3,Sep 14 06:26:53 2023 GMT,Let's Encrypt,2,0,2020-08-05 12:41,0,-1,0,0,-1
+https://theshhhop.com/e,legitimate,13,3,0,0,18,1,0,1,1,1,0,2,1,R3,Oct 19 06:25:55 2023 GMT,Let's Encrypt,2,0,2020-04-18 12:34,0,-1,0,0,-1
+https://aarding.org,legitimate,11,3,0,0,15,1,0,1,1,0,0,2,1,R3,Sep 23 19:14:57 2023 GMT,Let's Encrypt,2,0,2016-09-03 16:16,0,-1,0,0,-1
+https://www.quizclothing.co.uk,legitimate,22,5,1,0,24,3,0,0,1,1,0,2,1,Amazon RSA 2048 M02,Nov  2 23:59:59 2023 GMT,Amazon,6,0,1999-09-16 00:00,1,3.8,1,0,-1
+https://juventas-vet.com,legitimate,16,3,0,0,19,1,1,1,1,0,0,2,1,Certyfikat SSL,Jul  7 00:00:00 2024 GMT,home.pl S.A.,2,0,2020-06-21 11:54,0,-1,0,0,-1
+https://typeoptclothes.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct 13 04:40:11 2023 GMT,Google Trust Services LLC,9,1,2023-05-17 03:35,0,,0,0,-1
+https://www.twidlachannel.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,0,E1,Oct 13 09:42:27 2023 GMT,Let's Encrypt,2,1,2023-05-17 07:08,0,,0,0,-1
+https://outdoorfurniture.ie,legitimate,19,2,0,0,23,1,0,0,0,0,0,3,1,Cloudflare Inc ECC CA-3,Apr 16 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2010-10-11 00:00,1,3.8,0,0,-1
+https://www.pullot-ja-purkit.fi,legitimate,23,2,1,0,24,2,2,1,1,0,0,0,1,E1,Sep 27 19:30:06 2023 GMT,Let's Encrypt,2,0,2021-03-26 00:00,0,-1,0,0,-1
+https://www.apparel-mens.com,fraudulent,20,3,1,0,22,2,1,1,1,0,0,0,1,GTS CA 1P5,Oct  5 06:03:28 2023 GMT,Google Trust Services LLC,9,1,2023-01-02 07:15,0,,0,0,-1
+https://www.bikeaccessoriesneu.com,fraudulent,26,3,1,0,29,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 25 10:49:42 2023 GMT,Google Trust Services LLC,9,1,2023-04-29 07:53,0,,0,0,-1
+https://www.nineraiment.com,fraudulent,19,3,1,0,22,2,0,1,1,1,0,0,1,E1,Oct 17 05:30:04 2023 GMT,Let's Encrypt,2,1,2023-05-21 03:45,0,,0,0,-1
+https://www.mygretchen.com,legitimate,18,3,1,0,21,2,0,1,1,0,0,2,1,R3,Oct 10 09:44:12 2023 GMT,Let's Encrypt,2,0,2006-08-09 10:48,0,-1,0,0,-1
+https://magyar-generikus.com,fraudulent,20,3,0,0,23,1,1,0,0,0,0,0,1,GTS CA 1P5,Oct 20 02:06:03 2023 GMT,Google Trust Services LLC,9,0,2022-02-08 08:47,0,,0,0,-1
+https://www.fashionrooms.com,legitimate,20,3,1,0,23,2,0,1,1,1,1,0,1,Cloudflare Inc ECC CA-3,Sep  4 23:59:59 2023 GMT,"Cloudflare, Inc.",1,0,2007-05-31 02:00,0,-1,0,0,-1
+https://rugbloom.com,legitimate,12,3,0,0,17,1,0,0,0,0,0,0,1,R3,Sep  4 19:38:46 2023 GMT,Let's Encrypt,2,0,2021-01-18 16:50,0,-1,0,0,-1
+https://outfitcampus.com,fraudulent,16,3,0,0,20,1,0,1,1,0,0,0,0,GTS CA 1P5,Oct  4 11:22:03 2023 GMT,Google Trust Services LLC,9,1,2023-05-08 06:12,0,,0,0,-1
+https://www.storemoen.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 27 07:33:58 2023 GMT,Google Trust Services LLC,9,1,2022-09-29 10:18,0,,0,0,-1
+https://www.producttophome.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,0,E1,Oct 14 10:08:28 2023 GMT,Let's Encrypt,2,1,2023-05-18 09:13,0,,0,0,-1
+https://www.homeprotool.com,fraudulent,19,3,1,0,22,2,0,1,1,0,0,0,0,GTS CA 1P5,Sep 17 07:18:50 2023 GMT,Google Trust Services LLC,9,1,2023-06-19 08:07,0,,0,0,-1
+https://www.flaskelandet.dk,legitimate,19,2,1,0,22,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 11:55:40 2023 GMT,Google Trust Services LLC,9,0,2012-11-06 00:00,1,3.9,0,0,-1
+https://www.cookclearance.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 10 08:41:13 2023 GMT,Google Trust Services LLC,9,1,2023-03-16 00:00,0,,0,0,-1
+https://sokameja.lt,legitimate,11,2,0,0,15,1,0,1,0,0,0,2,1,R3,Oct  3 20:13:09 2023 GMT,Let's Encrypt,2,0,2017-09-22 00:00,0,-1,0,0,-1
+https://www.exhilaratsurf.com,fraudulent,21,3,1,0,24,2,0,1,1,0,0,0,1,E1,Oct 11 07:52:05 2023 GMT,Let's Encrypt,2,1,2023-05-15 06:33,0,,0,0,-1
+https://fixpart.dk/d,legitimate,10,2,0,0,15,1,0,0,1,0,0,2,1,R3,Oct 28 17:01:04 2023 GMT,Let's Encrypt,2,0,2021-02-19 00:00,1,4.1,0,0,-1
+https://www.durablelionsteel.com,fraudulent,24,3,1,0,27,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 09:56:38 2023 GMT,Google Trust Services LLC,9,1,2023-03-21 00:00,0,,0,0,-1
+https://www.intersport.cz,legitimate,17,2,1,0,20,2,0,1,0,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Aug 21 23:59:59 2024 GMT,Sectigo Limited,3,0,1998-04-14 02:00,0,-1,0,0,-1
+https://www.eevi.cz,legitimate,11,2,1,0,14,2,0,1,0,0,0,2,1,R3,Oct 15 01:04:59 2023 GMT,Let's Encrypt,2,0,2018-06-11 11:13,0,-1,0,0,-1
+https://www.credomen.com,legitimate,16,3,1,0,19,2,0,1,1,1,0,2,1,Sectigo RSA Organization Validation Secure Server CA,Apr 15 23:59:59 2024 GMT,Sectigo Limited,3,0,2014-06-02 09:48,0,-1,0,0,-1
+https://babyelegance.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,2,1,R3,Nov 21 09:30:41 2023 GMT,Let's Encrypt,2,0,2002-12-10 07:26,1,2.8,0,0,-1
+https://www.futurum.cc,legitimate,14,2,1,0,17,2,0,1,1,1,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Oct 13 23:59:59 2023 GMT,Sectigo Limited,3,0,2013-08-03 20:19,0,-1,0,0,-1
+https://www.decotex.lt,legitimate,14,2,1,0,17,2,0,1,0,0,0,2,0,R3,Sep 10 03:42:27 2023 GMT,Let's Encrypt,2,0,2009-06-11 00:00,0,-1,0,0,-1
+https://bestbuycyprus.com,legitimate,17,3,0,0,21,1,0,1,1,1,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Mar  2 23:59:59 2024 GMT,Sectigo Limited,3,0,2012-08-07 00:00,0,-1,0,0,-1
+https://shop.shakaloha.com/en,legitimate,18,3,0,0,23,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Apr  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2008-07-24 14:46,0,-1,0,0,-1
+https://littlemansrl.com,legitimate,16,3,0,0,20,1,0,1,1,0,0,1,1,R3,Sep  5 00:05:24 2023 GMT,Let's Encrypt,2,0,2020-12-18 15:49,0,-1,0,0,-1
+https://www.pramoga.lt,legitimate,14,2,1,0,17,2,0,0,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Dec 28 23:59:59 2023 GMT,Sectigo Limited,3,0,2013-09-05 00:00,0,-1,0,0,-1
+https://www.goudacheeseshop.com,legitimate,23,3,1,0,26,2,0,1,1,1,0,0,1,Cloudflare Inc ECC CA-3,Feb 10 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2009-03-23 00:00,0,-1,0,0,-1
+https://www.leglove.dk/shop/frontpage.htm,legitimate,14,2,1,0,33,3,0,0,0,0,0,0,1,Sectigo RSA Domain Validation Secure Server CA,Aug  3 23:59:59 2024 GMT,Sectigo Limited,3,0,2014-12-03 00:00,1,4.8,0,0,-1
+https://www.trinkeles.lt,legitimate,16,2,1,0,19,2,0,1,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Jul 17 23:59:59 2024 GMT,Sectigo Limited,3,0,2009-03-05 00:00,0,-1,0,0,-1
+https://www.cutleryall.com,fraudulent,18,3,1,0,21,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 15 08:46:49 2023 GMT,Google Trust Services LLC,9,1,2023-05-19 08:14,0,,0,0,-1
+https://www.mistral.com,legitimate,15,3,1,0,18,2,0,0,0,0,0,0,1,Cloudflare Inc ECC CA-3,Feb 11 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,1995-05-05 04:00,1,1.5,0,0,-1
+https://www.varle.lt,legitimate,12,2,1,0,15,2,0,1,0,1,0,2,1,GTS CA 1P5,Oct  9 02:09:19 2023 GMT,Google Trust Services LLC,9,0,2009-07-15 00:00,1,1.8,0,0,-1
+https://www.chasubles24.com,legitimate,19,3,1,2,20,2,0,1,1,0,0,1,1,Certum Domain Validation CA SHA2,Dec 21 00:21:13 2023 GMT,Unizeto Technologies S.A.,11,0,2015-06-26 10:14,0,-1,0,0,-1
+https://www.salegolfshop.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,E1,Oct 18 06:53:22 2023 GMT,Let's Encrypt,2,1,2023-07-20 00:00,0,,0,0,-1
+https://www.floorprada.com,fraudulent,18,3,1,0,21,2,0,1,1,1,1,0,1,Cloudflare Inc ECC CA-3,Jan 24 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-11-14 06:42,0,,0,0,-1
+https://www.enigmacos.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 25 10:43:23 2023 GMT,Google Trust Services LLC,9,1,2023-05-29 00:00,0,,0,0,-1
+https://www.sturdybicycleus.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 18 05:02:56 2023 GMT,Google Trust Services LLC,9,1,2023-07-20 05:44,0,,0,0,-1
+https://fersenwelpenhaus.de,fraudulent,19,2,0,0,23,1,0,0,0,0,0,2,0,R3,Oct 19 10:47:42 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://www.ral-farben.de,legitimate,17,2,1,0,19,2,1,0,0,0,0,3,1,R3,Aug 31 14:18:58 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.menhigh-level.com,fraudulent,21,3,1,0,23,2,1,1,1,0,0,0,1,E1,Nov 13 01:52:45 2023 GMT,Let's Encrypt,2,1,2023-08-15 02:44,0,,0,0,-1
+https://www.chicwearheaven.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 16 11:26:11 2023 GMT,Google Trust Services LLC,9,1,2023-04-20 05:49,0,,0,0,-1
+https://cheffix.eu,legitimate,10,2,0,0,14,1,0,0,1,0,0,0,1,GTS CA 1P5,Oct 20 18:20:14 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,-1,0,0,-1
+https://www.computersalenew.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep 30 10:08:15 2023 GMT,Google Trust Services LLC,9,1,2023-05-04 06:14,0,,0,0,-1
+https://www.kindsoftools.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  4 01:52:13 2023 GMT,Google Trust Services LLC,9,1,2023-06-06 00:00,0,,0,0,-1
+https://www.kamagrashop24.com,fraudulent,21,3,1,2,22,2,0,0,0,0,0,0,0,E1,Oct  1 07:20:03 2023 GMT,Let's Encrypt,2,0,2021-07-05 10:13,0,,0,0,-1
+https://www.zalando.co.uk,legitimate,17,5,1,0,19,3,0,1,1,1,0,2,1,DigiCert TLS RSA SHA256 2020 CA1,Dec  6 23:59:59 2023 GMT,DigiCert Inc,7,0,2008-08-19 00:00,1,2.3,1,0,-1
+https://www.bfarmacia.com,fraudulent,17,3,1,0,20,2,0,0,0,0,0,0,0,R3,Oct  5 00:27:14 2023 GMT,Let's Encrypt,2,0,2020-04-13 21:52,0,,0,0,-1
+https://ivyoak.com,legitimate,10,3,0,0,14,1,0,1,1,0,0,2,1,R3,Oct  4 02:02:28 2023 GMT,Let's Encrypt,2,0,2017-03-14 18:14,1,2.9,0,0,-1
+https://www.withmysunglasses.com,legitimate,24,3,1,0,27,2,0,1,1,0,0,2,1,R3,Sep  2 17:07:07 2023 GMT,Let's Encrypt,2,0,2015-12-03 12:01,0,-1,0,0,-1
+https://yndrm.bio,fraudulent,9,3,0,0,13,1,0,0,0,0,0,2,0,R3,Oct 25 07:35:29 2023 GMT,Let's Encrypt,2,1,2023-07-27 00:00,0,,0,0,-1
+https://www.pipstudio.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,2,1,R3,Oct  2 23:23:40 2023 GMT,Let's Encrypt,2,0,2005-06-17 15:27,1,2.6,0,0,-1
+https://www.knivesoff.com,fraudulent,17,3,1,0,20,2,0,1,1,0,0,3,1,GTS CA 1P5,Oct 17 01:03:26 2023 GMT,Google Trust Services LLC,9,1,2023-07-19 01:53,0,,0,0,-1
+https://dakiheaven.eu,legitimate,13,2,0,0,17,1,0,1,1,0,0,2,1,R3,Sep 29 00:14:50 2023 GMT,Let's Encrypt,2,2,Hidden,1,4.4,0,0,-1
+https://www.monsoon.co.uk,legitimate,17,5,1,0,19,3,0,1,1,1,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Apr 23 23:59:59 2024 GMT,Sectigo Limited,3,2,Hidden,1,4,1,0,-1
+https://www.einfachbaby.de,fraudulent,18,2,1,0,21,2,0,1,1,0,0,2,1,R3,Oct 21 09:51:16 2023 GMT,Let's Encrypt,2,2,Hidden,0,,0,0,-1
+https://useclecticshop.com,fraudulent,18,3,0,0,22,1,0,1,1,0,0,0,1,E1,Oct 12 06:45:15 2023 GMT,Let's Encrypt,2,1,2023-05-16 05:42,0,,0,0,-1
+https://www.designsswimsuit.com,fraudulent,23,3,1,0,26,2,0,1,1,0,1,0,1,GTS CA 1P5,Sep 14 07:38:12 2023 GMT,Google Trust Services LLC,9,1,2023-06-16 08:26,0,,0,0,-1
+https://www.salecampingshop.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,E1,Oct 17 06:13:59 2023 GMT,Let's Encrypt,2,1,2023-07-19 06:59,0,,0,0,-1
+https://www.loakeofficial.com,fraudulent,21,3,1,0,24,2,0,0,1,0,0,1,0,Cloudflare Inc ECC CA-3,Jun  9 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2023-06-11 09:32,0,,0,0,-1
+https://coffeeclick.ie,legitimate,14,2,0,0,18,1,0,1,1,1,1,2,1,R3,Oct 27 21:20:06 2023 GMT,Let's Encrypt,2,0,2016-06-08 00:00,1,4.8,0,0,-1
+https://www.onsaleqsstools.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 27 08:26:55 2023 GMT,Google Trust Services LLC,9,1,2023-07-29 09:19,0,,0,0,-1
+https://www.fairybell.com/en,legitimate,17,3,1,0,22,2,0,1,1,0,0,2,0,Cloudflare Inc ECC CA-3,Jun 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,2015-09-29 18:17,1,2.8,0,0,-1
+https://www.jbhifi.com.au,legitimate,17,6,1,0,19,3,0,1,1,0,0,0,1,GlobalSign Domain Validation CA - SHA256 - G3,Sep 18 08:05:33 2023 GMT,GlobalSign nv-sa,8,2,Hidden,1,2.1,0,0,-1
+https://www.apharmacie.com,fraudulent,18,3,1,0,21,2,0,0,0,0,0,0,1,R3,Oct  1 04:05:26 2023 GMT,Let's Encrypt,2,0,2021-02-17 09:34,0,,0,0,-1
+https://theamisycompany.com,legitimate,19,3,0,0,23,1,0,1,1,1,0,1,1,R3,Sep 18 00:37:22 2023 GMT,Let's Encrypt,2,0,2018-04-13 10:58,0,-1,0,0,-1
+https://www.eurocarparts.com,legitimate,20,3,1,0,23,2,0,1,1,1,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Aug 19 23:59:59 2023 GMT,Sectigo Limited,3,0,1999-02-25 05:00,1,3.9,1,0,-1
+https://www.agofstore.com,legitimate,17,3,1,0,20,2,0,0,0,0,0,0,1,GeoTrust EV RSA CA 2018,Nov 21 23:59:59 2023 GMT,DigiCert Inc,7,0,2010-12-18 00:00,1,4.3,0,0,-1
+https://www.feuerwear.com,legitimate,17,3,1,0,20,2,0,1,1,1,0,3,1,Amazon RSA 2048 M01,Feb 21 23:59:59 2024 GMT,Amazon,6,0,2009-04-01 17:03,1,3.9,0,0,-1
+https://www.kitchenwarehubde.com,fraudulent,24,3,1,0,27,2,0,1,1,1,0,0,1,GTS CA 1P5,Sep 21 06:49:28 2023 GMT,Google Trust Services LLC,9,1,2023-06-23 07:42,0,,0,0,-1
+https://www.boldano.de,fraudulent,14,2,1,0,17,2,0,1,0,1,0,0,1,GTS CA 1P5,Oct 18 04:04:36 2023 GMT,Google Trust Services LLC,9,2,Hidden,0,,0,0,-1
+https://weinteufel.de,legitimate,13,2,0,0,17,1,0,1,1,0,1,2,0,R3,Sep 17 02:43:51 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://www.77onlineshop.eu,legitimate,19,2,1,2,20,2,0,1,1,1,0,2,0,AlphaSSL CA - SHA256 - G4,Apr 24 15:09:09 2024 GMT,GlobalSign nv-sa,8,2,Hidden,1,3.2,0,0,-1
+https://www.ivabriketts.com,fraudulent,19,3,1,0,22,2,0,0,0,0,0,2,1,R3,Sep 15 18:38:56 2023 GMT,Let's Encrypt,2,1,2022-08-15 17:42,0,,0,0,-1
+https://www.fishapparelshoe.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,0,R3,Aug 18 15:12:25 2023 GMT,Let's Encrypt,2,1,2023-01-11 00:00,0,,0,0,-1
+https://www.girlstrenduk.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 19 11:44:30 2023 GMT,Google Trust Services LLC,9,1,2023-03-16 00:00,0,,0,0,-1
+https://www.ensuenosecuador.com,fraudulent,23,3,1,0,26,2,0,1,0,0,0,0,1,Cloudflare Inc ECC CA-3,Jan 26 23:59:59 2024 GMT,"Cloudflare, Inc.",1,1,2022-11-09 03:06,0,,0,0,-1
+https://www.salemotorsports.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct 24 05:53:56 2023 GMT,Google Trust Services LLC,9,1,2023-07-26 06:50,0,,0,0,-1
+https://potentialmill.com,fraudulent,17,3,0,0,21,1,0,1,0,0,0,1,1,R3,Oct 19 06:34:05 2023 GMT,Let's Encrypt,2,0,2021-03-29 10:54,0,,0,0,-1
+https://www.maximilian.it/en,legitimate,17,2,1,0,22,2,0,1,1,1,0,2,1,R3,Aug 31 20:21:14 2023 GMT,Let's Encrypt,2,0,2000-10-26 00:00,1,3.8,0,0,-1
+https://veloklinika.lt,legitimate,14,2,0,0,18,1,0,1,1,0,0,2,1,R3,Oct  1 01:49:48 2023 GMT,Let's Encrypt,2,0,2016-10-14 00:00,0,-1,0,0,-1
+https://www.medikos.lt,legitimate,14,2,1,0,17,2,0,1,1,1,0,2,1,R3,Oct 12 03:10:37 2023 GMT,Let's Encrypt,2,0,2013-06-07 00:00,0,-1,0,0,-1
+https://www.vynokerai.lt,legitimate,16,2,1,0,19,2,0,1,0,0,0,2,1,R3,Sep  1 02:54:07 2023 GMT,Let's Encrypt,2,0,2020-08-11 00:00,0,-1,0,0,-1
+https://store.dji.com/l,legitimate,13,3,0,0,17,2,0,1,1,0,0,3,1,Amazon RSA 2048 M01,Jan 25 23:59:59 2024 GMT,Amazon,6,0,1996-01-16 05:00,1,2.1,0,0,-1
+https://www.emporiumcosplay.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,E1,Sep 28 02:50:05 2023 GMT,Let's Encrypt,2,1,2023-06-30 03:27,0,,0,0,-1
+https://www.chasin.com,legitimate,14,3,1,0,17,2,0,1,1,1,0,2,1,Sectigo RSA Extended Validation Secure Server CA,Jun 20 23:59:59 2024 GMT,Sectigo Limited,3,0,2000-02-23 09:08,0,-1,1,0,-1
+https://patakhay.com,fraudulent,12,3,0,0,16,1,0,0,0,0,0,0,0,R3,Oct 12 08:09:11 2023 GMT,Let's Encrypt,2,1,2023-07-14 08:18,0,,0,0,-1
+https://www.scandinavian-lifestyle.de,legitimate,29,2,1,0,31,2,1,1,1,0,0,2,1,RapidSSL Global TLS RSA4096 SHA256 2022 CA1,Jun  4 23:59:59 2024 GMT,DigiCert Inc,7,2,Hidden,0,-1,0,0,-1
+https://q2wholesale.nl,legitimate,14,2,0,1,17,1,0,1,0,0,0,2,1,Sectigo RSA Domain Validation Secure Server CA,Sep 16 23:59:59 2023 GMT,Sectigo Limited,3,0,2014-02-11 00:00,0,-1,0,0,-1
+https://sockwell.eu,legitimate,11,2,0,0,15,1,0,1,1,1,0,2,1,R3,Sep 14 21:58:50 2023 GMT,Let's Encrypt,2,2,Hidden,0,-1,0,0,-1
+https://mythsandmagic.myshopify.com,legitimate,27,13,0,0,30,2,0,1,1,0,0,1,1,Cloudflare Inc ECC CA-3,Sep 21 23:59:59 2023 GMT,"Cloudflare, Inc.",1,0,2006-03-03 03:01,0,-1,0,0,-1
+https://cottonstories.pl,legitimate,16,2,0,0,20,1,0,0,0,0,0,2,1,Shoper SSL,Dec  7 23:04:32 2023 GMT,Dreamcommerce S.A.,11,0,2020-04-23 19:17,0,-1,0,0,-1
+https://fabrap.co,legitimate,9,2,0,0,13,1,0,1,1,0,0,2,1,R3,Sep  1 02:59:32 2023 GMT,Let's Encrypt,2,0,2018-10-09 10:24,0,-1,0,0,-1
+https://www.knitwearonlienshop.com,fraudulent,26,3,1,0,29,2,0,1,1,1,0,0,1,E1,Oct 25 04:12:15 2023 GMT,Let's Encrypt,2,1,2023-07-27 04:53,0,,0,0,-1
+https://nikinclothing.com,legitimate,17,3,0,0,21,1,0,1,1,0,0,2,1,R3,Oct 13 02:28:24 2023 GMT,Let's Encrypt,2,0,2017-02-01 23:41,1,3.9,0,0,-1
+https://www.gardentoolhome.com,fraudulent,22,3,1,0,25,2,0,1,1,0,0,0,1,GTS CA 1P5,Oct  2 07:12:37 2023 GMT,Google Trust Services LLC,9,1,2023-07-03 00:00,0,,0,0,-1
+https://www.chichomeitem.com,fraudulent,20,3,1,0,23,2,0,1,1,0,0,3,1,E1,Nov 17 09:35:46 2023 GMT,Let's Encrypt,2,1,2023-06-21 06:35,0,,0,0,-1
+https://www.adventuregearup.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,E1,Oct  5 03:27:09 2023 GMT,Let's Encrypt,2,1,2023-07-07 00:00,0,,0,0,-1
+https://sportfits.eu,legitimate,12,2,0,0,16,1,0,1,1,0,0,2,1,R3,Oct 21 10:12:10 2023 GMT,Let's Encrypt,2,2,Hidden,1,3.9,0,0,-1
+https://www.tinneystoys.com,legitimate,19,3,1,0,28,2,0,1,1,0,0,0,1,GeoTrust Global TLS RSA4096 SHA256 2022 CA1,Oct 23 23:59:59 2023 GMT,DigiCert Inc,7,0,2014-05-13 16:16,1,4.8,0,0,-1
+https://kalistara.lt,legitimate,12,2,0,0,16,1,0,1,0,0,0,0,0,R3,Oct  6 21:32:22 2023 GMT,Let's Encrypt,2,0,2015-01-30 00:00,0,-1,0,0,-1
+https://www.allkindsoftools.com,fraudulent,23,3,1,0,26,2,0,1,1,0,0,0,1,GTS CA 1P5,Sep  3 04:22:33 2023 GMT,Google Trust Services LLC,9,1,2023-06-05 00:00,0,,0,0,-1
+https://www.arlton.shop,fraudulent,15,4,1,0,18,2,0,1,1,0,0,3,1,GTS CA 1P5,Oct 29 11:30:40 2023 GMT,Google Trust Services LLC,9,0,None,0,,0,0,-1
+https://www.ghingwala.shop,fraudulent,18,4,1,0,21,2,0,0,0,1,0,0,0,Cloudflare Inc ECC CA-3,Mar 16 23:59:59 2024 GMT,"Cloudflare, Inc.",1,0,None,0,,0,0,-1
